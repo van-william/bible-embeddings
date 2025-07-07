@@ -1,0 +1,67 @@
+book,testament,category,verse_count,chunk_count,author,genre
+1 Chronicles,OT,Historical,942,29,Unknown/Multiple,Narrative
+1 Corinthians,NT,Paul's Epistles,437,16,Paul,Epistolary
+1 John,NT,General Epistles,105,1,John,Epistolary
+1 Kings,OT,Historical,816,22,Unknown/Multiple,Narrative
+1 Peter,NT,General Epistles,105,1,Peter,Epistolary
+1 Samuel,OT,Historical,810,31,Unknown/Multiple,Narrative
+1 Thessalonians,NT,Paul's Epistles,89,1,Paul,Epistolary
+1 Timothy,NT,Paul's Epistles,113,1,Paul,Epistolary
+2 Chronicles,OT,Historical,822,36,Unknown/Multiple,Narrative
+2 Corinthians,NT,Paul's Epistles,257,13,Paul,Epistolary
+2 John,NT,General Epistles,13,1,John,Epistolary
+2 Kings,OT,Historical,719,25,Unknown/Multiple,Narrative
+2 Peter,NT,General Epistles,61,1,Peter,Epistolary
+2 Samuel,OT,Historical,695,24,Unknown/Multiple,Narrative
+2 Thessalonians,NT,Paul's Epistles,47,1,Paul,Epistolary
+2 Timothy,NT,Paul's Epistles,83,1,Paul,Epistolary
+3 John,NT,General Epistles,14,1,John,Epistolary
+Acts,NT,Early Church,1003,28,Luke,Narrative
+Amos,OT,Minor Prophets,146,1,Unknown/Multiple,Prophetic
+Colossians,NT,Paul's Epistles,95,1,Paul,Epistolary
+Daniel,OT,Major Prophets,357,12,Daniel,Apocalyptic
+Deuteronomy,OT,Law (Torah),959,34,Moses,Legal
+Ecclesiastes,OT,Wisdom,222,1,Solomon,Poetry
+Ephesians,NT,Paul's Epistles,155,1,Paul,Epistolary
+Esther,OT,Historical,167,1,Unknown/Multiple,Narrative
+Exodus,OT,Law (Torah),1213,40,Moses,Legal
+Ezekiel,OT,Major Prophets,1273,48,Ezekiel,Prophetic
+Ezra,OT,Historical,280,10,Unknown/Multiple,Narrative
+Galatians,NT,Paul's Epistles,149,1,Paul,Epistolary
+Genesis,OT,Law (Torah),1533,50,Moses,Narrative
+Habakkuk,OT,Minor Prophets,56,1,Unknown/Multiple,Prophetic
+Haggai,OT,Minor Prophets,38,1,Unknown/Multiple,Prophetic
+Hebrews,NT,General Epistles,303,13,Unknown/Multiple,Epistolary
+Hosea,OT,Minor Prophets,197,1,Unknown/Multiple,Prophetic
+Isaiah,OT,Major Prophets,1292,66,Isaiah,Prophetic
+James,NT,General Epistles,108,1,Unknown/Multiple,Epistolary
+Jeremiah,OT,Major Prophets,1364,52,Jeremiah,Prophetic
+Job,OT,Wisdom,1070,42,Unknown/Multiple,Poetry
+Joel,OT,Minor Prophets,73,1,Unknown/Multiple,Prophetic
+John,NT,Gospels,878,21,John,Narrative
+Jonah,OT,Minor Prophets,48,1,Unknown/Multiple,Prophetic
+Joshua,OT,Historical,658,24,Unknown/Multiple,Narrative
+Jude,NT,General Epistles,25,1,Unknown/Multiple,Epistolary
+Judges,OT,Historical,618,21,Unknown/Multiple,Narrative
+Lamentations,OT,Major Prophets,154,1,Jeremiah,Poetry
+Leviticus,OT,Law (Torah),859,27,Moses,Legal
+Luke,NT,Gospels,1149,24,Luke,Narrative
+Malachi,OT,Minor Prophets,55,1,Unknown/Multiple,Prophetic
+Mark,NT,Gospels,673,16,Unknown/Multiple,Narrative
+Matthew,NT,Gospels,1068,28,Unknown/Multiple,Narrative
+Micah,OT,Minor Prophets,105,1,Unknown/Multiple,Prophetic
+Nahum,OT,Minor Prophets,47,1,Unknown/Multiple,Prophetic
+Nehemiah,OT,Historical,406,13,Unknown/Multiple,Narrative
+Numbers,OT,Law (Torah),1288,36,Moses,Legal
+Obadiah,OT,Minor Prophets,21,1,Unknown/Multiple,Prophetic
+Philemon,NT,Paul's Epistles,25,1,Paul,Epistolary
+Philippians,NT,Paul's Epistles,104,1,Paul,Epistolary
+Proverbs,OT,Wisdom,915,31,Solomon,Poetry
+Psalm,OT,Other,2461,150,Unknown,Other
+Revelation,NT,Apocalyptic,404,22,John,Apocalyptic
+Romans,NT,Paul's Epistles,432,16,Paul,Epistolary
+Ruth,OT,Historical,85,1,Unknown/Multiple,Narrative
+Song of Solomon,OT,Wisdom,117,1,Solomon,Poetry
+Titus,NT,Paul's Epistles,46,1,Paul,Epistolary
+Zechariah,OT,Minor Prophets,211,1,Unknown/Multiple,Prophetic
+Zephaniah,OT,Minor Prophets,53,1,Unknown/Multiple,Prophetic

@@ -1,0 +1,263 @@
+{
+  "book_categories": {
+    "Law (Torah)": [
+      "Genesis",
+      "Exodus",
+      "Leviticus",
+      "Numbers",
+      "Deuteronomy"
+    ],
+    "Historical": [
+      "Joshua",
+      "Judges",
+      "Ruth",
+      "1 Samuel",
+      "2 Samuel",
+      "1 Kings",
+      "2 Kings",
+      "1 Chronicles",
+      "2 Chronicles",
+      "Ezra",
+      "Nehemiah",
+      "Esther"
+    ],
+    "Wisdom": [
+      "Job",
+      "Psalms",
+      "Proverbs",
+      "Ecclesiastes",
+      "Song of Solomon"
+    ],
+    "Major Prophets": [
+      "Isaiah",
+      "Jeremiah",
+      "Lamentations",
+      "Ezekiel",
+      "Daniel"
+    ],
+    "Minor Prophets": [
+      "Hosea",
+      "Joel",
+      "Amos",
+      "Obadiah",
+      "Jonah",
+      "Micah",
+      "Nahum",
+      "Habakkuk",
+      "Zephaniah",
+      "Haggai",
+      "Zechariah",
+      "Malachi"
+    ],
+    "Gospels": [
+      "Matthew",
+      "Mark",
+      "Luke",
+      "John"
+    ],
+    "Early Church": [
+      "Acts"
+    ],
+    "Paul's Epistles": [
+      "Romans",
+      "1 Corinthians",
+      "2 Corinthians",
+      "Galatians",
+      "Ephesians",
+      "Philippians",
+      "Colossians",
+      "1 Thessalonians",
+      "2 Thessalonians",
+      "1 Timothy",
+      "2 Timothy",
+      "Titus",
+      "Philemon"
+    ],
+    "General Epistles": [
+      "Hebrews",
+      "James",
+      "1 Peter",
+      "2 Peter",
+      "1 John",
+      "2 John",
+      "3 John",
+      "Jude"
+    ],
+    "Apocalyptic": [
+      "Revelation"
+    ]
+  },
+  "author_groupings": {
+    "Moses": [
+      "Genesis",
+      "Exodus",
+      "Leviticus",
+      "Numbers",
+      "Deuteronomy"
+    ],
+    "David": [
+      "Psalms"
+    ],
+    "Solomon": [
+      "Proverbs",
+      "Ecclesiastes",
+      "Song of Solomon"
+    ],
+    "Isaiah": [
+      "Isaiah"
+    ],
+    "Jeremiah": [
+      "Jeremiah",
+      "Lamentations"
+    ],
+    "Ezekiel": [
+      "Ezekiel"
+    ],
+    "Daniel": [
+      "Daniel"
+    ],
+    "Paul": [
+      "Romans",
+      "1 Corinthians",
+      "2 Corinthians",
+      "Galatians",
+      "Ephesians",
+      "Philippians",
+      "Colossians",
+      "1 Thessalonians",
+      "2 Thessalonians",
+      "1 Timothy",
+      "2 Timothy",
+      "Titus",
+      "Philemon"
+    ],
+    "Luke": [
+      "Luke",
+      "Acts"
+    ],
+    "John": [
+      "John",
+      "1 John",
+      "2 John",
+      "3 John",
+      "Revelation"
+    ],
+    "Peter": [
+      "1 Peter",
+      "2 Peter"
+    ],
+    "Unknown/Multiple": [
+      "Joshua",
+      "Judges",
+      "Ruth",
+      "1 Samuel",
+      "2 Samuel",
+      "1 Kings",
+      "2 Kings",
+      "1 Chronicles",
+      "2 Chronicles",
+      "Ezra",
+      "Nehemiah",
+      "Esther",
+      "Job",
+      "Matthew",
+      "Mark",
+      "Hebrews",
+      "James",
+      "Jude",
+      "Hosea",
+      "Joel",
+      "Amos",
+      "Obadiah",
+      "Jonah",
+      "Micah",
+      "Nahum",
+      "Habakkuk",
+      "Zephaniah",
+      "Haggai",
+      "Zechariah",
+      "Malachi"
+    ]
+  },
+  "literary_genres": {
+    "Legal": [
+      "Exodus",
+      "Leviticus",
+      "Numbers",
+      "Deuteronomy"
+    ],
+    "Narrative": [
+      "Genesis",
+      "Joshua",
+      "Judges",
+      "Ruth",
+      "1 Samuel",
+      "2 Samuel",
+      "1 Kings",
+      "2 Kings",
+      "1 Chronicles",
+      "2 Chronicles",
+      "Ezra",
+      "Nehemiah",
+      "Esther",
+      "Matthew",
+      "Mark",
+      "Luke",
+      "John",
+      "Acts"
+    ],
+    "Poetry": [
+      "Job",
+      "Psalms",
+      "Proverbs",
+      "Ecclesiastes",
+      "Song of Solomon",
+      "Lamentations"
+    ],
+    "Prophetic": [
+      "Isaiah",
+      "Jeremiah",
+      "Ezekiel",
+      "Daniel",
+      "Hosea",
+      "Joel",
+      "Amos",
+      "Obadiah",
+      "Jonah",
+      "Micah",
+      "Nahum",
+      "Habakkuk",
+      "Zephaniah",
+      "Haggai",
+      "Zechariah",
+      "Malachi"
+    ],
+    "Epistolary": [
+      "Romans",
+      "1 Corinthians",
+      "2 Corinthians",
+      "Galatians",
+      "Ephesians",
+      "Philippians",
+      "Colossians",
+      "1 Thessalonians",
+      "2 Thessalonians",
+      "1 Timothy",
+      "2 Timothy",
+      "Titus",
+      "Philemon",
+      "Hebrews",
+      "James",
+      "1 Peter",
+      "2 Peter",
+      "1 John",
+      "2 John",
+      "3 John",
+      "Jude"
+    ],
+    "Apocalyptic": [
+      "Daniel",
+      "Revelation"
+    ]
+  }
+}
