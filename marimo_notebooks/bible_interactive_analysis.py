@@ -42,12 +42,23 @@ def __(mo):
     mo.md("""
     # 📖 Interactive Bible Embeddings Analysis
     
-    **Goal**: Explore how Bible books relate to each other through embeddings
-    - **Book relationships**: Which books are most similar?
-    - **OT vs NT analysis**: How distinct are the testaments?
-    - **Convergence points**: Where do OT and NT themes overlap?
+    **Goal**: Explore how Bible books relate to each other through semantic embeddings
     
-    **Data Source**: Neon Database (single source of truth)
+    ### 🎯 **Analysis Objectives**
+    - **📚 Book Relationships**: Which books are most semantically similar?
+    - **🔍 OT vs NT Analysis**: How distinct are the testaments in embedding space?
+    - **🔄 Convergence Points**: Where do OT and NT themes overlap?
+    - **📊 Similarity Patterns**: Discover thematic clusters and literary connections
+    
+    ### 📈 **Interactive Features**
+    - **Real-time visualization** with multiple dimensionality reduction methods
+    - **Dynamic book selection** for similarity analysis
+    - **Cross-testament convergence** rankings
+    - **Quantitative separation metrics** with interpretation
+    
+    **Data Source**: Neon PostgreSQL Database (single source of truth)
+    
+    ---
     """)
     return
 
@@ -85,13 +96,27 @@ def __(mo, os, pd, psycopg2):
     
     if book_df is not None:
         mo.md(f"""
-        ✅ **Data Loaded Successfully**
-        - 📖 Book chunks: {len(book_df):,}
-        - 📚 Chapter chunks: {len(chapter_df):,}
-        - 🔗 Testament distribution: {book_df['testament'].value_counts().to_dict()}
+        ## ✅ **Data Loaded Successfully**
+        
+        ### 📊 **Dataset Overview**
+        - **📖 Book chunks**: {len(book_df):,}
+        - **📚 Chapter chunks**: {len(chapter_df):,}
+        - **🔗 Testament distribution**: {book_df['testament'].value_counts().to_dict()}
+        
+        ### 🎯 **Ready for Analysis**
+        All data has been loaded from the Neon database and is ready for interactive exploration.
         """)
     else:
-        mo.md("❌ **Error**: Could not load data. Check DATABASE_URL environment variable.")
+        mo.md("""
+        ## ❌ **Error Loading Data**
+        
+        Could not load data from the database. Please check:
+        - **DATABASE_URL** environment variable is set correctly
+        - **Database connection** is active and accessible
+        - **Tables exist** (`book_chunks`, `chapter_chunks`)
+        
+        Run `python bible_embeddings.py` first to populate the database.
+        """)
     return book_df, chapter_df, load_bible_data
 
 
@@ -171,9 +196,15 @@ def __(book_df, book_embeddings, np, pd):
 def __(aggregated_df, mo):
     if aggregated_df is not None:
         mo.md(f"""
-        📊 **Canonical Bible Books**: {len(aggregated_df)} books aggregated
+        ## 📊 **Canonical Bible Books Aggregated**
+        
+        ### 📖 **Book Distribution**
+        - **Total Books**: {len(aggregated_df)} canonical books
         - **Old Testament**: {len(aggregated_df[aggregated_df['testament'] == 'OT'])} books
         - **New Testament**: {len(aggregated_df[aggregated_df['testament'] == 'NT'])} books
+        
+        ### 🎯 **Ready for Analysis**
+        Books have been aggregated from individual chunks into canonical 66-book representation for analysis.
         """)
     return
 
@@ -181,7 +212,22 @@ def __(aggregated_df, mo):
 @app.cell
 def __(mo):
     # Interactive controls
-    mo.md("## 🎛️ Interactive Controls")
+    mo.md("""
+    ## 🎛️ **Interactive Controls**
+    
+    Use the dropdown menus below to customize your analysis:
+    
+    ### 📊 **Analysis Type**
+    Choose what type of analysis to perform:
+    - **Testament Separation**: Visualize OT vs NT clustering
+    - **Book Similarities**: Find most similar books to a selected book
+    - **Cross-Testament Convergence**: Discover OT-NT thematic bridges
+    
+    ### 📈 **Visualization Method**
+    Select dimensionality reduction technique:
+    - **PCA**: Principal Component Analysis (linear, preserves variance)
+    - **t-SNE**: t-Distributed Stochastic Neighbor Embedding (non-linear, preserves local structure)
+    """)
     return
 
 
@@ -396,14 +442,18 @@ def __(aggregated_df, aggregated_embeddings, cosine_similarity, mo, np):
         nt_avg_similarity = np.mean(nt_upper)
         
         mo.md(f"""
-        ## 📊 Testament Separation Analysis
+        ## 📊 **Testament Separation Analysis**
         
-        - **OT ↔ NT similarity**: {testament_similarity:.3f}
-        - **Average OT internal similarity**: {ot_avg_similarity:.3f}  
-        - **Average NT internal similarity**: {nt_avg_similarity:.3f}
+        ### 🔍 **Quantitative Metrics**
+        - **OT ↔ NT similarity**: `{testament_similarity:.3f}`
+        - **Average OT internal similarity**: `{ot_avg_similarity:.3f}`
+        - **Average NT internal similarity**: `{nt_avg_similarity:.3f}`
         
-        **Interpretation**: 
-        {"✅ Good separation - testaments are more distinct from each other than books within testaments" if testament_similarity < min(ot_avg_similarity, nt_avg_similarity) else "⚠️ Limited separation - testaments show significant overlap"}
+        ### 📈 **Interpretation**
+        {"✅ **Excellent Separation**: Old and New Testaments are more semantically distinct from each other than books within each testament. This suggests clear thematic boundaries between the testaments." if testament_similarity < min(ot_avg_similarity, nt_avg_similarity) else "⚠️ **Limited Separation**: Old and New Testaments show significant thematic overlap. This could indicate strong continuity in themes across testaments."}
+        
+        ### 🎯 **Key Insight**
+        {"The analysis reveals clear semantic boundaries between Old and New Testaments, suggesting distinct theological and literary characteristics." if testament_similarity < min(ot_avg_similarity, nt_avg_similarity) else "The analysis shows significant thematic continuity between Old and New Testaments, indicating strong theological connections."}
         """)
     return (
         nt_avg_similarity,
@@ -423,20 +473,48 @@ def __(aggregated_df, aggregated_embeddings, cosine_similarity, mo, np):
 @app.cell
 def __(mo):
     mo.md("""
-    ## 🎯 Key Insights
+    ## 🎯 Key Insights Summary
     
-    This interactive analysis helps answer:
+    This interactive analysis helps answer fundamental questions about biblical text relationships:
     
-    1. **Book Relationships**: Use the book similarity analysis to explore which books share similar themes and language patterns
+    ### 📚 **Book Relationships**
+    Use the book similarity analysis to explore which books share similar themes and language patterns. This reveals:
+    - **Thematic clusters** within each testament
+    - **Literary relationships** between books  
+    - **Theological connections** across different genres
     
-    2. **Testament Distinction**: The PCA/t-SNE visualization shows how well the Old and New Testaments cluster separately in semantic space
+    ### 🔍 **Testament Distinction**
+    The PCA/t-SNE visualization shows how well the Old and New Testaments cluster separately in semantic space, revealing:
+    - **Semantic boundaries** between testaments
+    - **Thematic continuity** or discontinuity
+    - **Natural groupings** of related books
     
-    3. **Convergence Points**: Cross-testament analysis reveals where OT and NT books share the most thematic similarity, potentially indicating prophetic fulfillment or shared theological concepts
+    ### 🔄 **Cross-Testament Convergence**
+    Cross-testament analysis reveals where OT and NT books share the most thematic similarity, potentially indicating:
+    - **Prophetic fulfillment patterns**
+    - **Shared theological themes**
+    - **Literary or stylistic connections**
     
-    **Technical Notes**:
-    - Embeddings: Google text-embedding-004 (768 dimensions)
-    - Similarity: Cosine similarity metric
-    - Data: Neon database as single source of truth
+    ---
+    
+    ## 🔧 Technical Details
+    
+    **Methodology:**
+    - **Embedding Model**: Google text-embedding-004 (768 dimensions)
+    - **Similarity Metric**: Cosine similarity (range: -1 to 1)
+    - **Dimensionality Reduction**: PCA and t-SNE for visualization
+    - **Data Source**: Neon PostgreSQL database (single source of truth)
+    - **Book Coverage**: All 66 canonical books included
+    
+    **Interactive Features:**
+    - **Real-time analysis** with dropdown selections
+    - **Multiple visualization methods** (PCA, t-SNE)
+    - **Detailed similarity matrices** and rankings
+    - **Cross-testament convergence** analysis
+    
+    ---
+    
+    *This interactive analysis complements the comprehensive static reports in the `results/` directory.*
     """)
     return
 
