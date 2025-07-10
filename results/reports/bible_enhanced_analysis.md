@@ -1,6 +1,6 @@
 # 📖 Enhanced Bible Embeddings Analysis
 
-*Generated on: 2025-07-06 20:08:31*
+*Generated on: 2025-07-10 13:27:28*
 
 **Data Source**: Neon Database (single source of truth)
 

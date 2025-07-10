@@ -788,6 +788,152 @@ class BibleAnalyzer:
         fig.write_html('results/interactive_bible_analysis.html')
         print("✅ Interactive visualization saved as 'results/interactive_bible_analysis.html'")
     
+    def create_clean_ot_nt_chart(self):
+        """Create a clean, focused OT vs NT chart HTML file with static-style formatting."""
+        print("📊 Creating clean OT vs NT chart...")
+        
+        try:
+            import plotly.graph_objects as go
+        except ImportError:
+            print("⚠️  Plotly not installed. Skipping clean OT vs NT chart.")
+            print("   💡 Install with: uv add plotly")
+            return
+        
+        # Apply PCA
+        pca = PCA(n_components=2)
+        book_pca = pca.fit_transform(self.aggregated_embeddings)
+        
+        # Prepare dataframe
+        plot_df = self.aggregated_df.copy()
+        plot_df['PC1'] = book_pca[:, 0]
+        plot_df['PC2'] = book_pca[:, 1]
+        plot_df['hover_text'] = (
+            plot_df['book'] + '<br>' +
+            'Testament: ' + plot_df['testament'] + '<br>' +
+            'Category: ' + plot_df['category'] + '<br>' +
+            'Verses: ' + plot_df['verse_count'].astype(str)
+        )
+        
+        # Colors and marker style
+        ot_color = '#2E86AB'
+        nt_color = '#A23B72'
+        marker_size = 16
+        marker_line_width = 2
+        
+        # Create figure
+        fig = go.Figure()
+        
+        # OT points
+        ot_mask = plot_df['testament'] == 'OT'
+        fig.add_trace(go.Scatter(
+            x=plot_df[ot_mask]['PC1'],
+            y=plot_df[ot_mask]['PC2'],
+            mode='markers',
+            name='Old Testament',
+            marker=dict(
+                color=ot_color,
+                size=marker_size,
+                line=dict(color='white', width=marker_line_width),
+                opacity=0.85
+            ),
+            hovertext=plot_df[ot_mask]['hover_text'],
+            hoverinfo='text',
+            showlegend=True
+        ))
+        # NT points
+        nt_mask = plot_df['testament'] == 'NT'
+        fig.add_trace(go.Scatter(
+            x=plot_df[nt_mask]['PC1'],
+            y=plot_df[nt_mask]['PC2'],
+            mode='markers',
+            name='New Testament',
+            marker=dict(
+                color=nt_color,
+                size=marker_size,
+                line=dict(color='white', width=marker_line_width),
+                opacity=0.85
+            ),
+            hovertext=plot_df[nt_mask]['hover_text'],
+            hoverinfo='text',
+            showlegend=True
+        ))
+        # Add book labels as annotations (with white background and gray border)
+        for i, row in plot_df.iterrows():
+            fig.add_annotation(
+                x=row['PC1'],
+                y=row['PC2'],
+                text=row['book'],
+                showarrow=False,
+                font=dict(size=11, color='#222', family='Arial Black, Arial, sans-serif'),
+                bgcolor='white',
+                bordercolor='gray',
+                borderwidth=1,
+                borderpad=2,
+                opacity=0.95,
+                xanchor='center',
+                yanchor='bottom',
+            )
+        # Layout
+        fig.update_layout(
+            title=dict(
+                text='<b>(PCA Projection)</b>',
+                x=0.5,
+                font=dict(size=22, color='#222')
+            ),
+            xaxis=dict(
+                title=dict(
+                    text=f'PC1 ({pca.explained_variance_ratio_[0]:.1%} variance)',
+                    font=dict(size=16, color='#222', family='Arial')
+                ),
+                showgrid=True,
+                gridcolor='#e5e5e5',
+                zeroline=False,
+                showline=False,
+                tickfont=dict(size=13, color='#222', family='Arial')
+            ),
+            yaxis=dict(
+                title=dict(
+                    text=f'PC2 ({pca.explained_variance_ratio_[1]:.1%} variance)',
+                    font=dict(size=16, color='#222', family='Arial')
+                ),
+                showgrid=True,
+                gridcolor='#e5e5e5',
+                zeroline=False,
+                showline=False,
+                tickfont=dict(size=13, color='#222', family='Arial')
+            ),
+            legend=dict(
+                x=0.98, y=0.98, xanchor='right', yanchor='top',
+                bgcolor='rgba(255,255,255,0.9)',
+                bordercolor='#bbb', borderwidth=1,
+                font=dict(size=14, color='#222', family='Arial')
+            ),
+            plot_bgcolor='white',
+            paper_bgcolor='white',
+            width=1200,
+            height=900,
+            margin=dict(l=80, r=80, t=80, b=80)
+        )
+        # Save as HTML
+        fig.write_html(
+            'results/bible_nt_ot_chart.html',
+            include_plotlyjs=True,
+            full_html=True,
+            config={
+                'displayModeBar': True,
+                'displaylogo': False,
+                'modeBarButtonsToRemove': ['pan2d', 'lasso2d', 'select2d', 'autoScale2d', 'resetScale2d'],
+                'toImageButtonOptions': {
+                    'format': 'png',
+                    'filename': 'bible_nt_ot_chart',
+                    'height': 900,
+                    'width': 1200,
+                    'scale': 2
+                }
+            }
+        )
+        print("✅ Clean OT vs NT chart saved as 'results/bible_nt_ot_chart.html'")
+    
     def create_network_analysis(self):
         """Create network analysis showing book relationships."""
         print("📊 Creating network analysis...")
@@ -1136,6 +1282,7 @@ class BibleAnalyzer:
         self.create_author_analysis()
         self.create_genre_analysis()
         self.create_interactive_plotly_visualization()
+        self.create_clean_ot_nt_chart()
         self.create_network_analysis()
         
         # Export data
@@ -1150,7 +1297,8 @@ class BibleAnalyzer:
         print("\n🎉 Enhanced analysis complete!")
         print("📁 Check the `results/` directory:")
         print("   - `images/` - 9 PNG visualizations")
-        print("   - `interactive_bible_analysis.html` - Interactive web visualization")  
+        print("   - `interactive_bible_analysis.html` - Interactive web visualization")
+        print("   - `bible_nt_ot_chart.html` - Clean OT vs NT chart")
         print("   - `reports/` - Comprehensive markdown report")
         print("   - `data/` - CSV/JSON exports for further analysis")
         print("\n🎨 New visualizations added:")
