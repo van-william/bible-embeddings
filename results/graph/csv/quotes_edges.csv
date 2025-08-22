@@ -1,0 +1,947 @@
+:START_ID,:END_ID,:TYPE,ratio,method
+Matthew.2.17,Matthew.27.9,QUOTES,100,string_match
+Matthew.2.18,Jeremiah.31.15,QUOTES,96,string_match
+Matthew.3.3,Mark.1.3,QUOTES,100,string_match
+Matthew.3.4,Mark.1.6,QUOTES,94,string_match
+Matthew.3.6,Mark.1.5,QUOTES,100,string_match
+Matthew.3.8,Luke.3.8,QUOTES,100,string_match
+Matthew.3.9,Luke.3.8,QUOTES,97,string_match
+Matthew.3.10,Luke.3.9,QUOTES,100,string_match
+Matthew.3.10,Matthew.7.19,QUOTES,94,string_match
+Matthew.3.12,Luke.3.17,QUOTES,100,string_match
+Matthew.4.4,Luke.4.4,QUOTES,94,string_match
+Matthew.4.6,Psalm.91.12,QUOTES,100,string_match
+Matthew.4.6,Luke.4.11,QUOTES,100,string_match
+Matthew.4.14,Matthew.8.17,QUOTES,100,string_match
+Matthew.4.14,Matthew.12.17,QUOTES,100,string_match
+Matthew.4.15,Isaiah.9.1,QUOTES,93,string_match
+Matthew.4.16,Isaiah.9.2,QUOTES,100,string_match
+Matthew.4.18,Mark.1.16,QUOTES,100,string_match
+Matthew.4.19,Mark.1.17,QUOTES,100,string_match
+Matthew.4.20,Mark.1.18,QUOTES,100,string_match
+Matthew.4.22,Mark.1.20,QUOTES,100,string_match
+Matthew.5.26,Luke.12.59,QUOTES,96,string_match
+Matthew.6.19,Matthew.6.20,QUOTES,94,string_match
+Matthew.6.20,Matthew.6.19,QUOTES,94,string_match
+Matthew.6.21,Luke.12.34,QUOTES,100,string_match
+Matthew.6.22,Luke.11.34,QUOTES,92,string_match
+Matthew.6.24,Luke.16.13,QUOTES,96,string_match
+Matthew.6.27,Luke.12.25,QUOTES,100,string_match
+Matthew.6.29,Luke.12.27,QUOTES,94,string_match
+Matthew.6.30,Luke.12.28,QUOTES,97,string_match
+Matthew.6.32,Luke.12.30,QUOTES,95,string_match
+Matthew.6.33,Luke.12.31,QUOTES,92,string_match
+Matthew.7.1,Luke.6.37,QUOTES,95,string_match
+Matthew.7.3,Luke.6.41,QUOTES,100,string_match
+Matthew.7.5,Luke.6.42,QUOTES,100,string_match
+Matthew.7.7,Luke.11.9,QUOTES,100,string_match
+Matthew.7.8,Luke.11.10,QUOTES,100,string_match
+Matthew.7.11,Luke.11.13,QUOTES,96,string_match
+Matthew.7.12,Luke.6.31,QUOTES,100,string_match
+Matthew.7.19,Matthew.3.10,QUOTES,94,string_match
+Matthew.7.19,Luke.3.9,QUOTES,94,string_match
+Matthew.7.29,Mark.1.22,QUOTES,95,string_match
+Matthew.8.3,Luke.5.13,QUOTES,95,string_match
+Matthew.8.9,Luke.7.8,QUOTES,100,string_match
+Matthew.8.17,Matthew.4.14,QUOTES,100,string_match
+Matthew.8.17,Matthew.12.17,QUOTES,100,string_match
+Matthew.8.20,Luke.9.58,QUOTES,100,string_match
+Matthew.9.2,Mark.2.5,QUOTES,96,string_match
+Matthew.9.2,Luke.7.48,QUOTES,94,string_match
+Matthew.9.5,Mark.2.9,QUOTES,100,string_match
+Matthew.9.5,Luke.5.23,QUOTES,100,string_match
+Matthew.9.6,Mark.2.10,QUOTES,100,string_match
+Matthew.9.6,Luke.5.24,QUOTES,96,string_match
+Matthew.9.12,Mark.2.17,QUOTES,96,string_match
+Matthew.9.15,Mark.2.20,QUOTES,100,string_match
+Matthew.9.15,Luke.5.35,QUOTES,100,string_match
+Matthew.9.16,Mark.2.21,QUOTES,94,string_match
+Matthew.9.38,Luke.10.2,QUOTES,100,string_match
+Matthew.10.4,Mark.3.19,QUOTES,100,string_match
+Matthew.10.15,Luke.10.12,QUOTES,100,string_match
+Matthew.10.21,Mark.13.12,QUOTES,99,string_match
+Matthew.10.22,Matthew.24.13,QUOTES,100,string_match
+Matthew.10.22,Mark.13.13,QUOTES,100,string_match
+Matthew.10.26,Luke.12.2,QUOTES,100,string_match
+Matthew.10.30,Luke.12.7,QUOTES,100,string_match
+Matthew.10.31,Luke.12.7,QUOTES,100,string_match
+Matthew.10.36,Micah.7.6,QUOTES,92,string_match
+Matthew.11.3,Luke.7.19,QUOTES,96,string_match
+Matthew.11.3,Luke.7.20,QUOTES,93,string_match
+Matthew.11.5,Luke.7.22,QUOTES,100,string_match
+Matthew.11.6,Luke.7.23,QUOTES,100,string_match
+Matthew.11.8,Luke.7.25,QUOTES,97,string_match
+Matthew.11.9,Luke.7.26,QUOTES,100,string_match
+Matthew.11.10,Luke.7.27,QUOTES,100,string_match
+Matthew.11.11,Luke.7.28,QUOTES,95,string_match
+Matthew.11.15,Matthew.13.9,QUOTES,100,string_match
+Matthew.11.15,Matthew.13.43,QUOTES,100,string_match
+Matthew.11.17,Luke.7.32,QUOTES,94,string_match
+Matthew.11.19,Luke.7.34,QUOTES,98,string_match
+Matthew.11.21,Luke.10.13,QUOTES,98,string_match
+Matthew.11.22,Luke.10.14,QUOTES,97,string_match
+Matthew.11.23,Luke.10.15,QUOTES,100,string_match
+Matthew.11.25,Luke.10.21,QUOTES,100,string_match
+Matthew.11.26,Luke.10.21,QUOTES,100,string_match
+Matthew.11.27,Luke.10.22,QUOTES,100,string_match
+Matthew.12.3,Luke.6.3,QUOTES,100,string_match
+Matthew.12.3,Mark.2.25,QUOTES,92,string_match
+Matthew.12.8,Mark.2.28,QUOTES,93,string_match
+Matthew.12.8,Luke.6.5,QUOTES,93,string_match
+Matthew.12.15,Matthew.19.2,QUOTES,92,string_match
+Matthew.12.17,Matthew.4.14,QUOTES,100,string_match
+Matthew.12.17,Matthew.8.17,QUOTES,100,string_match
+Matthew.12.25,Luke.11.17,QUOTES,93,string_match
+Matthew.12.27,Luke.11.19,QUOTES,100,string_match
+Matthew.12.28,Luke.11.20,QUOTES,95,string_match
+Matthew.12.30,Luke.11.23,QUOTES,100,string_match
+Matthew.12.41,Luke.11.32,QUOTES,100,string_match
+Matthew.12.42,Luke.11.31,QUOTES,98,string_match
+Matthew.12.43,Luke.11.24,QUOTES,100,string_match
+Matthew.12.44,Luke.11.25,QUOTES,95,string_match
+Matthew.12.45,Luke.11.26,QUOTES,100,string_match
+Matthew.12.48,Mark.3.33,QUOTES,96,string_match
+Matthew.12.50,Mark.3.35,QUOTES,96,string_match
+Matthew.13.4,Mark.4.4,QUOTES,100,string_match
+Matthew.13.4,Luke.8.5,QUOTES,96,string_match
+Matthew.13.5,Mark.4.5,QUOTES,100,string_match
+Matthew.13.6,Mark.4.6,QUOTES,100,string_match
+Matthew.13.7,Luke.8.7,QUOTES,100,string_match
+Matthew.13.9,Matthew.11.15,QUOTES,100,string_match
+Matthew.13.9,Matthew.13.43,QUOTES,100,string_match
+Matthew.13.11,Luke.8.10,QUOTES,92,string_match
+Matthew.13.12,Matthew.25.29,QUOTES,95,string_match
+Matthew.13.15,Acts.28.27,QUOTES,100,string_match
+Matthew.13.33,Luke.13.21,QUOTES,100,string_match
+Matthew.13.42,Matthew.13.50,QUOTES,100,string_match
+Matthew.13.43,Matthew.11.15,QUOTES,100,string_match
+Matthew.13.43,Matthew.13.9,QUOTES,100,string_match
+Matthew.13.50,Matthew.13.42,QUOTES,100,string_match
+Matthew.14.11,Mark.6.28,QUOTES,94,string_match
+Matthew.14.20,Mark.6.42,QUOTES,100,string_match
+Matthew.14.20,Luke.9.17,QUOTES,100,string_match
+Matthew.14.20,Matthew.15.37,QUOTES,97,string_match
+Matthew.14.20,Mark.8.8,QUOTES,93,string_match
+Matthew.14.25,Mark.6.48,QUOTES,94,string_match
+Matthew.14.27,Mark.6.50,QUOTES,100,string_match
+Matthew.14.36,Mark.6.56,QUOTES,100,string_match
+Matthew.15.4,Mark.7.10,QUOTES,97,string_match
+Matthew.15.4,Exodus.21.17,QUOTES,94,string_match
+Matthew.15.5,Mark.7.11,QUOTES,94,string_match
+Matthew.15.8,Isaiah.29.13,QUOTES,100,string_match
+Matthew.15.8,Mark.7.6,QUOTES,100,string_match
+Matthew.15.9,Mark.7.7,QUOTES,100,string_match
+Matthew.15.16,Mark.7.18,QUOTES,92,string_match
+Matthew.15.32,Mark.8.2,QUOTES,100,string_match
+Matthew.15.34,Mark.8.5,QUOTES,92,string_match
+Matthew.15.35,Mark.8.6,QUOTES,100,string_match
+Matthew.15.37,Mark.6.42,QUOTES,100,string_match
+Matthew.15.37,Matthew.14.20,QUOTES,97,string_match
+Matthew.15.37,Luke.9.17,QUOTES,97,string_match
+Matthew.15.37,Mark.8.8,QUOTES,96,string_match
+Matthew.16.14,Mark.8.28,QUOTES,100,string_match
+Matthew.16.15,Mark.8.29,QUOTES,100,string_match
+Matthew.16.15,Luke.9.20,QUOTES,100,string_match
+Matthew.16.24,Mark.8.34,QUOTES,100,string_match
+Matthew.16.24,Luke.9.23,QUOTES,92,string_match
+Matthew.16.25,Luke.9.24,QUOTES,100,string_match
+Matthew.16.25,Mark.8.35,QUOTES,96,string_match
+Matthew.16.26,Mark.8.37,QUOTES,100,string_match
+Matthew.17.3,Mark.9.4,QUOTES,100,string_match
+Matthew.17.4,Mark.9.5,QUOTES,94,string_match
+Matthew.17.17,Mark.9.19,QUOTES,100,string_match
+Matthew.18.5,Luke.9.48,QUOTES,93,string_match
+Matthew.18.6,Mark.9.42,QUOTES,96,string_match
+Matthew.18.8,Mark.9.45,QUOTES,95,string_match
+Matthew.19.2,Matthew.12.15,QUOTES,92,string_match
+Matthew.19.5,Mark.10.7,QUOTES,100,string_match
+Matthew.19.5,Ephesians.5.31,QUOTES,96,string_match
+Matthew.19.5,Genesis.2.24,QUOTES,93,string_match
+Matthew.19.6,Mark.10.9,QUOTES,100,string_match
+Matthew.19.13,Mark.10.13,QUOTES,93,string_match
+Matthew.19.14,Luke.18.16,QUOTES,96,string_match
+Matthew.19.14,Mark.10.14,QUOTES,94,string_match
+Matthew.19.24,Mark.10.25,QUOTES,100,string_match
+Matthew.19.24,Luke.18.25,QUOTES,95,string_match
+Matthew.19.26,Mark.10.27,QUOTES,94,string_match
+Matthew.19.30,Mark.10.31,QUOTES,100,string_match
+Matthew.20.17,Mark.10.32,QUOTES,94,string_match
+Matthew.20.18,Mark.10.33,QUOTES,100,string_match
+Matthew.20.25,Mark.10.42,QUOTES,96,string_match
+Matthew.20.26,Mark.10.43,QUOTES,100,string_match
+Matthew.20.28,Mark.10.45,QUOTES,97,string_match
+Matthew.21.1,Mark.11.1,QUOTES,92,string_match
+Matthew.21.9,Mark.11.9,QUOTES,92,string_match
+Matthew.21.12,Mark.11.15,QUOTES,94,string_match
+Matthew.21.13,Luke.19.46,QUOTES,94,string_match
+Matthew.21.23,Mark.11.28,QUOTES,94,string_match
+Matthew.21.24,Mark.11.29,QUOTES,100,string_match
+Matthew.21.24,Luke.20.8,QUOTES,94,string_match
+Matthew.21.25,Luke.20.5,QUOTES,100,string_match
+Matthew.21.25,Mark.11.31,QUOTES,93,string_match
+Matthew.21.27,Mark.11.33,QUOTES,100,string_match
+Matthew.21.27,Luke.20.8,QUOTES,100,string_match
+Matthew.21.30,Luke.20.30,QUOTES,100,string_match
+Matthew.21.37,Mark.12.6,QUOTES,93,string_match
+Matthew.21.39,Luke.20.15,QUOTES,93,string_match
+Matthew.21.39,Mark.12.8,QUOTES,93,string_match
+Matthew.21.42,Psalm.118.22,QUOTES,100,string_match
+Matthew.21.42,Mark.12.11,QUOTES,100,string_match
+Matthew.21.42,Psalm.118.23,QUOTES,93,string_match
+Matthew.21.42,Mark.12.10,QUOTES,93,string_match
+Matthew.21.44,Luke.20.18,QUOTES,100,string_match
+Matthew.22.17,Luke.20.22,QUOTES,95,string_match
+Matthew.22.21,Luke.20.25,QUOTES,100,string_match
+Matthew.22.23,Mark.12.18,QUOTES,93,string_match
+Matthew.22.27,Mark.12.22,QUOTES,100,string_match
+Matthew.22.27,Luke.20.32,QUOTES,100,string_match
+Matthew.22.28,Mark.12.23,QUOTES,94,string_match
+Matthew.22.28,Luke.20.33,QUOTES,93,string_match
+Matthew.22.33,Mark.11.18,QUOTES,94,string_match
+Matthew.22.44,Mark.12.36,QUOTES,100,string_match
+Matthew.23.6,Luke.20.46,QUOTES,92,string_match
+Matthew.23.12,Luke.14.11,QUOTES,93,string_match
+Matthew.23.37,Luke.13.34,QUOTES,99,string_match
+Matthew.23.38,Luke.13.35,QUOTES,100,string_match
+Matthew.23.39,Luke.13.35,QUOTES,97,string_match
+Matthew.24.5,Mark.13.6,QUOTES,96,string_match
+Matthew.24.6,Mark.13.7,QUOTES,94,string_match
+Matthew.24.8,Mark.13.8,QUOTES,95,string_match
+Matthew.24.13,Matthew.10.22,QUOTES,100,string_match
+Matthew.24.13,Mark.13.13,QUOTES,100,string_match
+Matthew.24.16,Mark.13.14,QUOTES,100,string_match
+Matthew.24.17,Mark.13.15,QUOTES,92,string_match
+Matthew.24.18,Mark.13.16,QUOTES,100,string_match
+Matthew.24.19,Mark.13.17,QUOTES,100,string_match
+Matthew.24.19,Luke.21.23,QUOTES,100,string_match
+Matthew.24.23,Mark.13.21,QUOTES,99,string_match
+Matthew.24.24,Mark.13.22,QUOTES,100,string_match
+Matthew.24.28,Luke.17.37,QUOTES,100,string_match
+Matthew.24.29,Mark.13.25,QUOTES,100,string_match
+Matthew.24.30,Mark.13.26,QUOTES,100,string_match
+Matthew.24.30,Luke.21.27,QUOTES,95,string_match
+Matthew.24.32,Mark.13.28,QUOTES,100,string_match
+Matthew.24.34,Mark.13.30,QUOTES,100,string_match
+Matthew.24.34,Luke.21.32,QUOTES,100,string_match
+Matthew.24.35,Mark.13.31,QUOTES,100,string_match
+Matthew.24.35,Luke.21.33,QUOTES,100,string_match
+Matthew.24.36,Mark.13.32,QUOTES,100,string_match
+Matthew.24.41,Luke.17.35,QUOTES,92,string_match
+Matthew.24.42,Matthew.25.13,QUOTES,92,string_match
+Matthew.24.43,Luke.12.39,QUOTES,94,string_match
+Matthew.24.44,Luke.12.40,QUOTES,100,string_match
+Matthew.24.46,Luke.12.43,QUOTES,100,string_match
+Matthew.24.47,Luke.12.44,QUOTES,100,string_match
+Matthew.24.50,Luke.12.46,QUOTES,100,string_match
+Matthew.25.13,Matthew.24.42,QUOTES,92,string_match
+Matthew.25.20,Matthew.25.22,QUOTES,96,string_match
+Matthew.25.21,Matthew.25.23,QUOTES,100,string_match
+Matthew.25.22,Matthew.25.20,QUOTES,96,string_match
+Matthew.25.23,Matthew.25.21,QUOTES,100,string_match
+Matthew.25.29,Matthew.13.12,QUOTES,95,string_match
+Matthew.25.35,Matthew.25.42,QUOTES,93,string_match
+Matthew.25.42,Matthew.25.35,QUOTES,93,string_match
+Matthew.26.5,Mark.14.2,QUOTES,100,string_match
+Matthew.26.6,Mark.14.3,QUOTES,100,string_match
+Matthew.26.11,Mark.14.7,QUOTES,100,string_match
+Matthew.26.11,John.12.8,QUOTES,100,string_match
+Matthew.26.13,Mark.14.9,QUOTES,98,string_match
+Matthew.26.14,Mark.14.10,QUOTES,94,string_match
+Matthew.26.17,Mark.14.12,QUOTES,93,string_match
+Matthew.26.22,Mark.14.19,QUOTES,95,string_match
+Matthew.26.24,Mark.14.21,QUOTES,99,string_match
+Matthew.26.26,Mark.14.22,QUOTES,98,string_match
+Matthew.26.30,Mark.14.26,QUOTES,100,string_match
+Matthew.26.31,Mark.14.27,QUOTES,97,string_match
+Matthew.26.32,Mark.14.28,QUOTES,100,string_match
+Matthew.26.34,Mark.14.30,QUOTES,93,string_match
+Matthew.26.38,Mark.14.34,QUOTES,97,string_match
+Matthew.26.41,Mark.14.38,QUOTES,100,string_match
+Matthew.26.43,Mark.14.40,QUOTES,100,string_match
+Matthew.26.46,Mark.14.42,QUOTES,97,string_match
+Matthew.26.47,Mark.14.43,QUOTES,92,string_match
+Matthew.26.48,Mark.14.44,QUOTES,96,string_match
+Matthew.26.49,Mark.14.45,QUOTES,100,string_match
+Matthew.26.50,Mark.14.46,QUOTES,100,string_match
+Matthew.26.51,Mark.14.47,QUOTES,93,string_match
+Matthew.26.55,Mark.14.48,QUOTES,96,string_match
+Matthew.26.62,Mark.14.60,QUOTES,94,string_match
+Matthew.26.65,Mark.14.63,QUOTES,100,string_match
+Matthew.26.75,Luke.22.62,QUOTES,100,string_match
+Matthew.27.9,Matthew.2.17,QUOTES,100,string_match
+Matthew.27.23,Mark.15.14,QUOTES,100,string_match
+Matthew.27.26,Mark.15.15,QUOTES,98,string_match
+Matthew.27.31,Mark.15.20,QUOTES,97,string_match
+Matthew.27.39,Mark.15.29,QUOTES,100,string_match
+Matthew.27.40,Mark.15.30,QUOTES,92,string_match
+Matthew.27.45,Mark.15.33,QUOTES,100,string_match
+Matthew.27.46,Mark.15.34,QUOTES,97,string_match
+Matthew.27.47,Mark.15.35,QUOTES,96,string_match
+Matthew.27.51,Mark.15.38,QUOTES,100,string_match
+Mark.1.3,Matthew.3.3,QUOTES,100,string_match
+Mark.1.3,Luke.3.4,QUOTES,100,string_match
+Mark.1.5,Matthew.3.6,QUOTES,100,string_match
+Mark.1.6,Matthew.3.4,QUOTES,94,string_match
+Mark.1.8,John.1.33,QUOTES,93,string_match
+Mark.1.8,Luke.3.16,QUOTES,92,string_match
+Mark.1.8,Acts.11.16,QUOTES,92,string_match
+Mark.1.11,Luke.3.22,QUOTES,100,string_match
+Mark.1.16,Matthew.4.18,QUOTES,100,string_match
+Mark.1.17,Matthew.4.19,QUOTES,100,string_match
+Mark.1.18,Matthew.4.20,QUOTES,100,string_match
+Mark.1.20,Matthew.4.22,QUOTES,100,string_match
+Mark.1.22,Matthew.7.29,QUOTES,95,string_match
+Mark.1.24,Luke.4.34,QUOTES,100,string_match
+Mark.1.25,Luke.4.35,QUOTES,93,string_match
+Mark.2.5,Matthew.9.2,QUOTES,96,string_match
+Mark.2.9,Matthew.9.5,QUOTES,100,string_match
+Mark.2.9,Luke.5.23,QUOTES,100,string_match
+Mark.2.10,Matthew.9.6,QUOTES,100,string_match
+Mark.2.10,Luke.5.24,QUOTES,96,string_match
+Mark.2.17,Matthew.9.12,QUOTES,96,string_match
+Mark.2.19,Luke.5.34,QUOTES,94,string_match
+Mark.2.20,Matthew.9.15,QUOTES,100,string_match
+Mark.2.20,Luke.5.35,QUOTES,100,string_match
+Mark.2.21,Matthew.9.16,QUOTES,94,string_match
+Mark.2.22,Luke.5.38,QUOTES,100,string_match
+Mark.2.22,Luke.5.37,QUOTES,96,string_match
+Mark.2.25,Matthew.12.3,QUOTES,92,string_match
+Mark.2.25,Luke.6.3,QUOTES,92,string_match
+Mark.2.28,Matthew.12.8,QUOTES,93,string_match
+Mark.3.3,Luke.6.8,QUOTES,96,string_match
+Mark.3.19,Matthew.10.4,QUOTES,100,string_match
+Mark.3.24,Mark.3.25,QUOTES,94,string_match
+Mark.3.25,Mark.3.24,QUOTES,94,string_match
+Mark.3.33,Matthew.12.48,QUOTES,96,string_match
+Mark.3.35,Matthew.12.50,QUOTES,96,string_match
+Mark.4.4,Matthew.13.4,QUOTES,100,string_match
+Mark.4.4,Luke.8.5,QUOTES,96,string_match
+Mark.4.5,Matthew.13.5,QUOTES,100,string_match
+Mark.4.6,Matthew.13.6,QUOTES,100,string_match
+Mark.4.22,Luke.8.17,QUOTES,100,string_match
+Mark.4.25,Luke.8.18,QUOTES,93,string_match
+Mark.4.30,Luke.13.20,QUOTES,92,string_match
+Mark.5.7,Luke.8.28,QUOTES,95,string_match
+Mark.5.11,Luke.8.32,QUOTES,94,string_match
+Mark.5.25,Luke.8.43,QUOTES,92,string_match
+Mark.5.34,Luke.8.48,QUOTES,93,string_match
+Mark.6.11,Luke.9.5,QUOTES,94,string_match
+Mark.6.28,Matthew.14.11,QUOTES,94,string_match
+Mark.6.41,Luke.9.16,QUOTES,97,string_match
+Mark.6.42,Matthew.14.20,QUOTES,100,string_match
+Mark.6.42,Matthew.15.37,QUOTES,100,string_match
+Mark.6.42,Luke.9.17,QUOTES,100,string_match
+Mark.6.48,Matthew.14.25,QUOTES,94,string_match
+Mark.6.50,Matthew.14.27,QUOTES,100,string_match
+Mark.6.56,Matthew.14.36,QUOTES,100,string_match
+Mark.7.6,Matthew.15.8,QUOTES,100,string_match
+Mark.7.7,Matthew.15.9,QUOTES,100,string_match
+Mark.7.10,Matthew.15.4,QUOTES,97,string_match
+Mark.7.10,Exodus.21.17,QUOTES,94,string_match
+Mark.7.11,Matthew.15.5,QUOTES,94,string_match
+Mark.7.18,Matthew.15.16,QUOTES,92,string_match
+Mark.8.2,Matthew.15.32,QUOTES,100,string_match
+Mark.8.5,Matthew.15.34,QUOTES,92,string_match
+Mark.8.6,Matthew.15.35,QUOTES,100,string_match
+Mark.8.8,Matthew.15.37,QUOTES,96,string_match
+Mark.8.8,Matthew.14.20,QUOTES,93,string_match
+Mark.8.8,Luke.9.17,QUOTES,93,string_match
+Mark.8.28,Matthew.16.14,QUOTES,100,string_match
+Mark.8.29,Matthew.16.15,QUOTES,100,string_match
+Mark.8.29,Luke.9.20,QUOTES,93,string_match
+Mark.8.34,Matthew.16.24,QUOTES,100,string_match
+Mark.8.34,Luke.9.23,QUOTES,92,string_match
+Mark.8.35,Luke.9.24,QUOTES,100,string_match
+Mark.8.35,Matthew.16.25,QUOTES,96,string_match
+Mark.8.36,Luke.9.25,QUOTES,95,string_match
+Mark.8.37,Matthew.16.26,QUOTES,100,string_match
+Mark.8.38,Luke.9.26,QUOTES,93,string_match
+Mark.9.4,Matthew.17.3,QUOTES,100,string_match
+Mark.9.5,Luke.9.33,QUOTES,96,string_match
+Mark.9.5,Matthew.17.4,QUOTES,94,string_match
+Mark.9.18,Luke.9.40,QUOTES,94,string_match
+Mark.9.19,Matthew.17.17,QUOTES,100,string_match
+Mark.9.32,Luke.9.45,QUOTES,92,string_match
+Mark.9.37,John.12.45,QUOTES,93,string_match
+Mark.9.38,Luke.9.49,QUOTES,94,string_match
+Mark.9.42,Matthew.18.6,QUOTES,96,string_match
+Mark.9.45,Matthew.18.8,QUOTES,95,string_match
+Mark.10.7,Genesis.2.24,QUOTES,100,string_match
+Mark.10.7,Matthew.19.5,QUOTES,100,string_match
+Mark.10.7,Ephesians.5.31,QUOTES,100,string_match
+Mark.10.9,Matthew.19.6,QUOTES,100,string_match
+Mark.10.13,Matthew.19.13,QUOTES,93,string_match
+Mark.10.14,Matthew.19.14,QUOTES,94,string_match
+Mark.10.14,Luke.18.16,QUOTES,92,string_match
+Mark.10.15,Luke.18.17,QUOTES,100,string_match
+Mark.10.18,Luke.18.19,QUOTES,100,string_match
+Mark.10.19,Luke.18.20,QUOTES,100,string_match
+Mark.10.25,Matthew.19.24,QUOTES,100,string_match
+Mark.10.25,Luke.18.25,QUOTES,100,string_match
+Mark.10.27,Matthew.19.26,QUOTES,94,string_match
+Mark.10.31,Matthew.19.30,QUOTES,100,string_match
+Mark.10.32,Matthew.20.17,QUOTES,94,string_match
+Mark.10.33,Matthew.20.18,QUOTES,100,string_match
+Mark.10.42,Matthew.20.25,QUOTES,96,string_match
+Mark.10.43,Matthew.20.26,QUOTES,100,string_match
+Mark.10.45,Matthew.20.28,QUOTES,97,string_match
+Mark.10.48,Luke.18.39,QUOTES,93,string_match
+Mark.11.1,Matthew.21.1,QUOTES,92,string_match
+Mark.11.2,Luke.19.30,QUOTES,97,string_match
+Mark.11.7,Luke.19.35,QUOTES,95,string_match
+Mark.11.9,Matthew.21.9,QUOTES,92,string_match
+Mark.11.15,Luke.19.45,QUOTES,97,string_match
+Mark.11.15,Matthew.21.12,QUOTES,94,string_match
+Mark.11.18,Matthew.22.33,QUOTES,94,string_match
+Mark.11.28,Matthew.21.23,QUOTES,94,string_match
+Mark.11.29,Matthew.21.24,QUOTES,100,string_match
+Mark.11.29,Luke.20.8,QUOTES,94,string_match
+Mark.11.31,Luke.20.5,QUOTES,95,string_match
+Mark.11.31,Matthew.21.25,QUOTES,93,string_match
+Mark.11.33,Matthew.21.27,QUOTES,100,string_match
+Mark.11.33,Luke.20.8,QUOTES,100,string_match
+Mark.12.2,Luke.20.10,QUOTES,100,string_match
+Mark.12.6,Matthew.21.37,QUOTES,93,string_match
+Mark.12.8,Matthew.21.39,QUOTES,93,string_match
+Mark.12.10,Psalm.118.22,QUOTES,100,string_match
+Mark.12.10,Matthew.21.42,QUOTES,93,string_match
+Mark.12.11,Matthew.21.42,QUOTES,100,string_match
+Mark.12.11,Psalm.118.23,QUOTES,98,string_match
+Mark.12.17,Luke.20.25,QUOTES,97,string_match
+Mark.12.18,Matthew.22.23,QUOTES,93,string_match
+Mark.12.19,Luke.20.28,QUOTES,100,string_match
+Mark.12.21,Luke.20.30,QUOTES,100,string_match
+Mark.12.22,Matthew.22.27,QUOTES,100,string_match
+Mark.12.22,Luke.20.32,QUOTES,100,string_match
+Mark.12.23,Luke.20.33,QUOTES,100,string_match
+Mark.12.23,Matthew.22.28,QUOTES,94,string_match
+Mark.12.30,Deuteronomy.6.5,QUOTES,95,string_match
+Mark.12.36,Matthew.22.44,QUOTES,100,string_match
+Mark.12.37,Luke.20.44,QUOTES,95,string_match
+Mark.12.40,Luke.20.47,QUOTES,100,string_match
+Mark.12.44,Luke.21.4,QUOTES,100,string_match
+Mark.13.6,Matthew.24.5,QUOTES,96,string_match
+Mark.13.7,Matthew.24.6,QUOTES,94,string_match
+Mark.13.8,Matthew.24.8,QUOTES,95,string_match
+Mark.13.12,Matthew.10.21,QUOTES,99,string_match
+Mark.13.13,Matthew.10.22,QUOTES,100,string_match
+Mark.13.13,Matthew.24.13,QUOTES,100,string_match
+Mark.13.14,Matthew.24.16,QUOTES,100,string_match
+Mark.13.15,Matthew.24.17,QUOTES,92,string_match
+Mark.13.16,Matthew.24.18,QUOTES,100,string_match
+Mark.13.17,Matthew.24.19,QUOTES,100,string_match
+Mark.13.17,Luke.21.23,QUOTES,100,string_match
+Mark.13.21,Matthew.24.23,QUOTES,99,string_match
+Mark.13.22,Matthew.24.24,QUOTES,100,string_match
+Mark.13.25,Matthew.24.29,QUOTES,100,string_match
+Mark.13.26,Matthew.24.30,QUOTES,100,string_match
+Mark.13.26,Luke.21.27,QUOTES,98,string_match
+Mark.13.28,Matthew.24.32,QUOTES,100,string_match
+Mark.13.30,Matthew.24.34,QUOTES,100,string_match
+Mark.13.30,Luke.21.32,QUOTES,100,string_match
+Mark.13.31,Matthew.24.35,QUOTES,100,string_match
+Mark.13.31,Luke.21.33,QUOTES,100,string_match
+Mark.13.32,Matthew.24.36,QUOTES,100,string_match
+Mark.14.2,Matthew.26.5,QUOTES,100,string_match
+Mark.14.3,Matthew.26.6,QUOTES,100,string_match
+Mark.14.7,Matthew.26.11,QUOTES,100,string_match
+Mark.14.7,John.12.8,QUOTES,100,string_match
+Mark.14.9,Matthew.26.13,QUOTES,98,string_match
+Mark.14.10,Matthew.26.14,QUOTES,94,string_match
+Mark.14.11,Luke.22.5,QUOTES,92,string_match
+Mark.14.12,Matthew.26.17,QUOTES,93,string_match
+Mark.14.19,Matthew.26.22,QUOTES,95,string_match
+Mark.14.21,Matthew.26.24,QUOTES,99,string_match
+Mark.14.22,Matthew.26.26,QUOTES,98,string_match
+Mark.14.26,Matthew.26.30,QUOTES,100,string_match
+Mark.14.27,Matthew.26.31,QUOTES,97,string_match
+Mark.14.28,Matthew.26.32,QUOTES,100,string_match
+Mark.14.30,Matthew.26.34,QUOTES,93,string_match
+Mark.14.34,Matthew.26.38,QUOTES,97,string_match
+Mark.14.38,Matthew.26.41,QUOTES,100,string_match
+Mark.14.40,Matthew.26.43,QUOTES,100,string_match
+Mark.14.42,Matthew.26.46,QUOTES,97,string_match
+Mark.14.43,Matthew.26.47,QUOTES,92,string_match
+Mark.14.44,Matthew.26.48,QUOTES,96,string_match
+Mark.14.45,Matthew.26.49,QUOTES,100,string_match
+Mark.14.46,Matthew.26.50,QUOTES,100,string_match
+Mark.14.47,Matthew.26.51,QUOTES,93,string_match
+Mark.14.48,Matthew.26.55,QUOTES,96,string_match
+Mark.14.56,Mark.14.59,QUOTES,93,string_match
+Mark.14.59,Mark.14.56,QUOTES,93,string_match
+Mark.14.60,Matthew.26.62,QUOTES,94,string_match
+Mark.14.63,Matthew.26.65,QUOTES,100,string_match
+Mark.14.72,Luke.20.30,QUOTES,100,string_match
+Mark.14.72,John.11.35,QUOTES,100,string_match
+Mark.15.2,Luke.23.3,QUOTES,95,string_match
+Mark.15.14,Matthew.27.23,QUOTES,100,string_match
+Mark.15.15,Matthew.27.26,QUOTES,98,string_match
+Mark.15.17,John.19.2,QUOTES,92,string_match
+Mark.15.20,Matthew.27.31,QUOTES,97,string_match
+Mark.15.29,Matthew.27.39,QUOTES,100,string_match
+Mark.15.30,Matthew.27.40,QUOTES,92,string_match
+Mark.15.33,Matthew.27.45,QUOTES,100,string_match
+Mark.15.34,Matthew.27.46,QUOTES,97,string_match
+Mark.15.35,Matthew.27.47,QUOTES,96,string_match
+Mark.15.38,Matthew.27.51,QUOTES,100,string_match
+Mark.15.43,Luke.23.52,QUOTES,96,string_match
+Luke.3.4,Mark.1.3,QUOTES,100,string_match
+Luke.3.8,Matthew.3.8,QUOTES,100,string_match
+Luke.3.8,Matthew.3.9,QUOTES,97,string_match
+Luke.3.9,Matthew.3.10,QUOTES,100,string_match
+Luke.3.9,Matthew.7.19,QUOTES,94,string_match
+Luke.3.16,Mark.1.8,QUOTES,92,string_match
+Luke.3.17,Matthew.3.12,QUOTES,100,string_match
+Luke.3.22,Mark.1.11,QUOTES,100,string_match
+Luke.3.35,1 Chronicles.1.25,QUOTES,100,string_match
+Luke.3.38,1 Chronicles.1.1,QUOTES,100,string_match
+Luke.4.4,Matthew.4.4,QUOTES,94,string_match
+Luke.4.11,Psalm.91.12,QUOTES,100,string_match
+Luke.4.11,Matthew.4.6,QUOTES,100,string_match
+Luke.4.14,Luke.4.37,QUOTES,100,string_match
+Luke.4.14,Luke.7.17,QUOTES,92,string_match
+Luke.4.34,Mark.1.24,QUOTES,100,string_match
+Luke.4.35,Mark.1.25,QUOTES,93,string_match
+Luke.4.37,Luke.4.14,QUOTES,100,string_match
+Luke.4.37,Luke.7.17,QUOTES,100,string_match
+Luke.5.13,Matthew.8.3,QUOTES,95,string_match
+Luke.5.23,Matthew.9.5,QUOTES,100,string_match
+Luke.5.23,Mark.2.9,QUOTES,100,string_match
+Luke.5.24,Matthew.9.6,QUOTES,96,string_match
+Luke.5.24,Mark.2.10,QUOTES,96,string_match
+Luke.5.34,Mark.2.19,QUOTES,94,string_match
+Luke.5.35,Matthew.9.15,QUOTES,100,string_match
+Luke.5.35,Mark.2.20,QUOTES,100,string_match
+Luke.5.37,Mark.2.22,QUOTES,96,string_match
+Luke.5.38,Mark.2.22,QUOTES,100,string_match
+Luke.6.3,Matthew.12.3,QUOTES,100,string_match
+Luke.6.3,Mark.2.25,QUOTES,92,string_match
+Luke.6.5,Matthew.12.8,QUOTES,93,string_match
+Luke.6.8,Mark.3.3,QUOTES,96,string_match
+Luke.6.31,Matthew.7.12,QUOTES,100,string_match
+Luke.6.37,Matthew.7.1,QUOTES,95,string_match
+Luke.6.41,Matthew.7.3,QUOTES,100,string_match
+Luke.6.42,Matthew.7.5,QUOTES,100,string_match
+Luke.7.8,Matthew.8.9,QUOTES,100,string_match
+Luke.7.17,Luke.4.37,QUOTES,100,string_match
+Luke.7.17,Luke.4.14,QUOTES,92,string_match
+Luke.7.19,Matthew.11.3,QUOTES,96,string_match
+Luke.7.20,Matthew.11.3,QUOTES,93,string_match
+Luke.7.22,Matthew.11.5,QUOTES,100,string_match
+Luke.7.23,Matthew.11.6,QUOTES,100,string_match
+Luke.7.25,Matthew.11.8,QUOTES,97,string_match
+Luke.7.26,Matthew.11.9,QUOTES,100,string_match
+Luke.7.27,Matthew.11.10,QUOTES,100,string_match
+Luke.7.28,Matthew.11.11,QUOTES,95,string_match
+Luke.7.32,Matthew.11.17,QUOTES,94,string_match
+Luke.7.34,Matthew.11.19,QUOTES,98,string_match
+Luke.7.48,Matthew.9.2,QUOTES,94,string_match
+Luke.8.4,Luke.15.3,QUOTES,92,string_match
+Luke.8.5,Matthew.13.4,QUOTES,96,string_match
+Luke.8.5,Mark.4.4,QUOTES,96,string_match
+Luke.8.7,Matthew.13.7,QUOTES,100,string_match
+Luke.8.10,Matthew.13.11,QUOTES,92,string_match
+Luke.8.16,Luke.11.33,QUOTES,93,string_match
+Luke.8.17,Mark.4.22,QUOTES,100,string_match
+Luke.8.17,Luke.12.2,QUOTES,95,string_match
+Luke.8.18,Mark.4.25,QUOTES,93,string_match
+Luke.8.28,Mark.5.7,QUOTES,95,string_match
+Luke.8.32,Mark.5.11,QUOTES,94,string_match
+Luke.8.43,Mark.5.25,QUOTES,92,string_match
+Luke.8.48,Mark.5.34,QUOTES,93,string_match
+Luke.9.5,Mark.6.11,QUOTES,94,string_match
+Luke.9.16,Mark.6.41,QUOTES,97,string_match
+Luke.9.17,Matthew.14.20,QUOTES,100,string_match
+Luke.9.17,Mark.6.42,QUOTES,100,string_match
+Luke.9.17,Matthew.15.37,QUOTES,97,string_match
+Luke.9.17,Mark.8.8,QUOTES,93,string_match
+Luke.9.20,Matthew.16.15,QUOTES,100,string_match
+Luke.9.20,Mark.8.29,QUOTES,93,string_match
+Luke.9.23,Matthew.16.24,QUOTES,92,string_match
+Luke.9.23,Mark.8.34,QUOTES,92,string_match
+Luke.9.24,Matthew.16.25,QUOTES,100,string_match
+Luke.9.24,Mark.8.35,QUOTES,100,string_match
+Luke.9.25,Mark.8.36,QUOTES,95,string_match
+Luke.9.26,Mark.8.38,QUOTES,93,string_match
+Luke.9.33,Mark.9.5,QUOTES,96,string_match
+Luke.9.40,Mark.9.18,QUOTES,94,string_match
+Luke.9.45,Mark.9.32,QUOTES,92,string_match
+Luke.9.48,Matthew.18.5,QUOTES,93,string_match
+Luke.9.48,John.12.45,QUOTES,93,string_match
+Luke.9.49,Mark.9.38,QUOTES,94,string_match
+Luke.9.58,Matthew.8.20,QUOTES,100,string_match
+Luke.10.2,Matthew.9.38,QUOTES,100,string_match
+Luke.10.12,Matthew.10.15,QUOTES,100,string_match
+Luke.10.13,Matthew.11.21,QUOTES,98,string_match
+Luke.10.14,Matthew.11.22,QUOTES,97,string_match
+Luke.10.15,Matthew.11.23,QUOTES,100,string_match
+Luke.10.16,John.12.45,QUOTES,93,string_match
+Luke.10.21,Matthew.11.25,QUOTES,100,string_match
+Luke.10.21,Matthew.11.26,QUOTES,100,string_match
+Luke.10.22,Matthew.11.27,QUOTES,100,string_match
+Luke.11.9,Matthew.7.7,QUOTES,100,string_match
+Luke.11.10,Matthew.7.8,QUOTES,100,string_match
+Luke.11.13,Matthew.7.11,QUOTES,96,string_match
+Luke.11.17,Matthew.12.25,QUOTES,93,string_match
+Luke.11.19,Matthew.12.27,QUOTES,100,string_match
+Luke.11.20,Matthew.12.28,QUOTES,95,string_match
+Luke.11.23,Matthew.12.30,QUOTES,100,string_match
+Luke.11.24,Matthew.12.43,QUOTES,100,string_match
+Luke.11.25,Matthew.12.44,QUOTES,95,string_match
+Luke.11.26,Matthew.12.45,QUOTES,100,string_match
+Luke.11.31,Matthew.12.42,QUOTES,98,string_match
+Luke.11.32,Matthew.12.41,QUOTES,100,string_match
+Luke.11.33,Luke.8.16,QUOTES,93,string_match
+Luke.11.34,Matthew.6.22,QUOTES,92,string_match
+Luke.12.2,Matthew.10.26,QUOTES,100,string_match
+Luke.12.2,Luke.8.17,QUOTES,95,string_match
+Luke.12.7,Matthew.10.30,QUOTES,100,string_match
+Luke.12.7,Matthew.10.31,QUOTES,100,string_match
+Luke.12.25,Matthew.6.27,QUOTES,100,string_match
+Luke.12.27,Matthew.6.29,QUOTES,94,string_match
+Luke.12.28,Matthew.6.30,QUOTES,97,string_match
+Luke.12.30,Matthew.6.32,QUOTES,95,string_match
+Luke.12.31,Matthew.6.33,QUOTES,92,string_match
+Luke.12.34,Matthew.6.21,QUOTES,100,string_match
+Luke.12.39,Matthew.24.43,QUOTES,94,string_match
+Luke.12.40,Matthew.24.44,QUOTES,100,string_match
+Luke.12.43,Matthew.24.46,QUOTES,100,string_match
+Luke.12.44,Matthew.24.47,QUOTES,100,string_match
+Luke.12.46,Matthew.24.50,QUOTES,100,string_match
+Luke.12.59,Matthew.5.26,QUOTES,96,string_match
+Luke.13.3,Luke.13.5,QUOTES,100,string_match
+Luke.13.5,Luke.13.3,QUOTES,100,string_match
+Luke.13.6,Luke.15.3,QUOTES,92,string_match
+Luke.13.20,Mark.4.30,QUOTES,92,string_match
+Luke.13.21,Matthew.13.33,QUOTES,100,string_match
+Luke.13.34,Matthew.23.37,QUOTES,99,string_match
+Luke.13.35,Matthew.23.38,QUOTES,100,string_match
+Luke.13.35,Matthew.23.39,QUOTES,97,string_match
+Luke.14.11,Luke.18.14,QUOTES,97,string_match
+Luke.14.11,Matthew.23.12,QUOTES,93,string_match
+Luke.15.3,Luke.8.4,QUOTES,92,string_match
+Luke.15.3,Luke.13.6,QUOTES,92,string_match
+Luke.15.3,Luke.21.29,QUOTES,92,string_match
+Luke.16.13,Matthew.6.24,QUOTES,96,string_match
+Luke.17.35,Matthew.24.41,QUOTES,92,string_match
+Luke.17.37,Matthew.24.28,QUOTES,100,string_match
+Luke.18.14,Luke.14.11,QUOTES,97,string_match
+Luke.18.16,Matthew.19.14,QUOTES,96,string_match
+Luke.18.16,Mark.10.14,QUOTES,92,string_match
+Luke.18.17,Mark.10.15,QUOTES,100,string_match
+Luke.18.19,Mark.10.18,QUOTES,100,string_match
+Luke.18.20,Mark.10.19,QUOTES,100,string_match
+Luke.18.25,Mark.10.25,QUOTES,100,string_match
+Luke.18.25,Matthew.19.24,QUOTES,95,string_match
+Luke.18.39,Mark.10.48,QUOTES,93,string_match
+Luke.19.30,Mark.11.2,QUOTES,97,string_match
+Luke.19.35,Mark.11.7,QUOTES,95,string_match
+Luke.19.45,Mark.11.15,QUOTES,97,string_match
+Luke.19.46,Matthew.21.13,QUOTES,94,string_match
+Luke.20.5,Matthew.21.25,QUOTES,100,string_match
+Luke.20.5,Mark.11.31,QUOTES,95,string_match
+Luke.20.8,Matthew.21.27,QUOTES,100,string_match
+Luke.20.8,Mark.11.33,QUOTES,100,string_match
+Luke.20.8,Matthew.21.24,QUOTES,94,string_match
+Luke.20.8,Mark.11.29,QUOTES,94,string_match
+Luke.20.10,Mark.12.2,QUOTES,100,string_match
+Luke.20.15,Matthew.21.39,QUOTES,93,string_match
+Luke.20.18,Matthew.21.44,QUOTES,100,string_match
+Luke.20.22,Matthew.22.17,QUOTES,95,string_match
+Luke.20.25,Matthew.22.21,QUOTES,100,string_match
+Luke.20.25,Mark.12.17,QUOTES,97,string_match
+Luke.20.28,Mark.12.19,QUOTES,100,string_match
+Luke.20.30,Judges.6.26,QUOTES,100,string_match
+Luke.20.30,2 Samuel.14.29,QUOTES,100,string_match
+Luke.20.30,2 Kings.10.6,QUOTES,100,string_match
+Luke.20.30,2 Kings.23.4,QUOTES,100,string_match
+Luke.20.30,Jeremiah.13.3,QUOTES,100,string_match
+Luke.20.32,Matthew.22.27,QUOTES,100,string_match
+Luke.20.32,Mark.12.22,QUOTES,100,string_match
+Luke.20.33,Mark.12.23,QUOTES,100,string_match
+Luke.20.33,Matthew.22.28,QUOTES,93,string_match
+Luke.20.43,Psalm.110.1,QUOTES,100,string_match
+Luke.20.43,Acts.2.35,QUOTES,100,string_match
+Luke.20.43,Hebrews.1.13,QUOTES,93,string_match
+Luke.20.44,Mark.12.37,QUOTES,95,string_match
+Luke.20.46,Matthew.23.6,QUOTES,92,string_match
+Luke.20.47,Mark.12.40,QUOTES,100,string_match
+Luke.21.4,Mark.12.44,QUOTES,100,string_match
+Luke.21.23,Matthew.24.19,QUOTES,100,string_match
+Luke.21.23,Mark.13.17,QUOTES,100,string_match
+Luke.21.27,Mark.13.26,QUOTES,98,string_match
+Luke.21.27,Matthew.24.30,QUOTES,95,string_match
+Luke.21.29,Luke.15.3,QUOTES,92,string_match
+Luke.21.32,Matthew.24.34,QUOTES,100,string_match
+Luke.21.32,Mark.13.30,QUOTES,100,string_match
+Luke.21.33,Matthew.24.35,QUOTES,100,string_match
+Luke.21.33,Mark.13.31,QUOTES,100,string_match
+Luke.21.37,John.8.1,QUOTES,100,string_match
+Luke.22.5,Mark.14.11,QUOTES,92,string_match
+Luke.22.50,John.18.10,QUOTES,93,string_match
+Luke.22.62,Matthew.26.75,QUOTES,100,string_match
+Luke.23.3,Mark.15.2,QUOTES,95,string_match
+Luke.23.52,Mark.15.43,QUOTES,96,string_match
+Luke.24.40,John.20.20,QUOTES,94,string_match
+John.1.15,John.1.30,QUOTES,96,string_match
+John.1.30,John.1.15,QUOTES,96,string_match
+John.1.33,Mark.1.8,QUOTES,93,string_match
+John.3.15,John.3.16,QUOTES,96,string_match
+John.3.16,John.3.15,QUOTES,96,string_match
+John.5.24,John.6.47,QUOTES,100,string_match
+John.5.31,John.8.14,QUOTES,92,string_match
+John.6.35,John.6.48,QUOTES,100,string_match
+John.6.47,John.5.24,QUOTES,100,string_match
+John.6.48,John.6.35,QUOTES,100,string_match
+John.7.53,2 Samuel.20.22,QUOTES,100,string_match
+John.8.1,Luke.21.37,QUOTES,100,string_match
+John.8.14,John.5.31,QUOTES,92,string_match
+John.11.35,Mark.14.72,QUOTES,100,string_match
+John.12.8,Matthew.26.11,QUOTES,100,string_match
+John.12.8,Mark.14.7,QUOTES,100,string_match
+John.12.33,John.18.32,QUOTES,95,string_match
+John.12.38,Isaiah.53.1,QUOTES,100,string_match
+John.12.45,Mark.9.37,QUOTES,93,string_match
+John.12.45,Luke.9.48,QUOTES,93,string_match
+John.12.45,Luke.10.16,QUOTES,93,string_match
+John.12.45,John.13.20,QUOTES,93,string_match
+John.13.20,John.12.45,QUOTES,93,string_match
+John.17.14,John.17.16,QUOTES,100,string_match
+John.17.16,John.17.14,QUOTES,100,string_match
+John.18.10,Luke.22.50,QUOTES,93,string_match
+John.18.32,John.12.33,QUOTES,95,string_match
+John.19.2,Mark.15.17,QUOTES,92,string_match
+John.20.20,Luke.24.40,QUOTES,94,string_match
+Acts.2.21,Romans.10.13,QUOTES,96,string_match
+Acts.2.21,Joel.2.32,QUOTES,93,string_match
+Acts.2.24,Acts.13.30,QUOTES,100,string_match
+Acts.2.25,Psalm.16.8,QUOTES,92,string_match
+Acts.2.26,Psalm.16.9,QUOTES,93,string_match
+Acts.2.27,Psalm.16.10,QUOTES,92,string_match
+Acts.2.35,Psalm.110.1,QUOTES,100,string_match
+Acts.2.35,Luke.20.43,QUOTES,100,string_match
+Acts.2.35,Hebrews.1.13,QUOTES,93,string_match
+Acts.3.15,Acts.13.30,QUOTES,100,string_match
+Acts.3.22,Deuteronomy.18.15,QUOTES,97,string_match
+Acts.4.10,Acts.13.30,QUOTES,93,string_match
+Acts.4.25,Psalm.2.1,QUOTES,100,string_match
+Acts.4.26,Psalm.2.2,QUOTES,98,string_match
+Acts.7.42,Amos.5.25,QUOTES,100,string_match
+Acts.7.49,Isaiah.66.1,QUOTES,96,string_match
+Acts.7.50,Isaiah.66.2,QUOTES,100,string_match
+Acts.8.24,Deuteronomy.2.17,QUOTES,100,string_match
+Acts.9.4,Acts.22.7,QUOTES,96,string_match
+Acts.9.5,Acts.26.15,QUOTES,94,string_match
+Acts.10.15,Acts.11.9,QUOTES,92,string_match
+Acts.11.9,Acts.10.15,QUOTES,92,string_match
+Acts.11.16,Mark.1.8,QUOTES,92,string_match
+Acts.13.30,Acts.2.24,QUOTES,100,string_match
+Acts.13.30,Acts.3.15,QUOTES,100,string_match
+Acts.13.30,1 Corinthians.15.15,QUOTES,100,string_match
+Acts.13.30,Acts.4.10,QUOTES,93,string_match
+Acts.13.34,Acts.13.30,QUOTES,93,string_match
+Acts.22.7,Acts.9.4,QUOTES,96,string_match
+Acts.22.7,Acts.26.14,QUOTES,92,string_match
+Acts.26.14,Acts.22.7,QUOTES,92,string_match
+Acts.26.15,Acts.9.5,QUOTES,94,string_match
+Acts.28.27,Matthew.13.15,QUOTES,100,string_match
+Romans.1.7,1 Corinthians.1.3,QUOTES,100,string_match
+Romans.1.7,2 Corinthians.1.2,QUOTES,100,string_match
+Romans.1.7,Ephesians.1.2,QUOTES,100,string_match
+Romans.1.7,Philippians.1.2,QUOTES,100,string_match
+Romans.3.12,Psalm.14.3,QUOTES,95,string_match
+Romans.3.12,Psalm.53.3,QUOTES,95,string_match
+Romans.3.18,Psalm.36.1,QUOTES,92,string_match
+Romans.4.3,Galatians.3.6,QUOTES,93,string_match
+Romans.4.9,Romans.4.22,QUOTES,92,string_match
+Romans.4.22,Romans.4.9,QUOTES,92,string_match
+Romans.7.17,Romans.7.20,QUOTES,95,string_match
+Romans.7.20,Romans.7.17,QUOTES,95,string_match
+Romans.8.36,Psalm.44.22,QUOTES,97,string_match
+Romans.9.17,Exodus.9.16,QUOTES,96,string_match
+Romans.9.26,Hosea.1.10,QUOTES,97,string_match
+Romans.10.9,Acts.13.30,QUOTES,93,string_match
+Romans.10.13,Acts.2.21,QUOTES,96,string_match
+Romans.11.3,1 Kings.19.10,QUOTES,93,string_match
+Romans.11.3,1 Kings.19.14,QUOTES,93,string_match
+Romans.11.10,Psalm.69.23,QUOTES,100,string_match
+Romans.16.16,2 Corinthians.13.12,QUOTES,100,string_match
+Romans.16.20,1 Corinthians.16.23,QUOTES,100,string_match
+Romans.16.20,1 Thessalonians.5.28,QUOTES,100,string_match
+Romans.16.20,2 Thessalonians.3.18,QUOTES,95,string_match
+1 Corinthians.1.3,Romans.1.7,QUOTES,100,string_match
+1 Corinthians.1.3,2 Corinthians.1.2,QUOTES,100,string_match
+1 Corinthians.1.3,Ephesians.1.2,QUOTES,100,string_match
+1 Corinthians.1.3,Philippians.1.2,QUOTES,100,string_match
+1 Corinthians.5.6,Galatians.5.9,QUOTES,93,string_match
+1 Corinthians.7.20,1 Corinthians.7.24,QUOTES,92,string_match
+1 Corinthians.7.24,1 Corinthians.7.20,QUOTES,92,string_match
+1 Corinthians.7.33,1 Corinthians.7.34,QUOTES,92,string_match
+1 Corinthians.7.34,1 Corinthians.7.33,QUOTES,92,string_match
+1 Corinthians.9.9,Deuteronomy.25.4,QUOTES,100,string_match
+1 Corinthians.12.15,1 Corinthians.12.16,QUOTES,94,string_match
+1 Corinthians.12.16,1 Corinthians.12.15,QUOTES,94,string_match
+1 Corinthians.12.28,Luke.20.30,QUOTES,100,string_match
+1 Corinthians.15.15,Acts.13.30,QUOTES,100,string_match
+1 Corinthians.16.20,2 Corinthians.13.12,QUOTES,100,string_match
+1 Corinthians.16.20,1 Thessalonians.5.26,QUOTES,100,string_match
+1 Corinthians.16.21,Colossians.4.18,QUOTES,100,string_match
+1 Corinthians.16.21,2 Thessalonians.3.17,QUOTES,100,string_match
+1 Corinthians.16.23,Romans.16.20,QUOTES,100,string_match
+1 Corinthians.16.23,2 Corinthians.13.14,QUOTES,100,string_match
+1 Corinthians.16.23,1 Thessalonians.5.28,QUOTES,100,string_match
+1 Corinthians.16.23,2 Thessalonians.3.18,QUOTES,100,string_match
+2 Corinthians.1.1,Colossians.1.1,QUOTES,100,string_match
+2 Corinthians.1.2,Romans.1.7,QUOTES,100,string_match
+2 Corinthians.1.2,1 Corinthians.1.3,QUOTES,100,string_match
+2 Corinthians.1.2,Ephesians.1.2,QUOTES,100,string_match
+2 Corinthians.1.2,Philippians.1.2,QUOTES,100,string_match
+2 Corinthians.13.12,Romans.16.16,QUOTES,100,string_match
+2 Corinthians.13.12,1 Corinthians.16.20,QUOTES,100,string_match
+2 Corinthians.13.13,Philippians.4.21,QUOTES,100,string_match
+2 Corinthians.13.14,1 Corinthians.16.23,QUOTES,100,string_match
+2 Corinthians.13.14,Hebrews.13.25,QUOTES,100,string_match
+Galatians.1.3,1 Corinthians.1.3,QUOTES,98,string_match
+Galatians.1.3,2 Corinthians.1.2,QUOTES,98,string_match
+Galatians.1.3,Ephesians.1.2,QUOTES,98,string_match
+Galatians.1.3,Philippians.1.2,QUOTES,98,string_match
+Galatians.1.5,Hebrews.13.21,QUOTES,100,string_match
+Galatians.1.5,1 Peter.4.11,QUOTES,100,string_match
+Galatians.1.5,Ephesians.3.21,QUOTES,93,string_match
+Galatians.1.5,Philippians.4.20,QUOTES,93,string_match
+Galatians.3.6,Romans.4.3,QUOTES,93,string_match
+Galatians.5.9,1 Corinthians.5.6,QUOTES,93,string_match
+Galatians.6.18,1 Thessalonians.5.28,QUOTES,94,string_match
+Galatians.6.18,1 Corinthians.16.23,QUOTES,92,string_match
+Ephesians.1.2,Romans.1.7,QUOTES,100,string_match
+Ephesians.1.2,1 Corinthians.1.3,QUOTES,100,string_match
+Ephesians.1.2,2 Corinthians.1.2,QUOTES,100,string_match
+Ephesians.1.2,Philippians.1.2,QUOTES,100,string_match
+Ephesians.2.1,Colossians.2.13,QUOTES,92,string_match
+Ephesians.3.21,Galatians.1.5,QUOTES,93,string_match
+Ephesians.3.21,1 Peter.5.11,QUOTES,92,string_match
+Ephesians.5.6,Colossians.3.6,QUOTES,94,string_match
+Ephesians.5.31,Mark.10.7,QUOTES,100,string_match
+Ephesians.5.31,Genesis.2.24,QUOTES,97,string_match
+Ephesians.5.31,Matthew.19.5,QUOTES,96,string_match
+Ephesians.6.22,Colossians.4.8,QUOTES,100,string_match
+Philippians.1.2,Romans.1.7,QUOTES,100,string_match
+Philippians.1.2,1 Corinthians.1.3,QUOTES,100,string_match
+Philippians.1.2,2 Corinthians.1.2,QUOTES,100,string_match
+Philippians.1.2,Ephesians.1.2,QUOTES,100,string_match
+Philippians.4.20,Galatians.1.5,QUOTES,93,string_match
+Philippians.4.21,2 Corinthians.13.13,QUOTES,100,string_match
+Philippians.4.23,Philemon.1.25,QUOTES,100,string_match
+Philippians.4.23,1 Corinthians.16.23,QUOTES,92,string_match
+Colossians.1.1,2 Corinthians.1.1,QUOTES,100,string_match
+Colossians.2.13,Ephesians.2.1,QUOTES,92,string_match
+Colossians.3.6,Ephesians.5.6,QUOTES,94,string_match
+Colossians.4.8,Ephesians.6.22,QUOTES,100,string_match
+Colossians.4.18,1 Corinthians.16.21,QUOTES,100,string_match
+1 Thessalonians.1.1,2 Thessalonians.1.1,QUOTES,97,string_match
+1 Thessalonians.5.26,1 Corinthians.16.20,QUOTES,100,string_match
+1 Thessalonians.5.28,Romans.16.20,QUOTES,100,string_match
+1 Thessalonians.5.28,1 Corinthians.16.23,QUOTES,100,string_match
+1 Thessalonians.5.28,2 Thessalonians.3.18,QUOTES,100,string_match
+1 Thessalonians.5.28,Galatians.6.18,QUOTES,94,string_match
+2 Thessalonians.1.1,1 Thessalonians.1.1,QUOTES,97,string_match
+2 Thessalonians.1.2,Romans.1.7,QUOTES,100,string_match
+2 Thessalonians.1.2,1 Corinthians.1.3,QUOTES,100,string_match
+2 Thessalonians.1.2,2 Corinthians.1.2,QUOTES,100,string_match
+2 Thessalonians.1.2,Ephesians.1.2,QUOTES,100,string_match
+2 Thessalonians.1.2,Philippians.1.2,QUOTES,100,string_match
+2 Thessalonians.3.17,1 Corinthians.16.21,QUOTES,100,string_match
+2 Thessalonians.3.18,1 Corinthians.16.23,QUOTES,100,string_match
+2 Thessalonians.3.18,1 Thessalonians.5.28,QUOTES,100,string_match
+2 Thessalonians.3.18,Hebrews.13.25,QUOTES,100,string_match
+2 Thessalonians.3.18,Romans.16.20,QUOTES,95,string_match
+1 Timothy.1.17,Galatians.1.5,QUOTES,93,string_match
+1 Timothy.5.18,Deuteronomy.25.4,QUOTES,93,string_match
+2 Timothy.4.18,Galatians.1.5,QUOTES,93,string_match
+2 Timothy.4.18,1 Peter.5.11,QUOTES,92,string_match
+Titus.3.15,Hebrews.13.25,QUOTES,100,string_match
+Philemon.1.3,Romans.1.7,QUOTES,100,string_match
+Philemon.1.3,1 Corinthians.1.3,QUOTES,100,string_match
+Philemon.1.3,2 Corinthians.1.2,QUOTES,100,string_match
+Philemon.1.3,Ephesians.1.2,QUOTES,100,string_match
+Philemon.1.3,Philippians.1.2,QUOTES,100,string_match
+Philemon.1.25,Philippians.4.23,QUOTES,100,string_match
+Philemon.1.25,1 Corinthians.16.23,QUOTES,92,string_match
+Hebrews.1.8,Psalm.45.6,QUOTES,100,string_match
+Hebrews.1.9,Psalm.45.7,QUOTES,100,string_match
+Hebrews.1.10,Psalm.102.25,QUOTES,93,string_match
+Hebrews.1.11,Psalm.102.26,QUOTES,100,string_match
+Hebrews.1.12,Psalm.102.27,QUOTES,100,string_match
+Hebrews.1.13,Luke.20.43,QUOTES,93,string_match
+Hebrews.1.13,Acts.2.35,QUOTES,93,string_match
+Hebrews.2.6,Psalm.8.4,QUOTES,100,string_match
+Hebrews.2.7,Psalm.8.5,QUOTES,99,string_match
+Hebrews.3.11,Psalm.95.11,QUOTES,100,string_match
+Hebrews.3.11,Hebrews.4.3,QUOTES,100,string_match
+Hebrews.4.3,Psalm.95.11,QUOTES,100,string_match
+Hebrews.4.3,Hebrews.3.11,QUOTES,100,string_match
+Hebrews.8.5,Exodus.25.40,QUOTES,100,string_match
+Hebrews.8.8,Jeremiah.31.31,QUOTES,100,string_match
+Hebrews.8.10,Jeremiah.31.33,QUOTES,96,string_match
+Hebrews.8.10,Hebrews.10.16,QUOTES,94,string_match
+Hebrews.8.11,Jeremiah.31.34,QUOTES,94,string_match
+Hebrews.8.12,Jeremiah.31.34,QUOTES,100,string_match
+Hebrews.9.7,Luke.20.30,QUOTES,100,string_match
+Hebrews.10.7,Psalm.40.7,QUOTES,94,string_match
+Hebrews.10.16,Hebrews.8.10,QUOTES,94,string_match
+Hebrews.13.6,Psalm.118.6,QUOTES,92,string_match
+Hebrews.13.21,Galatians.1.5,QUOTES,100,string_match
+Hebrews.13.25,2 Corinthians.13.14,QUOTES,100,string_match
+Hebrews.13.25,2 Thessalonians.3.18,QUOTES,100,string_match
+Hebrews.13.25,Titus.3.15,QUOTES,100,string_match
+1 Peter.3.10,Psalm.34.13,QUOTES,95,string_match
+1 Peter.3.11,Psalm.34.14,QUOTES,95,string_match
+1 Peter.3.12,Psalm.34.15,QUOTES,96,string_match
+1 Peter.4.11,Galatians.1.5,QUOTES,100,string_match
+1 Peter.4.11,1 Peter.5.11,QUOTES,95,string_match
+1 Peter.5.11,1 Peter.4.11,QUOTES,95,string_match
+1 Peter.5.11,Ephesians.3.21,QUOTES,92,string_match
+1 Peter.5.11,2 Timothy.4.18,QUOTES,92,string_match
+1 Peter.5.11,Revelation.1.6,QUOTES,92,string_match
+2 John.1.12,3 John.1.13,QUOTES,97,string_match
+3 John.1.13,2 John.1.12,QUOTES,97,string_match
+Revelation.1.6,1 Peter.5.11,QUOTES,92,string_match
+Revelation.2.7,Revelation.2.29,QUOTES,100,string_match
+Revelation.2.7,Revelation.3.6,QUOTES,100,string_match
+Revelation.2.7,Revelation.3.13,QUOTES,100,string_match
+Revelation.2.7,Revelation.3.22,QUOTES,100,string_match
+Revelation.2.11,Revelation.2.29,QUOTES,100,string_match
+Revelation.2.11,Revelation.3.6,QUOTES,100,string_match
+Revelation.2.11,Revelation.3.13,QUOTES,100,string_match
+Revelation.2.11,Revelation.3.22,QUOTES,100,string_match
+Revelation.2.17,Revelation.2.29,QUOTES,100,string_match
+Revelation.2.17,Revelation.3.6,QUOTES,100,string_match
+Revelation.2.17,Revelation.3.13,QUOTES,100,string_match
+Revelation.2.17,Revelation.3.22,QUOTES,100,string_match
+Revelation.2.29,Revelation.2.7,QUOTES,100,string_match
+Revelation.2.29,Revelation.2.11,QUOTES,100,string_match
+Revelation.2.29,Revelation.2.17,QUOTES,100,string_match
+Revelation.2.29,Revelation.3.6,QUOTES,100,string_match
+Revelation.3.6,Revelation.2.7,QUOTES,100,string_match
+Revelation.3.6,Revelation.2.11,QUOTES,100,string_match
+Revelation.3.6,Revelation.2.17,QUOTES,100,string_match
+Revelation.3.6,Revelation.2.29,QUOTES,100,string_match
+Revelation.3.13,Revelation.2.7,QUOTES,100,string_match
+Revelation.3.13,Revelation.2.11,QUOTES,100,string_match
+Revelation.3.13,Revelation.2.17,QUOTES,100,string_match
+Revelation.3.13,Revelation.2.29,QUOTES,100,string_match
+Revelation.3.13,Revelation.3.6,QUOTES,100,string_match
+Revelation.3.22,Revelation.2.7,QUOTES,100,string_match
+Revelation.3.22,Revelation.2.11,QUOTES,100,string_match
+Revelation.3.22,Revelation.2.17,QUOTES,100,string_match
+Revelation.3.22,Revelation.2.29,QUOTES,100,string_match
+Revelation.3.22,Revelation.3.6,QUOTES,100,string_match
+Revelation.6.3,Revelation.6.5,QUOTES,94,string_match
+Revelation.6.3,Revelation.6.7,QUOTES,94,string_match
+Revelation.6.5,Revelation.6.3,QUOTES,94,string_match
+Revelation.6.7,Revelation.6.3,QUOTES,94,string_match
+Revelation.8.8,Luke.20.30,QUOTES,100,string_match
+Revelation.14.8,Luke.20.30,QUOTES,100,string_match
+Revelation.20.14,Luke.20.30,QUOTES,100,string_match
+Revelation.21.3,Jeremiah.32.38,QUOTES,96,string_match
+Revelation.22.21,1 Corinthians.16.23,QUOTES,92,string_match

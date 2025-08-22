@@ -1,0 +1,1847 @@
+:START_ID,:END_ID,:TYPE,score,method
+1 Chronicles,1 Samuel,REFERENCES,0.919741,pgvector_book
+1 Chronicles,2 Samuel,REFERENCES,0.843396,pgvector_book
+1 Chronicles,1 Samuel,REFERENCES,0.837615,pgvector_book
+1 Chronicles,2 Samuel,REFERENCES,0.928041,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.88637,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.86512,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.890857,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.88637,pgvector_book
+1 Chronicles,2 Samuel,REFERENCES,0.861637,pgvector_book
+1 Chronicles,2 Samuel,REFERENCES,0.856558,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.913264,pgvector_book
+1 Chronicles,Genesis,REFERENCES,0.89819,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.895451,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.925961,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.913264,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.912098,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.883321,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.859785,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.848754,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.925961,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.899374,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.895451,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.879924,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.866646,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.866517,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.911936,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.903716,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.903673,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.909674,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.909059,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.895261,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.912098,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.909674,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.902828,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.911936,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.902828,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.895985,pgvector_book
+1 Chronicles,2 Samuel,REFERENCES,0.898016,pgvector_book
+1 Chronicles,2 Samuel,REFERENCES,0.862377,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.832404,pgvector_book
+1 Chronicles,1 Kings,REFERENCES,0.832853,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.832404,pgvector_book
+1 Chronicles,2 Samuel,REFERENCES,0.94363,pgvector_book
+1 Chronicles,2 Chronicles,REFERENCES,0.84086,pgvector_book
+1 Chronicles,1 Kings,REFERENCES,0.839899,pgvector_book
+1 Chronicles,2 Samuel,REFERENCES,0.941938,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.845652,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.831579,pgvector_book
+1 Chronicles,2 Samuel,REFERENCES,0.935587,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.845652,pgvector_book
+1 Chronicles,2 Samuel,REFERENCES,0.835028,pgvector_book
+1 Chronicles,2 Samuel,REFERENCES,0.877857,pgvector_book
+1 Chronicles,2 Samuel,REFERENCES,0.929102,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.917536,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.888519,pgvector_book
+1 Chronicles,2 Chronicles,REFERENCES,0.846873,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.917796,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.896685,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.885783,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.917796,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.903673,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.891192,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.857442,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.855434,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.854364,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.895985,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.891192,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.885783,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.890857,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.870621,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.86512,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.917536,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.903896,pgvector_book
+1 Chronicles,1 Kings,REFERENCES,0.859329,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.903896,pgvector_book
+1 Chronicles,1 Chronicles,REFERENCES,0.888519,pgvector_book
+1 Chronicles,2 Chronicles,REFERENCES,0.848824,pgvector_book
+1 Corinthians,2 Corinthians,REFERENCES,0.858699,pgvector_book
+1 Corinthians,1 Corinthians,REFERENCES,0.835387,pgvector_book
+1 Corinthians,1 Corinthians,REFERENCES,0.835387,pgvector_book
+1 John,2 John,REFERENCES,0.855581,pgvector_book
+1 Kings,1 Kings,REFERENCES,0.882264,pgvector_book
+1 Kings,2 Kings,REFERENCES,0.877834,pgvector_book
+1 Kings,1 Kings,REFERENCES,0.871716,pgvector_book
+1 Kings,1 Kings,REFERENCES,0.908109,pgvector_book
+1 Kings,1 Kings,REFERENCES,0.860582,pgvector_book
+1 Kings,2 Samuel,REFERENCES,0.84114,pgvector_book
+1 Kings,1 Kings,REFERENCES,0.908109,pgvector_book
+1 Kings,2 Samuel,REFERENCES,0.882165,pgvector_book
+1 Kings,1 Kings,REFERENCES,0.861801,pgvector_book
+1 Kings,1 Kings,REFERENCES,0.837215,pgvector_book
+1 Kings,1 Kings,REFERENCES,0.83382,pgvector_book
+1 Kings,1 Kings,REFERENCES,0.849156,pgvector_book
+1 Kings,2 Chronicles,REFERENCES,0.847669,pgvector_book
+1 Kings,2 Chronicles,REFERENCES,0.840568,pgvector_book
+1 Kings,2 Chronicles,REFERENCES,0.884466,pgvector_book
+1 Kings,1 Kings,REFERENCES,0.878598,pgvector_book
+1 Kings,2 Chronicles,REFERENCES,0.901948,pgvector_book
+1 Kings,1 Kings,REFERENCES,0.863023,pgvector_book
+1 Kings,Ezekiel,REFERENCES,0.85416,pgvector_book
+1 Kings,2 Chronicles,REFERENCES,0.914708,pgvector_book
+1 Kings,1 Kings,REFERENCES,0.863023,pgvector_book
+1 Kings,1 Kings,REFERENCES,0.840866,pgvector_book
+1 Kings,2 Chronicles,REFERENCES,0.945538,pgvector_book
+1 Kings,2 Chronicles,REFERENCES,0.873622,pgvector_book
+1 Kings,1 Chronicles,REFERENCES,0.859329,pgvector_book
+1 Kings,2 Chronicles,REFERENCES,0.906775,pgvector_book
+1 Kings,1 Kings,REFERENCES,0.878598,pgvector_book
+1 Kings,2 Chronicles,REFERENCES,0.845093,pgvector_book
+1 Kings,2 Chronicles,REFERENCES,0.959887,pgvector_book
+1 Kings,2 Chronicles,REFERENCES,0.854432,pgvector_book
+1 Kings,1 Kings,REFERENCES,0.849156,pgvector_book
+1 Kings,1 Kings,REFERENCES,0.871716,pgvector_book
+1 Kings,1 Kings,REFERENCES,0.861801,pgvector_book
+1 Kings,1 Kings,REFERENCES,0.860582,pgvector_book
+1 Kings,2 Chronicles,REFERENCES,0.914459,pgvector_book
+1 Kings,1 Kings,REFERENCES,0.863533,pgvector_book
+1 Kings,1 Kings,REFERENCES,0.851151,pgvector_book
+1 Kings,1 Kings,REFERENCES,0.843607,pgvector_book
+1 Kings,1 Kings,REFERENCES,0.842534,pgvector_book
+1 Kings,2 Kings,REFERENCES,0.833578,pgvector_book
+1 Kings,1 Kings,REFERENCES,0.887992,pgvector_book
+1 Kings,1 Kings,REFERENCES,0.882264,pgvector_book
+1 Kings,2 Kings,REFERENCES,0.873544,pgvector_book
+1 Kings,1 Kings,REFERENCES,0.887992,pgvector_book
+1 Kings,1 Kings,REFERENCES,0.870497,pgvector_book
+1 Kings,2 Kings,REFERENCES,0.866207,pgvector_book
+1 Kings,1 Kings,REFERENCES,0.852482,pgvector_book
+1 Kings,1 Kings,REFERENCES,0.85201,pgvector_book
+1 Kings,2 Kings,REFERENCES,0.839659,pgvector_book
+1 Kings,1 Kings,REFERENCES,0.905092,pgvector_book
+1 Kings,1 Kings,REFERENCES,0.852482,pgvector_book
+1 Kings,2 Kings,REFERENCES,0.851394,pgvector_book
+1 Kings,1 Kings,REFERENCES,0.905092,pgvector_book
+1 Kings,2 Kings,REFERENCES,0.862631,pgvector_book
+1 Kings,2 Kings,REFERENCES,0.853253,pgvector_book
+1 Kings,2 Kings,REFERENCES,0.869172,pgvector_book
+1 Kings,1 Kings,REFERENCES,0.8586,pgvector_book
+1 Kings,Judges,REFERENCES,0.845768,pgvector_book
+1 Kings,2 Kings,REFERENCES,0.866616,pgvector_book
+1 Kings,1 Kings,REFERENCES,0.854007,pgvector_book
+1 Kings,1 Kings,REFERENCES,0.848569,pgvector_book
+1 Kings,2 Chronicles,REFERENCES,0.949723,pgvector_book
+1 Kings,2 Kings,REFERENCES,0.892379,pgvector_book
+1 Kings,2 Chronicles,REFERENCES,0.87786,pgvector_book
+1 Peter,2 Timothy,REFERENCES,0.846847,pgvector_book
+1 Peter,Titus,REFERENCES,0.835264,pgvector_book
+1 Peter,1 Timothy,REFERENCES,0.83435,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.863066,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.848571,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.838795,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.858271,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.841044,pgvector_book
+1 Samuel,1 Chronicles,REFERENCES,0.919741,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.848052,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.844149,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.833455,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.839244,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.839244,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.832994,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.905983,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.905983,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.854343,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.850166,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.847258,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.846894,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.846581,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.852338,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.8457,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.845668,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.832994,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.830722,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.863066,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.858271,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.843481,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.864194,pgvector_book
+1 Samuel,1 Kings,REFERENCES,0.838527,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.874253,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.864086,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.848888,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.884301,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.874253,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.872916,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.852338,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.846894,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.84475,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.850166,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.872916,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.869802,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.8662,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.893591,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.85412,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.850169,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.893591,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.88028,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.869058,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.884301,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.88028,pgvector_book
+1 Samuel,2 Samuel,REFERENCES,0.853113,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.899796,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.834718,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.899796,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.883423,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.875935,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.887552,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.883423,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.869099,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.895288,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.869099,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.83966,pgvector_book
+1 Samuel,2 Samuel,REFERENCES,0.877621,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.872197,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.858545,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.864194,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.833455,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.895288,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.887552,pgvector_book
+1 Samuel,1 Samuel,REFERENCES,0.875935,pgvector_book
+1 Thessalonians,2 Thessalonians,REFERENCES,0.875238,pgvector_book
+1 Thessalonians,2 Timothy,REFERENCES,0.861508,pgvector_book
+1 Thessalonians,1 Timothy,REFERENCES,0.847503,pgvector_book
+1 Timothy,2 Timothy,REFERENCES,0.897397,pgvector_book
+1 Timothy,Titus,REFERENCES,0.886734,pgvector_book
+1 Timothy,1 Thessalonians,REFERENCES,0.847503,pgvector_book
+2 Chronicles,2 Kings,REFERENCES,0.932568,pgvector_book
+2 Chronicles,2 Kings,REFERENCES,0.895161,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.886911,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.875469,pgvector_book
+2 Chronicles,1 Kings,REFERENCES,0.854432,pgvector_book
+2 Chronicles,1 Chronicles,REFERENCES,0.848824,pgvector_book
+2 Chronicles,1 Kings,REFERENCES,0.884466,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.851688,pgvector_book
+2 Chronicles,1 Kings,REFERENCES,0.845093,pgvector_book
+2 Chronicles,1 Kings,REFERENCES,0.901948,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.836675,pgvector_book
+2 Chronicles,1 Kings,REFERENCES,0.83098,pgvector_book
+2 Chronicles,1 Kings,REFERENCES,0.914708,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.841551,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.836675,pgvector_book
+2 Chronicles,1 Kings,REFERENCES,0.945538,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.895664,pgvector_book
+2 Chronicles,2 Samuel,REFERENCES,0.849706,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.895664,pgvector_book
+2 Chronicles,1 Kings,REFERENCES,0.873622,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.841551,pgvector_book
+2 Chronicles,1 Kings,REFERENCES,0.906775,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.851688,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.837676,pgvector_book
+2 Chronicles,1 Kings,REFERENCES,0.959887,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.875469,pgvector_book
+2 Chronicles,1 Kings,REFERENCES,0.847669,pgvector_book
+2 Chronicles,1 Kings,REFERENCES,0.914459,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.866637,pgvector_book
+2 Chronicles,1 Kings,REFERENCES,0.849435,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.845485,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.845485,pgvector_book
+2 Chronicles,1 Kings,REFERENCES,0.844484,pgvector_book
+2 Chronicles,1 Kings,REFERENCES,0.841218,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.866637,pgvector_book
+2 Chronicles,1 Kings,REFERENCES,0.861553,pgvector_book
+2 Chronicles,1 Kings,REFERENCES,0.855683,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.862336,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.836958,pgvector_book
+2 Chronicles,2 Kings,REFERENCES,0.835832,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.862336,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.830322,pgvector_book
+2 Chronicles,1 Kings,REFERENCES,0.861814,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.830322,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.861441,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.84447,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.837086,pgvector_book
+2 Chronicles,1 Kings,REFERENCES,0.949723,pgvector_book
+2 Chronicles,2 Kings,REFERENCES,0.864266,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.8612,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.853053,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.833889,pgvector_book
+2 Chronicles,1 Kings,REFERENCES,0.87786,pgvector_book
+2 Chronicles,2 Kings,REFERENCES,0.867194,pgvector_book
+2 Chronicles,2 Kings,REFERENCES,0.864657,pgvector_book
+2 Chronicles,1 Kings,REFERENCES,0.855147,pgvector_book
+2 Chronicles,2 Kings,REFERENCES,0.847349,pgvector_book
+2 Chronicles,1 Kings,REFERENCES,0.841741,pgvector_book
+2 Chronicles,2 Kings,REFERENCES,0.885089,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.874136,pgvector_book
+2 Chronicles,2 Kings,REFERENCES,0.872282,pgvector_book
+2 Chronicles,2 Kings,REFERENCES,0.92106,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.886911,pgvector_book
+2 Chronicles,2 Kings,REFERENCES,0.858203,pgvector_book
+2 Chronicles,2 Kings,REFERENCES,0.924141,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.88072,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.880299,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.88072,pgvector_book
+2 Chronicles,2 Kings,REFERENCES,0.863331,pgvector_book
+2 Chronicles,2 Kings,REFERENCES,0.855879,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.838144,pgvector_book
+2 Chronicles,2 Kings,REFERENCES,0.831703,pgvector_book
+2 Chronicles,2 Kings,REFERENCES,0.914205,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.874136,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.868096,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.890834,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.876181,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.851161,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.890834,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.857497,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.845671,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.876181,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.857497,pgvector_book
+2 Chronicles,Nehemiah,REFERENCES,0.830875,pgvector_book
+2 Chronicles,2 Kings,REFERENCES,0.903485,pgvector_book
+2 Chronicles,2 Kings,REFERENCES,0.89773,pgvector_book
+2 Chronicles,Isaiah,REFERENCES,0.897416,pgvector_book
+2 Chronicles,2 Kings,REFERENCES,0.918489,pgvector_book
+2 Chronicles,2 Kings,REFERENCES,0.85404,pgvector_book
+2 Chronicles,2 Kings,REFERENCES,0.843364,pgvector_book
+2 Chronicles,2 Kings,REFERENCES,0.927845,pgvector_book
+2 Chronicles,2 Kings,REFERENCES,0.865789,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.846995,pgvector_book
+2 Chronicles,2 Kings,REFERENCES,0.884971,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.845671,pgvector_book
+2 Chronicles,2 Chronicles,REFERENCES,0.834389,pgvector_book
+2 Chronicles,2 Kings,REFERENCES,0.888586,pgvector_book
+2 Chronicles,Jeremiah,REFERENCES,0.886481,pgvector_book
+2 Chronicles,2 Kings,REFERENCES,0.884632,pgvector_book
+2 Corinthians,1 Corinthians,REFERENCES,0.858699,pgvector_book
+2 Corinthians,2 Corinthians,REFERENCES,0.849963,pgvector_book
+2 Corinthians,2 Corinthians,REFERENCES,0.849963,pgvector_book
+2 Corinthians,2 Corinthians,REFERENCES,0.848405,pgvector_book
+2 Corinthians,2 Corinthians,REFERENCES,0.848405,pgvector_book
+2 Corinthians,2 Corinthians,REFERENCES,0.878685,pgvector_book
+2 Corinthians,2 Corinthians,REFERENCES,0.878685,pgvector_book
+2 John,1 John,REFERENCES,0.855581,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.863827,pgvector_book
+2 Kings,1 Kings,REFERENCES,0.862631,pgvector_book
+2 Kings,1 Kings,REFERENCES,0.849691,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.863827,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.854834,pgvector_book
+2 Kings,1 Kings,REFERENCES,0.853253,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.882868,pgvector_book
+2 Kings,1 Kings,REFERENCES,0.870683,pgvector_book
+2 Kings,2 Chronicles,REFERENCES,0.864657,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.857034,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.849942,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.84072,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.849942,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.832884,pgvector_book
+2 Kings,1 Kings,REFERENCES,0.869172,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.859492,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.857034,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.859492,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.893113,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.876644,pgvector_book
+2 Kings,2 Chronicles,REFERENCES,0.872282,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.911892,pgvector_book
+2 Kings,1 Kings,REFERENCES,0.892379,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.876644,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.911892,pgvector_book
+2 Kings,1 Kings,REFERENCES,0.866102,pgvector_book
+2 Kings,1 Kings,REFERENCES,0.866095,pgvector_book
+2 Kings,2 Chronicles,REFERENCES,0.92106,pgvector_book
+2 Kings,2 Chronicles,REFERENCES,0.885089,pgvector_book
+2 Kings,2 Chronicles,REFERENCES,0.881564,pgvector_book
+2 Kings,2 Chronicles,REFERENCES,0.932568,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.875853,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.871871,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.893113,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.886079,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.882868,pgvector_book
+2 Kings,2 Chronicles,REFERENCES,0.924141,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.905255,pgvector_book
+2 Kings,2 Chronicles,REFERENCES,0.895161,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.905255,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.875272,pgvector_book
+2 Kings,1 Kings,REFERENCES,0.873544,pgvector_book
+2 Kings,2 Chronicles,REFERENCES,0.914205,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.863882,pgvector_book
+2 Kings,1 Kings,REFERENCES,0.849309,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.874089,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.852521,pgvector_book
+2 Kings,2 Chronicles,REFERENCES,0.843364,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.917537,pgvector_book
+2 Kings,Isaiah,REFERENCES,0.915403,pgvector_book
+2 Kings,2 Chronicles,REFERENCES,0.89773,pgvector_book
+2 Kings,Isaiah,REFERENCES,0.956697,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.917537,pgvector_book
+2 Kings,2 Chronicles,REFERENCES,0.903485,pgvector_book
+2 Kings,Isaiah,REFERENCES,0.886354,pgvector_book
+2 Kings,Isaiah,REFERENCES,0.852008,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.840234,pgvector_book
+2 Kings,2 Chronicles,REFERENCES,0.918489,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.869407,pgvector_book
+2 Kings,2 Chronicles,REFERENCES,0.85172,pgvector_book
+2 Kings,2 Chronicles,REFERENCES,0.927845,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.84871,pgvector_book
+2 Kings,2 Chronicles,REFERENCES,0.842726,pgvector_book
+2 Kings,2 Chronicles,REFERENCES,0.884971,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.875272,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.869407,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.89645,pgvector_book
+2 Kings,2 Chronicles,REFERENCES,0.888586,pgvector_book
+2 Kings,Jeremiah,REFERENCES,0.880651,pgvector_book
+2 Kings,Jeremiah,REFERENCES,0.939354,pgvector_book
+2 Kings,2 Kings,REFERENCES,0.89645,pgvector_book
+2 Kings,Jeremiah,REFERENCES,0.892237,pgvector_book
+2 Peter,1 Peter,REFERENCES,0.832954,pgvector_book
+2 Peter,2 Timothy,REFERENCES,0.830798,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.861925,pgvector_book
+2 Samuel,1 Samuel,REFERENCES,0.854598,pgvector_book
+2 Samuel,1 Samuel,REFERENCES,0.853444,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.931347,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.87822,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.875095,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.931347,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.878852,pgvector_book
+2 Samuel,1 Samuel,REFERENCES,0.877621,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.856448,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.85245,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.846887,pgvector_book
+2 Samuel,1 Chronicles,REFERENCES,0.898016,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.838197,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.836653,pgvector_book
+2 Samuel,1 Chronicles,REFERENCES,0.862377,pgvector_book
+2 Samuel,1 Chronicles,REFERENCES,0.856558,pgvector_book
+2 Samuel,1 Chronicles,REFERENCES,0.94363,pgvector_book
+2 Samuel,2 Chronicles,REFERENCES,0.849706,pgvector_book
+2 Samuel,1 Chronicles,REFERENCES,0.941938,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.860837,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.839236,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.838968,pgvector_book
+2 Samuel,1 Chronicles,REFERENCES,0.935587,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.860837,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.844371,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.88129,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.855541,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.841227,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.88129,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.850864,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.844997,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.895552,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.878852,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.86847,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.895552,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.872508,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.858837,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.908224,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.900606,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.895714,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.901658,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.900606,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.882204,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.908224,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.889544,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.882204,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.890837,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.889544,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.885523,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.901658,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.895714,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.890837,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.87026,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.863776,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.862821,pgvector_book
+2 Samuel,1 Chronicles,REFERENCES,0.877857,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.856448,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.850687,pgvector_book
+2 Samuel,Psalm,REFERENCES,0.925389,pgvector_book
+2 Samuel,1 Chronicles,REFERENCES,0.928041,pgvector_book
+2 Samuel,1 Chronicles,REFERENCES,0.861637,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.855323,pgvector_book
+2 Samuel,1 Chronicles,REFERENCES,0.929102,pgvector_book
+2 Samuel,2 Samuel,REFERENCES,0.836088,pgvector_book
+2 Thessalonians,1 Thessalonians,REFERENCES,0.875238,pgvector_book
+2 Thessalonians,2 Timothy,REFERENCES,0.841506,pgvector_book
+2 Timothy,1 Timothy,REFERENCES,0.897397,pgvector_book
+2 Timothy,Titus,REFERENCES,0.879662,pgvector_book
+2 Timothy,Philippians,REFERENCES,0.870617,pgvector_book
+Acts,Acts,REFERENCES,0.83424,pgvector_book
+Acts,Acts,REFERENCES,0.848685,pgvector_book
+Acts,Acts,REFERENCES,0.83424,pgvector_book
+Acts,Acts,REFERENCES,0.848685,pgvector_book
+Acts,Acts,REFERENCES,0.836832,pgvector_book
+Acts,Acts,REFERENCES,0.833884,pgvector_book
+Acts,Acts,REFERENCES,0.852839,pgvector_book
+Acts,Acts,REFERENCES,0.837334,pgvector_book
+Acts,Acts,REFERENCES,0.836832,pgvector_book
+Acts,Acts,REFERENCES,0.845831,pgvector_book
+Acts,Acts,REFERENCES,0.851055,pgvector_book
+Acts,Acts,REFERENCES,0.845831,pgvector_book
+Acts,Acts,REFERENCES,0.852609,pgvector_book
+Acts,Acts,REFERENCES,0.837334,pgvector_book
+Acts,Acts,REFERENCES,0.833884,pgvector_book
+Acts,Acts,REFERENCES,0.852609,pgvector_book
+Acts,Acts,REFERENCES,0.851055,pgvector_book
+Acts,Acts,REFERENCES,0.845071,pgvector_book
+Acts,Acts,REFERENCES,0.837095,pgvector_book
+Acts,Acts,REFERENCES,0.834349,pgvector_book
+Acts,Acts,REFERENCES,0.858417,pgvector_book
+Acts,Acts,REFERENCES,0.866337,pgvector_book
+Acts,Acts,REFERENCES,0.858417,pgvector_book
+Acts,Acts,REFERENCES,0.858255,pgvector_book
+Acts,Acts,REFERENCES,0.879213,pgvector_book
+Acts,Acts,REFERENCES,0.866337,pgvector_book
+Acts,Acts,REFERENCES,0.86583,pgvector_book
+Acts,Acts,REFERENCES,0.888066,pgvector_book
+Acts,Acts,REFERENCES,0.883877,pgvector_book
+Acts,Acts,REFERENCES,0.86583,pgvector_book
+Acts,Acts,REFERENCES,0.888066,pgvector_book
+Acts,Acts,REFERENCES,0.867544,pgvector_book
+Acts,Acts,REFERENCES,0.839476,pgvector_book
+Acts,Acts,REFERENCES,0.899963,pgvector_book
+Acts,Acts,REFERENCES,0.883877,pgvector_book
+Acts,Acts,REFERENCES,0.867544,pgvector_book
+Acts,Acts,REFERENCES,0.899963,pgvector_book
+Acts,Acts,REFERENCES,0.879213,pgvector_book
+Acts,Acts,REFERENCES,0.849461,pgvector_book
+Acts,Acts,REFERENCES,0.831342,pgvector_book
+Acts,Acts,REFERENCES,0.830214,pgvector_book
+Acts,Acts,REFERENCES,0.845895,pgvector_book
+Acts,Acts,REFERENCES,0.831342,pgvector_book
+Amos,Jeremiah,REFERENCES,0.875007,pgvector_book
+Amos,Micah,REFERENCES,0.862357,pgvector_book
+Amos,Nahum,REFERENCES,0.85971,pgvector_book
+Colossians,Ephesians,REFERENCES,0.879187,pgvector_book
+Colossians,Philippians,REFERENCES,0.863194,pgvector_book
+Colossians,1 Thessalonians,REFERENCES,0.836923,pgvector_book
+Daniel,Daniel,REFERENCES,0.845427,pgvector_book
+Daniel,Daniel,REFERENCES,0.841709,pgvector_book
+Daniel,Daniel,REFERENCES,0.872759,pgvector_book
+Daniel,Daniel,REFERENCES,0.855735,pgvector_book
+Daniel,Daniel,REFERENCES,0.845427,pgvector_book
+Daniel,Daniel,REFERENCES,0.872759,pgvector_book
+Daniel,Daniel,REFERENCES,0.861169,pgvector_book
+Daniel,Daniel,REFERENCES,0.839438,pgvector_book
+Daniel,Daniel,REFERENCES,0.861169,pgvector_book
+Daniel,Daniel,REFERENCES,0.855735,pgvector_book
+Daniel,Daniel,REFERENCES,0.841709,pgvector_book
+Daniel,Daniel,REFERENCES,0.870822,pgvector_book
+Daniel,Daniel,REFERENCES,0.839438,pgvector_book
+Daniel,Daniel,REFERENCES,0.870822,pgvector_book
+Daniel,Daniel,REFERENCES,0.856718,pgvector_book
+Daniel,Daniel,REFERENCES,0.856718,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.906193,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.886536,pgvector_book
+Deuteronomy,Numbers,REFERENCES,0.886207,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.906193,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.888159,pgvector_book
+Deuteronomy,Numbers,REFERENCES,0.87685,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.888159,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.87876,pgvector_book
+Deuteronomy,Joshua,REFERENCES,0.878468,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.886536,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.876331,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.872169,pgvector_book
+Deuteronomy,Exodus,REFERENCES,0.894197,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.872169,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.870479,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.876742,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.870479,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.857367,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.857186,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.841023,pgvector_book
+Deuteronomy,Leviticus,REFERENCES,0.840801,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.857367,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.840337,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.852665,pgvector_book
+Deuteronomy,Exodus,REFERENCES,0.852255,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.851146,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.836495,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.833928,pgvector_book
+Deuteronomy,Exodus,REFERENCES,0.83239,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.876742,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.869532,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.85509,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.830741,pgvector_book
+Deuteronomy,Leviticus,REFERENCES,0.882513,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.830741,pgvector_book
+Deuteronomy,Leviticus,REFERENCES,0.846177,pgvector_book
+Deuteronomy,Leviticus,REFERENCES,0.85399,pgvector_book
+Deuteronomy,Exodus,REFERENCES,0.844498,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.843388,pgvector_book
+Deuteronomy,Numbers,REFERENCES,0.840214,pgvector_book
+Deuteronomy,Numbers,REFERENCES,0.861167,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.889446,pgvector_book
+Deuteronomy,Exodus,REFERENCES,0.861023,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.843388,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.889446,pgvector_book
+Deuteronomy,Exodus,REFERENCES,0.87808,pgvector_book
+Deuteronomy,Leviticus,REFERENCES,0.847968,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.834234,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.846529,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.835082,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.83904,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.832749,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.834234,pgvector_book
+Deuteronomy,Leviticus,REFERENCES,0.869976,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.843887,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.841023,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.872602,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.855854,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.85425,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.853829,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.847795,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.86681,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.85425,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.853019,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.872602,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.86681,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.856828,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.849723,pgvector_book
+Deuteronomy,Genesis,REFERENCES,0.838192,pgvector_book
+Deuteronomy,Deuteronomy,REFERENCES,0.835082,pgvector_book
+Ephesians,Colossians,REFERENCES,0.879187,pgvector_book
+Ephesians,Philippians,REFERENCES,0.856189,pgvector_book
+Exodus,Exodus,REFERENCES,0.835927,pgvector_book
+Exodus,Exodus,REFERENCES,0.842353,pgvector_book
+Exodus,Exodus,REFERENCES,0.835927,pgvector_book
+Exodus,Exodus,REFERENCES,0.8355,pgvector_book
+Exodus,Exodus,REFERENCES,0.861599,pgvector_book
+Exodus,Exodus,REFERENCES,0.83049,pgvector_book
+Exodus,Exodus,REFERENCES,0.858983,pgvector_book
+Exodus,Exodus,REFERENCES,0.8355,pgvector_book
+Exodus,Exodus,REFERENCES,0.833022,pgvector_book
+Exodus,Exodus,REFERENCES,0.842353,pgvector_book
+Exodus,Exodus,REFERENCES,0.833022,pgvector_book
+Exodus,Exodus,REFERENCES,0.83049,pgvector_book
+Exodus,Exodus,REFERENCES,0.878002,pgvector_book
+Exodus,Exodus,REFERENCES,0.860907,pgvector_book
+Exodus,Exodus,REFERENCES,0.858983,pgvector_book
+Exodus,Exodus,REFERENCES,0.894958,pgvector_book
+Exodus,Exodus,REFERENCES,0.878002,pgvector_book
+Exodus,Exodus,REFERENCES,0.872515,pgvector_book
+Exodus,Exodus,REFERENCES,0.911659,pgvector_book
+Exodus,Exodus,REFERENCES,0.872515,pgvector_book
+Exodus,Exodus,REFERENCES,0.855829,pgvector_book
+Exodus,Exodus,REFERENCES,0.911659,pgvector_book
+Exodus,Exodus,REFERENCES,0.894958,pgvector_book
+Exodus,Exodus,REFERENCES,0.859925,pgvector_book
+Exodus,Exodus,REFERENCES,0.833331,pgvector_book
+Exodus,Exodus,REFERENCES,0.833026,pgvector_book
+Exodus,Exodus,REFERENCES,0.831057,pgvector_book
+Exodus,Exodus,REFERENCES,0.888911,pgvector_book
+Exodus,Exodus,REFERENCES,0.842813,pgvector_book
+Exodus,Leviticus,REFERENCES,0.830135,pgvector_book
+Exodus,Exodus,REFERENCES,0.888911,pgvector_book
+Exodus,Exodus,REFERENCES,0.846593,pgvector_book
+Exodus,Exodus,REFERENCES,0.837683,pgvector_book
+Exodus,Exodus,REFERENCES,0.864086,pgvector_book
+Exodus,Exodus,REFERENCES,0.860907,pgvector_book
+Exodus,Exodus,REFERENCES,0.859925,pgvector_book
+Exodus,Exodus,REFERENCES,0.864086,pgvector_book
+Exodus,Numbers,REFERENCES,0.84482,pgvector_book
+Exodus,Exodus,REFERENCES,0.860281,pgvector_book
+Exodus,Exodus,REFERENCES,0.853417,pgvector_book
+Exodus,Exodus,REFERENCES,0.842593,pgvector_book
+Exodus,Deuteronomy,REFERENCES,0.894197,pgvector_book
+Exodus,Exodus,REFERENCES,0.842593,pgvector_book
+Exodus,Exodus,REFERENCES,0.836888,pgvector_book
+Exodus,Exodus,REFERENCES,0.869341,pgvector_book
+Exodus,Deuteronomy,REFERENCES,0.861023,pgvector_book
+Exodus,Deuteronomy,REFERENCES,0.843055,pgvector_book
+Exodus,Deuteronomy,REFERENCES,0.87808,pgvector_book
+Exodus,Exodus,REFERENCES,0.869341,pgvector_book
+Exodus,Deuteronomy,REFERENCES,0.84211,pgvector_book
+Exodus,Deuteronomy,REFERENCES,0.844498,pgvector_book
+Exodus,Exodus,REFERENCES,0.841415,pgvector_book
+Exodus,Leviticus,REFERENCES,0.833893,pgvector_book
+Exodus,Exodus,REFERENCES,0.860281,pgvector_book
+Exodus,Exodus,REFERENCES,0.852579,pgvector_book
+Exodus,Exodus,REFERENCES,0.914897,pgvector_book
+Exodus,Exodus,REFERENCES,0.889399,pgvector_book
+Exodus,Exodus,REFERENCES,0.865924,pgvector_book
+Exodus,Exodus,REFERENCES,0.92211,pgvector_book
+Exodus,Exodus,REFERENCES,0.892251,pgvector_book
+Exodus,Exodus,REFERENCES,0.889399,pgvector_book
+Exodus,Exodus,REFERENCES,0.892251,pgvector_book
+Exodus,Exodus,REFERENCES,0.865924,pgvector_book
+Exodus,Exodus,REFERENCES,0.84958,pgvector_book
+Exodus,Exodus,REFERENCES,0.918974,pgvector_book
+Exodus,Exodus,REFERENCES,0.84452,pgvector_book
+Exodus,Leviticus,REFERENCES,0.923926,pgvector_book
+Exodus,Numbers,REFERENCES,0.881867,pgvector_book
+Exodus,Numbers,REFERENCES,0.869407,pgvector_book
+Exodus,Exodus,REFERENCES,0.86897,pgvector_book
+Exodus,Exodus,REFERENCES,0.855463,pgvector_book
+Exodus,Exodus,REFERENCES,0.842668,pgvector_book
+Exodus,Exodus,REFERENCES,0.871176,pgvector_book
+Exodus,Exodus,REFERENCES,0.872446,pgvector_book
+Exodus,Deuteronomy,REFERENCES,0.852255,pgvector_book
+Exodus,Deuteronomy,REFERENCES,0.834174,pgvector_book
+Exodus,Exodus,REFERENCES,0.864684,pgvector_book
+Exodus,Exodus,REFERENCES,0.861599,pgvector_book
+Exodus,Deuteronomy,REFERENCES,0.839756,pgvector_book
+Exodus,Exodus,REFERENCES,0.872446,pgvector_book
+Exodus,Exodus,REFERENCES,0.864684,pgvector_book
+Exodus,Exodus,REFERENCES,0.853417,pgvector_book
+Exodus,Exodus,REFERENCES,0.896987,pgvector_book
+Exodus,Exodus,REFERENCES,0.889642,pgvector_book
+Exodus,Exodus,REFERENCES,0.871176,pgvector_book
+Exodus,Exodus,REFERENCES,0.92211,pgvector_book
+Exodus,Exodus,REFERENCES,0.904264,pgvector_book
+Exodus,Exodus,REFERENCES,0.889642,pgvector_book
+Exodus,Exodus,REFERENCES,0.914897,pgvector_book
+Exodus,Exodus,REFERENCES,0.860867,pgvector_book
+Exodus,Exodus,REFERENCES,0.84958,pgvector_book
+Exodus,Exodus,REFERENCES,0.904264,pgvector_book
+Exodus,Exodus,REFERENCES,0.864931,pgvector_book
+Exodus,Exodus,REFERENCES,0.861911,pgvector_book
+Exodus,Exodus,REFERENCES,0.918974,pgvector_book
+Exodus,Exodus,REFERENCES,0.896987,pgvector_book
+Exodus,Exodus,REFERENCES,0.876219,pgvector_book
+Exodus,Exodus,REFERENCES,0.856909,pgvector_book
+Exodus,Exodus,REFERENCES,0.856376,pgvector_book
+Exodus,Leviticus,REFERENCES,0.846897,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.905737,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.858519,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.868579,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.858519,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.83768,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.839744,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.865841,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.860335,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.851124,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.865841,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.854457,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.844378,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.905737,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.862136,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.831018,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.854469,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.849564,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.845538,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.848294,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.844378,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.842221,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.908154,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.835043,pgvector_book
+Ezekiel,Lamentations,REFERENCES,0.832933,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.846443,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.848741,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.862102,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.848627,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.844553,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.869394,pgvector_book
+Ezekiel,Jeremiah,REFERENCES,0.855497,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.854457,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.866719,pgvector_book
+Ezekiel,Isaiah,REFERENCES,0.835979,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.835426,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.908154,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.869394,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.866719,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.862136,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.844722,pgvector_book
+Ezekiel,Jeremiah,REFERENCES,0.84093,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.835356,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.899779,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.867018,pgvector_book
+Ezekiel,Isaiah,REFERENCES,0.846622,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.899779,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.865841,pgvector_book
+Ezekiel,Isaiah,REFERENCES,0.853499,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.867018,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.865841,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.917568,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.873393,pgvector_book
+Ezekiel,Jeremiah,REFERENCES,0.866989,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.917568,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.891816,pgvector_book
+Ezekiel,Jeremiah,REFERENCES,0.880889,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.872771,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.846443,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.831506,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.891816,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.873393,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.872771,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.868579,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.85132,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.849564,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.86303,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.830885,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.860335,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.844722,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.842673,pgvector_book
+Ezekiel,Jeremiah,REFERENCES,0.870186,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.86303,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.862102,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.858489,pgvector_book
+Ezekiel,Jeremiah,REFERENCES,0.834172,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.912151,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.912151,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.851373,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.848627,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.910337,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.879705,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.858852,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.910337,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.898653,pgvector_book
+Ezekiel,1 Kings,REFERENCES,0.85416,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.898653,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.879705,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.831058,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.872435,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.858852,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.839853,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.872435,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.878714,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.834509,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.878714,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.844389,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.838179,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.852697,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.852697,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.851675,pgvector_book
+Ezekiel,Ezekiel,REFERENCES,0.834509,pgvector_book
+Ezra,Ezra,REFERENCES,0.856204,pgvector_book
+Ezra,Ezra,REFERENCES,0.836464,pgvector_book
+Ezra,Ezra,REFERENCES,0.832478,pgvector_book
+Ezra,Nehemiah,REFERENCES,0.948813,pgvector_book
+Ezra,Ezra,REFERENCES,0.900248,pgvector_book
+Ezra,Nehemiah,REFERENCES,0.889164,pgvector_book
+Ezra,Ezra,REFERENCES,0.840622,pgvector_book
+Ezra,Nehemiah,REFERENCES,0.8322,pgvector_book
+Ezra,Ezra,REFERENCES,0.831906,pgvector_book
+Ezra,Ezra,REFERENCES,0.872282,pgvector_book
+Ezra,Ezra,REFERENCES,0.861369,pgvector_book
+Ezra,Ezra,REFERENCES,0.838019,pgvector_book
+Ezra,Ezra,REFERENCES,0.899389,pgvector_book
+Ezra,Ezra,REFERENCES,0.872282,pgvector_book
+Ezra,Ezra,REFERENCES,0.856842,pgvector_book
+Ezra,Ezra,REFERENCES,0.899389,pgvector_book
+Ezra,Ezra,REFERENCES,0.85907,pgvector_book
+Ezra,Ezra,REFERENCES,0.857198,pgvector_book
+Ezra,Ezra,REFERENCES,0.871115,pgvector_book
+Ezra,Ezra,REFERENCES,0.861369,pgvector_book
+Ezra,Ezra,REFERENCES,0.85907,pgvector_book
+Ezra,Ezra,REFERENCES,0.900248,pgvector_book
+Ezra,Nehemiah,REFERENCES,0.873606,pgvector_book
+Ezra,Ezra,REFERENCES,0.871115,pgvector_book
+Ezra,Ezra,REFERENCES,0.84373,pgvector_book
+Ezra,Ezra,REFERENCES,0.870486,pgvector_book
+Ezra,Ezra,REFERENCES,0.853842,pgvector_book
+Ezra,Nehemiah,REFERENCES,0.845949,pgvector_book
+Galatians,Philippians,REFERENCES,0.839052,pgvector_book
+Genesis,Genesis,REFERENCES,0.836353,pgvector_book
+Genesis,Genesis,REFERENCES,0.836353,pgvector_book
+Genesis,Genesis,REFERENCES,0.85572,pgvector_book
+Genesis,Genesis,REFERENCES,0.882796,pgvector_book
+Genesis,Genesis,REFERENCES,0.85572,pgvector_book
+Genesis,Genesis,REFERENCES,0.882796,pgvector_book
+Genesis,1 Chronicles,REFERENCES,0.887805,pgvector_book
+Genesis,Genesis,REFERENCES,0.842484,pgvector_book
+Genesis,Genesis,REFERENCES,0.842484,pgvector_book
+Genesis,Genesis,REFERENCES,0.84796,pgvector_book
+Genesis,Genesis,REFERENCES,0.850544,pgvector_book
+Genesis,Genesis,REFERENCES,0.84796,pgvector_book
+Genesis,Genesis,REFERENCES,0.841855,pgvector_book
+Genesis,Genesis,REFERENCES,0.841855,pgvector_book
+Genesis,Genesis,REFERENCES,0.854687,pgvector_book
+Genesis,Genesis,REFERENCES,0.852495,pgvector_book
+Genesis,Genesis,REFERENCES,0.850544,pgvector_book
+Genesis,Genesis,REFERENCES,0.861206,pgvector_book
+Genesis,Genesis,REFERENCES,0.835866,pgvector_book
+Genesis,Genesis,REFERENCES,0.88034,pgvector_book
+Genesis,Genesis,REFERENCES,0.863508,pgvector_book
+Genesis,Genesis,REFERENCES,0.861206,pgvector_book
+Genesis,Genesis,REFERENCES,0.88034,pgvector_book
+Genesis,Genesis,REFERENCES,0.853277,pgvector_book
+Genesis,Genesis,REFERENCES,0.843819,pgvector_book
+Genesis,Genesis,REFERENCES,0.843819,pgvector_book
+Genesis,Genesis,REFERENCES,0.843234,pgvector_book
+Genesis,Genesis,REFERENCES,0.841198,pgvector_book
+Genesis,Genesis,REFERENCES,0.874923,pgvector_book
+Genesis,Genesis,REFERENCES,0.86162,pgvector_book
+Genesis,Genesis,REFERENCES,0.850521,pgvector_book
+Genesis,Genesis,REFERENCES,0.863508,pgvector_book
+Genesis,Genesis,REFERENCES,0.853277,pgvector_book
+Genesis,Genesis,REFERENCES,0.850521,pgvector_book
+Genesis,Genesis,REFERENCES,0.874923,pgvector_book
+Genesis,Genesis,REFERENCES,0.849943,pgvector_book
+Genesis,Genesis,REFERENCES,0.840004,pgvector_book
+Genesis,Genesis,REFERENCES,0.85531,pgvector_book
+Genesis,Genesis,REFERENCES,0.842851,pgvector_book
+Genesis,Genesis,REFERENCES,0.916434,pgvector_book
+Genesis,Genesis,REFERENCES,0.890855,pgvector_book
+Genesis,Genesis,REFERENCES,0.83735,pgvector_book
+Genesis,Genesis,REFERENCES,0.916434,pgvector_book
+Genesis,Genesis,REFERENCES,0.904193,pgvector_book
+Genesis,Genesis,REFERENCES,0.843104,pgvector_book
+Genesis,Genesis,REFERENCES,0.904193,pgvector_book
+Genesis,Genesis,REFERENCES,0.890855,pgvector_book
+Genesis,Genesis,REFERENCES,0.85531,pgvector_book
+Genesis,Genesis,REFERENCES,0.852018,pgvector_book
+Genesis,Genesis,REFERENCES,0.848207,pgvector_book
+Genesis,Genesis,REFERENCES,0.840004,pgvector_book
+Genesis,Genesis,REFERENCES,0.852018,pgvector_book
+Genesis,Genesis,REFERENCES,0.835036,pgvector_book
+Genesis,Genesis,REFERENCES,0.86162,pgvector_book
+Genesis,Genesis,REFERENCES,0.851421,pgvector_book
+Genesis,Genesis,REFERENCES,0.843104,pgvector_book
+Genesis,1 Chronicles,REFERENCES,0.89819,pgvector_book
+Genesis,1 Chronicles,REFERENCES,0.859303,pgvector_book
+Genesis,1 Chronicles,REFERENCES,0.84138,pgvector_book
+Genesis,Genesis,REFERENCES,0.87457,pgvector_book
+Genesis,Genesis,REFERENCES,0.857145,pgvector_book
+Genesis,Genesis,REFERENCES,0.855429,pgvector_book
+Genesis,Genesis,REFERENCES,0.845588,pgvector_book
+Genesis,Genesis,REFERENCES,0.848688,pgvector_book
+Genesis,Genesis,REFERENCES,0.880927,pgvector_book
+Genesis,Genesis,REFERENCES,0.862077,pgvector_book
+Genesis,Genesis,REFERENCES,0.851543,pgvector_book
+Genesis,Genesis,REFERENCES,0.929607,pgvector_book
+Genesis,Genesis,REFERENCES,0.905504,pgvector_book
+Genesis,Genesis,REFERENCES,0.887159,pgvector_book
+Genesis,Genesis,REFERENCES,0.931556,pgvector_book
+Genesis,Genesis,REFERENCES,0.929607,pgvector_book
+Genesis,Genesis,REFERENCES,0.909776,pgvector_book
+Genesis,Genesis,REFERENCES,0.931556,pgvector_book
+Genesis,Genesis,REFERENCES,0.905504,pgvector_book
+Genesis,Genesis,REFERENCES,0.871549,pgvector_book
+Genesis,Genesis,REFERENCES,0.924002,pgvector_book
+Genesis,Genesis,REFERENCES,0.909776,pgvector_book
+Genesis,Genesis,REFERENCES,0.894837,pgvector_book
+Genesis,Genesis,REFERENCES,0.880536,pgvector_book
+Genesis,Genesis,REFERENCES,0.879857,pgvector_book
+Genesis,Genesis,REFERENCES,0.872922,pgvector_book
+Genesis,Genesis,REFERENCES,0.924002,pgvector_book
+Genesis,Genesis,REFERENCES,0.885376,pgvector_book
+Genesis,Genesis,REFERENCES,0.880927,pgvector_book
+Genesis,Genesis,REFERENCES,0.879857,pgvector_book
+Genesis,Genesis,REFERENCES,0.859806,pgvector_book
+Genesis,Genesis,REFERENCES,0.854636,pgvector_book
+Genesis,Deuteronomy,REFERENCES,0.838192,pgvector_book
+Genesis,Genesis,REFERENCES,0.834804,pgvector_book
+Genesis,Genesis,REFERENCES,0.833961,pgvector_book
+Genesis,Genesis,REFERENCES,0.894837,pgvector_book
+Genesis,Genesis,REFERENCES,0.885376,pgvector_book
+Genesis,Genesis,REFERENCES,0.859806,pgvector_book
+Habakkuk,Nahum,REFERENCES,0.854391,pgvector_book
+Habakkuk,Micah,REFERENCES,0.850081,pgvector_book
+Habakkuk,Haggai,REFERENCES,0.844767,pgvector_book
+Haggai,Zechariah,REFERENCES,0.871591,pgvector_book
+Haggai,Habakkuk,REFERENCES,0.844767,pgvector_book
+Haggai,Zephaniah,REFERENCES,0.839213,pgvector_book
+Hebrews,Hebrews,REFERENCES,0.870665,pgvector_book
+Hebrews,Hebrews,REFERENCES,0.870665,pgvector_book
+Hebrews,Hebrews,REFERENCES,0.868845,pgvector_book
+Hebrews,Hebrews,REFERENCES,0.868845,pgvector_book
+Hosea,Amos,REFERENCES,0.846326,pgvector_book
+Hosea,Isaiah,REFERENCES,0.836705,pgvector_book
+Hosea,Jeremiah,REFERENCES,0.835334,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.868222,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.857835,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.855716,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.855716,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.868861,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.868222,pgvector_book
+Isaiah,Jeremiah,REFERENCES,0.853594,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.836841,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.836841,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.867615,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.844563,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.84,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.87689,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.867615,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.863254,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.835449,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.851976,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.851913,pgvector_book
+Isaiah,Jeremiah,REFERENCES,0.850446,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.87689,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.840615,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.84,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.832523,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.832523,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.839478,pgvector_book
+Isaiah,Ezekiel,REFERENCES,0.858003,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.855533,pgvector_book
+Isaiah,Ezekiel,REFERENCES,0.84602,pgvector_book
+Isaiah,Ezekiel,REFERENCES,0.853499,pgvector_book
+Isaiah,Ezekiel,REFERENCES,0.846622,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.844951,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.83953,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.832499,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.868861,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.854522,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.840838,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.863717,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.854522,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.834465,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.871274,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.868561,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.863717,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.868561,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.871274,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.843432,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.841494,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.851976,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.917161,pgvector_book
+Isaiah,2 Kings,REFERENCES,0.915403,pgvector_book
+Isaiah,2 Kings,REFERENCES,0.882127,pgvector_book
+Isaiah,2 Kings,REFERENCES,0.956697,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.917161,pgvector_book
+Isaiah,2 Chronicles,REFERENCES,0.897416,pgvector_book
+Isaiah,2 Kings,REFERENCES,0.886354,pgvector_book
+Isaiah,2 Kings,REFERENCES,0.852008,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.863532,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.842603,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.832611,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.889001,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.886947,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.872965,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.878788,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.872965,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.862165,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.889001,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.886532,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.878788,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.886947,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.886532,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.87747,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.87747,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.863738,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.855097,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.836509,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.874465,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.866009,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.855984,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.872909,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.866867,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.864203,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.866867,pgvector_book
+Isaiah,Jeremiah,REFERENCES,0.857704,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.846942,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.864203,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.843081,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.831572,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.847728,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.835658,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.840632,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.847728,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.840632,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.831572,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.878181,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.837683,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.878181,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.84077,pgvector_book
+Isaiah,Isaiah,REFERENCES,0.83953,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.88624,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.876143,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.871558,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.871558,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.851717,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.845318,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.894658,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.879314,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.861212,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.88624,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.881421,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.880716,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.894658,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.883292,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.880716,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.872914,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.867495,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.866838,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.891026,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.883292,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.867492,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.891026,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.881421,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.876143,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.842148,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.839076,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.838392,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.867495,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.851001,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.849337,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.870111,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.853847,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.847921,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.85237,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.840392,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.834423,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.871046,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.865129,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.861127,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.864621,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.851186,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.851171,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.864191,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.858508,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.852153,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.844471,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.837829,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.837506,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.853925,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.843399,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.839628,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.872914,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.853925,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.830962,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.869183,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.853435,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.852934,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.861754,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.857284,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.853435,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.86246,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.85969,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.849626,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.914426,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.914351,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.874704,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.861754,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.851507,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.848779,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.887031,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.880873,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.871063,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.871063,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.835591,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.887031,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.857284,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.857098,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.885834,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.861097,pgvector_book
+Jeremiah,Isaiah,REFERENCES,0.830622,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.900933,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.885834,pgvector_book
+Jeremiah,Ezekiel,REFERENCES,0.870186,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.881898,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.858099,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.854109,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.900933,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.861097,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.858099,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.891179,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.882903,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.881898,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.85765,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.850715,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.849218,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.906981,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.903011,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.880099,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.903011,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.900777,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.882903,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.906981,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.906295,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.900777,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.930006,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.876391,pgvector_book
+Jeremiah,2 Kings,REFERENCES,0.85276,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.930006,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.878214,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.857482,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.853481,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.858678,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.857482,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.854699,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.878214,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.860055,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.858678,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.887524,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.883462,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.882469,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.898521,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.885287,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.877913,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.899807,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.898521,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.896022,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.949603,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.914426,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.899807,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.949603,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.914351,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.896022,pgvector_book
+Jeremiah,2 Kings,REFERENCES,0.939354,pgvector_book
+Jeremiah,Jeremiah,REFERENCES,0.906295,pgvector_book
+Jeremiah,2 Chronicles,REFERENCES,0.886481,pgvector_book
+Job,Job,REFERENCES,0.86745,pgvector_book
+Job,Job,REFERENCES,0.838359,pgvector_book
+Job,Job,REFERENCES,0.86745,pgvector_book
+Job,Job,REFERENCES,0.838013,pgvector_book
+Job,Job,REFERENCES,0.851812,pgvector_book
+Job,Job,REFERENCES,0.844758,pgvector_book
+Job,Job,REFERENCES,0.831266,pgvector_book
+Job,Job,REFERENCES,0.840996,pgvector_book
+Job,Job,REFERENCES,0.833395,pgvector_book
+Job,Job,REFERENCES,0.85802,pgvector_book
+Job,Job,REFERENCES,0.853179,pgvector_book
+Job,Job,REFERENCES,0.842553,pgvector_book
+Job,Job,REFERENCES,0.840996,pgvector_book
+Job,Job,REFERENCES,0.834377,pgvector_book
+Job,Job,REFERENCES,0.850246,pgvector_book
+Job,Job,REFERENCES,0.854213,pgvector_book
+Job,Job,REFERENCES,0.848125,pgvector_book
+Job,Job,REFERENCES,0.843221,pgvector_book
+Job,Job,REFERENCES,0.833395,pgvector_book
+Job,Job,REFERENCES,0.85948,pgvector_book
+Job,Job,REFERENCES,0.842482,pgvector_book
+Job,Job,REFERENCES,0.840204,pgvector_book
+Job,Job,REFERENCES,0.877375,pgvector_book
+Job,Job,REFERENCES,0.865118,pgvector_book
+Job,Job,REFERENCES,0.848125,pgvector_book
+Job,Job,REFERENCES,0.845111,pgvector_book
+Job,Job,REFERENCES,0.832338,pgvector_book
+Job,Job,REFERENCES,0.830803,pgvector_book
+Job,Job,REFERENCES,0.877375,pgvector_book
+Job,Job,REFERENCES,0.856492,pgvector_book
+Job,Job,REFERENCES,0.843221,pgvector_book
+Job,Job,REFERENCES,0.856889,pgvector_book
+Job,Job,REFERENCES,0.838028,pgvector_book
+Job,Job,REFERENCES,0.833834,pgvector_book
+Job,Job,REFERENCES,0.88004,pgvector_book
+Job,Job,REFERENCES,0.869606,pgvector_book
+Job,Job,REFERENCES,0.862914,pgvector_book
+Job,Job,REFERENCES,0.856153,pgvector_book
+Job,Job,REFERENCES,0.852686,pgvector_book
+Job,Job,REFERENCES,0.850924,pgvector_book
+Job,Job,REFERENCES,0.841904,pgvector_book
+Job,Job,REFERENCES,0.869606,pgvector_book
+Job,Job,REFERENCES,0.88004,pgvector_book
+Job,Job,REFERENCES,0.842482,pgvector_book
+Job,Job,REFERENCES,0.833834,pgvector_book
+Job,Job,REFERENCES,0.851031,pgvector_book
+Job,Job,REFERENCES,0.865118,pgvector_book
+Job,Job,REFERENCES,0.856492,pgvector_book
+Job,Job,REFERENCES,0.851812,pgvector_book
+Job,Job,REFERENCES,0.834943,pgvector_book
+Job,Job,REFERENCES,0.834474,pgvector_book
+Job,Job,REFERENCES,0.854213,pgvector_book
+Job,Job,REFERENCES,0.848415,pgvector_book
+Job,Job,REFERENCES,0.837202,pgvector_book
+Job,Job,REFERENCES,0.891616,pgvector_book
+Job,Job,REFERENCES,0.862914,pgvector_book
+Job,Job,REFERENCES,0.861621,pgvector_book
+Job,Job,REFERENCES,0.861621,pgvector_book
+Job,Job,REFERENCES,0.857889,pgvector_book
+Job,Job,REFERENCES,0.834419,pgvector_book
+Job,Job,REFERENCES,0.891616,pgvector_book
+Job,Job,REFERENCES,0.874393,pgvector_book
+Job,Job,REFERENCES,0.857889,pgvector_book
+Job,Job,REFERENCES,0.874393,pgvector_book
+Job,Job,REFERENCES,0.854794,pgvector_book
+Job,Job,REFERENCES,0.842553,pgvector_book
+Job,Job,REFERENCES,0.854794,pgvector_book
+Job,Job,REFERENCES,0.834439,pgvector_book
+Job,Job,REFERENCES,0.855783,pgvector_book
+Job,Job,REFERENCES,0.830174,pgvector_book
+Job,Job,REFERENCES,0.855783,pgvector_book
+Job,Job,REFERENCES,0.838359,pgvector_book
+Joel,Zephaniah,REFERENCES,0.851949,pgvector_book
+Joel,Micah,REFERENCES,0.839074,pgvector_book
+John,John,REFERENCES,0.851926,pgvector_book
+John,Mark,REFERENCES,0.850095,pgvector_book
+John,Luke,REFERENCES,0.839006,pgvector_book
+John,John,REFERENCES,0.851926,pgvector_book
+John,John,REFERENCES,0.854241,pgvector_book
+John,Luke,REFERENCES,0.833468,pgvector_book
+John,John,REFERENCES,0.847827,pgvector_book
+John,John,REFERENCES,0.836575,pgvector_book
+John,John,REFERENCES,0.832815,pgvector_book
+John,Mark,REFERENCES,0.834725,pgvector_book
+John,Mark,REFERENCES,0.830457,pgvector_book
+John,John,REFERENCES,0.854241,pgvector_book
+John,John,REFERENCES,0.84136,pgvector_book
+John,John,REFERENCES,0.832815,pgvector_book
+John,John,REFERENCES,0.84136,pgvector_book
+John,John,REFERENCES,0.836575,pgvector_book
+John,John,REFERENCES,0.833065,pgvector_book
+John,John,REFERENCES,0.847827,pgvector_book
+John,John,REFERENCES,0.833065,pgvector_book
+John,John,REFERENCES,0.871063,pgvector_book
+John,Luke,REFERENCES,0.83918,pgvector_book
+John,John,REFERENCES,0.871063,pgvector_book
+John,Mark,REFERENCES,0.854906,pgvector_book
+John,Matthew,REFERENCES,0.847924,pgvector_book
+John,Luke,REFERENCES,0.876637,pgvector_book
+John,Matthew,REFERENCES,0.866406,pgvector_book
+John,Mark,REFERENCES,0.861826,pgvector_book
+John,John,REFERENCES,0.863525,pgvector_book
+John,John,REFERENCES,0.833636,pgvector_book
+John,John,REFERENCES,0.833636,pgvector_book
+John,John,REFERENCES,0.863525,pgvector_book
+John,John,REFERENCES,0.842368,pgvector_book
+John,John,REFERENCES,0.842368,pgvector_book
+John,Luke,REFERENCES,0.888261,pgvector_book
+John,Matthew,REFERENCES,0.885019,pgvector_book
+John,Matthew,REFERENCES,0.879139,pgvector_book
+John,Mark,REFERENCES,0.927452,pgvector_book
+John,Matthew,REFERENCES,0.915586,pgvector_book
+John,Luke,REFERENCES,0.902016,pgvector_book
+John,Luke,REFERENCES,0.853275,pgvector_book
+John,Mark,REFERENCES,0.842957,pgvector_book
+John,John,REFERENCES,0.830424,pgvector_book
+Joshua,Joshua,REFERENCES,0.841428,pgvector_book
+Joshua,Deuteronomy,REFERENCES,0.840096,pgvector_book
+Joshua,Joshua,REFERENCES,0.881501,pgvector_book
+Joshua,Joshua,REFERENCES,0.892128,pgvector_book
+Joshua,Deuteronomy,REFERENCES,0.834936,pgvector_book
+Joshua,Joshua,REFERENCES,0.90887,pgvector_book
+Joshua,Joshua,REFERENCES,0.906831,pgvector_book
+Joshua,Joshua,REFERENCES,0.897251,pgvector_book
+Joshua,Joshua,REFERENCES,0.89734,pgvector_book
+Joshua,Joshua,REFERENCES,0.863371,pgvector_book
+Joshua,Joshua,REFERENCES,0.847828,pgvector_book
+Joshua,Joshua,REFERENCES,0.89734,pgvector_book
+Joshua,Joshua,REFERENCES,0.873407,pgvector_book
+Joshua,Joshua,REFERENCES,0.871156,pgvector_book
+Joshua,Joshua,REFERENCES,0.871156,pgvector_book
+Joshua,Joshua,REFERENCES,0.847828,pgvector_book
+Joshua,Joshua,REFERENCES,0.837558,pgvector_book
+Joshua,Joshua,REFERENCES,0.873407,pgvector_book
+Joshua,Joshua,REFERENCES,0.840276,pgvector_book
+Joshua,Joshua,REFERENCES,0.831032,pgvector_book
+Joshua,Joshua,REFERENCES,0.851964,pgvector_book
+Joshua,Joshua,REFERENCES,0.840276,pgvector_book
+Joshua,Joshua,REFERENCES,0.881501,pgvector_book
+Joshua,Joshua,REFERENCES,0.90887,pgvector_book
+Joshua,Joshua,REFERENCES,0.878996,pgvector_book
+Joshua,Joshua,REFERENCES,0.876355,pgvector_book
+Joshua,Joshua,REFERENCES,0.865738,pgvector_book
+Joshua,Joshua,REFERENCES,0.864441,pgvector_book
+Joshua,Joshua,REFERENCES,0.853812,pgvector_book
+Joshua,Joshua,REFERENCES,0.899162,pgvector_book
+Joshua,Deuteronomy,REFERENCES,0.871688,pgvector_book
+Joshua,Joshua,REFERENCES,0.863371,pgvector_book
+Joshua,Joshua,REFERENCES,0.864441,pgvector_book
+Joshua,Joshua,REFERENCES,0.840393,pgvector_book
+Joshua,Joshua,REFERENCES,0.834148,pgvector_book
+Joshua,Joshua,REFERENCES,0.906831,pgvector_book
+Joshua,Judges,REFERENCES,0.896651,pgvector_book
+Joshua,Joshua,REFERENCES,0.884496,pgvector_book
+Joshua,Joshua,REFERENCES,0.861369,pgvector_book
+Joshua,Joshua,REFERENCES,0.856581,pgvector_book
+Joshua,Joshua,REFERENCES,0.851008,pgvector_book
+Joshua,Joshua,REFERENCES,0.899162,pgvector_book
+Joshua,Joshua,REFERENCES,0.885172,pgvector_book
+Joshua,Joshua,REFERENCES,0.884842,pgvector_book
+Joshua,Numbers,REFERENCES,0.831846,pgvector_book
+Joshua,Joshua,REFERENCES,0.897251,pgvector_book
+Joshua,Joshua,REFERENCES,0.885172,pgvector_book
+Joshua,Joshua,REFERENCES,0.884496,pgvector_book
+Joshua,Joshua,REFERENCES,0.86026,pgvector_book
+Joshua,Numbers,REFERENCES,0.859354,pgvector_book
+Joshua,Joshua,REFERENCES,0.851964,pgvector_book
+Joshua,Joshua,REFERENCES,0.892128,pgvector_book
+Joshua,Joshua,REFERENCES,0.8396,pgvector_book
+Joshua,Joshua,REFERENCES,0.831118,pgvector_book
+Joshua,Deuteronomy,REFERENCES,0.847342,pgvector_book
+Joshua,Joshua,REFERENCES,0.841428,pgvector_book
+Joshua,Joshua,REFERENCES,0.833306,pgvector_book
+Joshua,Joshua,REFERENCES,0.86026,pgvector_book
+Joshua,Judges,REFERENCES,0.850119,pgvector_book
+Joshua,Deuteronomy,REFERENCES,0.847943,pgvector_book
+Judges,Judges,REFERENCES,0.837499,pgvector_book
+Judges,Judges,REFERENCES,0.835843,pgvector_book
+Judges,Joshua,REFERENCES,0.850119,pgvector_book
+Judges,Judges,REFERENCES,0.854038,pgvector_book
+Judges,Judges,REFERENCES,0.841752,pgvector_book
+Judges,Judges,REFERENCES,0.840022,pgvector_book
+Judges,Judges,REFERENCES,0.840761,pgvector_book
+Judges,Judges,REFERENCES,0.875668,pgvector_book
+Judges,Judges,REFERENCES,0.85013,pgvector_book
+Judges,Judges,REFERENCES,0.891972,pgvector_book
+Judges,Judges,REFERENCES,0.875668,pgvector_book
+Judges,Judges,REFERENCES,0.891972,pgvector_book
+Judges,Judges,REFERENCES,0.85013,pgvector_book
+Judges,Judges,REFERENCES,0.906831,pgvector_book
+Judges,Judges,REFERENCES,0.902538,pgvector_book
+Judges,Judges,REFERENCES,0.863271,pgvector_book
+Judges,Judges,REFERENCES,0.863271,pgvector_book
+Judges,Judges,REFERENCES,0.839341,pgvector_book
+Judges,2 Samuel,REFERENCES,0.837626,pgvector_book
+Judges,Judges,REFERENCES,0.911292,pgvector_book
+Judges,Judges,REFERENCES,0.906831,pgvector_book
+Judges,Judges,REFERENCES,0.911292,pgvector_book
+Judges,Judges,REFERENCES,0.902538,pgvector_book
+Judges,Judges,REFERENCES,0.835339,pgvector_book
+Judges,Joshua,REFERENCES,0.896651,pgvector_book
+Judges,Joshua,REFERENCES,0.856357,pgvector_book
+Judges,1 Chronicles,REFERENCES,0.854545,pgvector_book
+Judges,Judges,REFERENCES,0.834869,pgvector_book
+Judges,Judges,REFERENCES,0.834869,pgvector_book
+Judges,Judges,REFERENCES,0.862923,pgvector_book
+Judges,Judges,REFERENCES,0.840022,pgvector_book
+Judges,Judges,REFERENCES,0.886671,pgvector_book
+Judges,Judges,REFERENCES,0.862923,pgvector_book
+Judges,Joshua,REFERENCES,0.84672,pgvector_book
+Judges,Judges,REFERENCES,0.886671,pgvector_book
+Judges,Judges,REFERENCES,0.839497,pgvector_book
+Judges,Judges,REFERENCES,0.913652,pgvector_book
+Judges,Judges,REFERENCES,0.834773,pgvector_book
+Judges,Judges,REFERENCES,0.913652,pgvector_book
+Lamentations,Jeremiah,REFERENCES,0.867489,pgvector_book
+Lamentations,Zephaniah,REFERENCES,0.853746,pgvector_book
+Lamentations,Nahum,REFERENCES,0.852331,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.898372,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.848892,pgvector_book
+Leviticus,Deuteronomy,REFERENCES,0.847968,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.881673,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.859986,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.8555,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.84391,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.886863,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.881673,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.849074,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.876074,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.870358,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.863261,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.860991,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.830167,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.896604,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.876267,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.876074,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.896604,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.886863,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.872921,pgvector_book
+Leviticus,Exodus,REFERENCES,0.923926,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.905427,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.876267,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.905427,pgvector_book
+Leviticus,Exodus,REFERENCES,0.863637,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.8592,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.87026,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.851261,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.846484,pgvector_book
+Leviticus,Deuteronomy,REFERENCES,0.882513,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.850872,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.850872,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.838884,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.838884,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.868722,pgvector_book
+Leviticus,Exodus,REFERENCES,0.859468,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.852724,pgvector_book
+Leviticus,Numbers,REFERENCES,0.834947,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.898372,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.840444,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.852073,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.848892,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.840444,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.901526,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.901526,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.852073,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.846669,pgvector_book
+Leviticus,Numbers,REFERENCES,0.871203,pgvector_book
+Leviticus,Numbers,REFERENCES,0.861605,pgvector_book
+Leviticus,Deuteronomy,REFERENCES,0.85399,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.858862,pgvector_book
+Leviticus,Deuteronomy,REFERENCES,0.846177,pgvector_book
+Leviticus,Deuteronomy,REFERENCES,0.869976,pgvector_book
+Leviticus,Deuteronomy,REFERENCES,0.84491,pgvector_book
+Leviticus,Deuteronomy,REFERENCES,0.840801,pgvector_book
+Leviticus,Leviticus,REFERENCES,0.858862,pgvector_book
+Luke,Luke,REFERENCES,0.872276,pgvector_book
+Luke,Luke,REFERENCES,0.833976,pgvector_book
+Luke,Zechariah,REFERENCES,0.832653,pgvector_book
+Luke,Mark,REFERENCES,0.890616,pgvector_book
+Luke,Mark,REFERENCES,0.874301,pgvector_book
+Luke,Matthew,REFERENCES,0.858542,pgvector_book
+Luke,Matthew,REFERENCES,0.844899,pgvector_book
+Luke,Luke,REFERENCES,0.830346,pgvector_book
+Luke,Matthew,REFERENCES,0.89939,pgvector_book
+Luke,Luke,REFERENCES,0.838836,pgvector_book
+Luke,Matthew,REFERENCES,0.831274,pgvector_book
+Luke,Matthew,REFERENCES,0.842829,pgvector_book
+Luke,Luke,REFERENCES,0.830246,pgvector_book
+Luke,Matthew,REFERENCES,0.846415,pgvector_book
+Luke,Luke,REFERENCES,0.845734,pgvector_book
+Luke,Luke,REFERENCES,0.834754,pgvector_book
+Luke,Luke,REFERENCES,0.844611,pgvector_book
+Luke,Luke,REFERENCES,0.845734,pgvector_book
+Luke,Luke,REFERENCES,0.833049,pgvector_book
+Luke,Mark,REFERENCES,0.872763,pgvector_book
+Luke,Luke,REFERENCES,0.854759,pgvector_book
+Luke,Matthew,REFERENCES,0.837825,pgvector_book
+Luke,Matthew,REFERENCES,0.855042,pgvector_book
+Luke,Luke,REFERENCES,0.854759,pgvector_book
+Luke,Mark,REFERENCES,0.890404,pgvector_book
+Luke,Matthew,REFERENCES,0.867523,pgvector_book
+Luke,Matthew,REFERENCES,0.856656,pgvector_book
+Luke,Mark,REFERENCES,0.879448,pgvector_book
+Luke,Matthew,REFERENCES,0.866909,pgvector_book
+Luke,Matthew,REFERENCES,0.836946,pgvector_book
+Luke,Matthew,REFERENCES,0.931962,pgvector_book
+Luke,Mark,REFERENCES,0.928403,pgvector_book
+Luke,John,REFERENCES,0.888261,pgvector_book
+Luke,Mark,REFERENCES,0.924453,pgvector_book
+Luke,Matthew,REFERENCES,0.920776,pgvector_book
+Luke,John,REFERENCES,0.902016,pgvector_book
+Luke,John,REFERENCES,0.853275,pgvector_book
+Luke,Luke,REFERENCES,0.849101,pgvector_book
+Luke,Matthew,REFERENCES,0.840358,pgvector_book
+Luke,Mark,REFERENCES,0.884158,pgvector_book
+Luke,Matthew,REFERENCES,0.856206,pgvector_book
+Luke,Matthew,REFERENCES,0.851125,pgvector_book
+Luke,Luke,REFERENCES,0.847166,pgvector_book
+Luke,Matthew,REFERENCES,0.837402,pgvector_book
+Luke,Matthew,REFERENCES,0.836335,pgvector_book
+Luke,Luke,REFERENCES,0.844611,pgvector_book
+Luke,Luke,REFERENCES,0.834754,pgvector_book
+Luke,Matthew,REFERENCES,0.830881,pgvector_book
+Luke,Mark,REFERENCES,0.883469,pgvector_book
+Luke,Matthew,REFERENCES,0.879408,pgvector_book
+Luke,Luke,REFERENCES,0.847166,pgvector_book
+Luke,Matthew,REFERENCES,0.889173,pgvector_book
+Luke,Mark,REFERENCES,0.864483,pgvector_book
+Luke,Luke,REFERENCES,0.843076,pgvector_book
+Luke,Matthew,REFERENCES,0.859741,pgvector_book
+Luke,John,REFERENCES,0.839006,pgvector_book
+Luke,Luke,REFERENCES,0.833976,pgvector_book
+Luke,Luke,REFERENCES,0.872276,pgvector_book
+Luke,Matthew,REFERENCES,0.849484,pgvector_book
+Malachi,Micah,REFERENCES,0.853327,pgvector_book
+Mark,Luke,REFERENCES,0.884158,pgvector_book
+Mark,Matthew,REFERENCES,0.830909,pgvector_book
+Mark,Luke,REFERENCES,0.864483,pgvector_book
+Mark,John,REFERENCES,0.850095,pgvector_book
+Mark,Luke,REFERENCES,0.833002,pgvector_book
+Mark,Luke,REFERENCES,0.883469,pgvector_book
+Mark,Matthew,REFERENCES,0.876321,pgvector_book
+Mark,Matthew,REFERENCES,0.887781,pgvector_book
+Mark,Matthew,REFERENCES,0.874567,pgvector_book
+Mark,Luke,REFERENCES,0.843681,pgvector_book
+Mark,Matthew,REFERENCES,0.936942,pgvector_book
+Mark,Luke,REFERENCES,0.842316,pgvector_book
+Mark,John,REFERENCES,0.830457,pgvector_book
+Mark,Matthew,REFERENCES,0.899976,pgvector_book
+Mark,Luke,REFERENCES,0.874301,pgvector_book
+Mark,Matthew,REFERENCES,0.864431,pgvector_book
+Mark,John,REFERENCES,0.834725,pgvector_book
+Mark,Luke,REFERENCES,0.890616,pgvector_book
+Mark,Matthew,REFERENCES,0.845451,pgvector_book
+Mark,Matthew,REFERENCES,0.835586,pgvector_book
+Mark,Matthew,REFERENCES,0.884775,pgvector_book
+Mark,Luke,REFERENCES,0.872763,pgvector_book
+Mark,Luke,REFERENCES,0.834546,pgvector_book
+Mark,Matthew,REFERENCES,0.907488,pgvector_book
+Mark,Matthew,REFERENCES,0.891297,pgvector_book
+Mark,Luke,REFERENCES,0.890404,pgvector_book
+Mark,Matthew,REFERENCES,0.920959,pgvector_book
+Mark,Luke,REFERENCES,0.879448,pgvector_book
+Mark,Matthew,REFERENCES,0.96359,pgvector_book
+Mark,Luke,REFERENCES,0.928403,pgvector_book
+Mark,Matthew,REFERENCES,0.879005,pgvector_book
+Mark,Matthew,REFERENCES,0.948807,pgvector_book
+Mark,John,REFERENCES,0.927452,pgvector_book
+Mark,Luke,REFERENCES,0.924453,pgvector_book
+Mark,John,REFERENCES,0.842957,pgvector_book
+Matthew,Mark,REFERENCES,0.96359,pgvector_book
+Matthew,Luke,REFERENCES,0.931962,pgvector_book
+Matthew,Matthew,REFERENCES,0.899235,pgvector_book
+Matthew,Luke,REFERENCES,0.858542,pgvector_book
+Matthew,Mark,REFERENCES,0.845451,pgvector_book
+Matthew,Mark,REFERENCES,0.884775,pgvector_book
+Matthew,Luke,REFERENCES,0.837825,pgvector_book
+Matthew,Matthew,REFERENCES,0.839639,pgvector_book
+Matthew,Luke,REFERENCES,0.838304,pgvector_book
+Matthew,Mark,REFERENCES,0.907488,pgvector_book
+Matthew,Luke,REFERENCES,0.867523,pgvector_book
+Matthew,Luke,REFERENCES,0.855042,pgvector_book
+Matthew,Mark,REFERENCES,0.891297,pgvector_book
+Matthew,Luke,REFERENCES,0.856656,pgvector_book
+Matthew,Mark,REFERENCES,0.920959,pgvector_book
+Matthew,Luke,REFERENCES,0.866909,pgvector_book
+Matthew,Luke,REFERENCES,0.842829,pgvector_book
+Matthew,Mark,REFERENCES,0.864431,pgvector_book
+Matthew,Mark,REFERENCES,0.948807,pgvector_book
+Matthew,Luke,REFERENCES,0.920776,pgvector_book
+Matthew,John,REFERENCES,0.915586,pgvector_book
+Matthew,Luke,REFERENCES,0.835158,pgvector_book
+Matthew,Matthew,REFERENCES,0.853803,pgvector_book
+Matthew,Luke,REFERENCES,0.851125,pgvector_book
+Matthew,Luke,REFERENCES,0.832039,pgvector_book
+Matthew,Luke,REFERENCES,0.849484,pgvector_book
+Matthew,Luke,REFERENCES,0.859741,pgvector_book
+Matthew,Luke,REFERENCES,0.889173,pgvector_book
+Matthew,Mark,REFERENCES,0.832965,pgvector_book
+Matthew,Luke,REFERENCES,0.879408,pgvector_book
+Matthew,Mark,REFERENCES,0.876321,pgvector_book
+Matthew,Matthew,REFERENCES,0.853803,pgvector_book
+Matthew,Luke,REFERENCES,0.844899,pgvector_book
+Matthew,Luke,REFERENCES,0.839224,pgvector_book
+Matthew,Luke,REFERENCES,0.837402,pgvector_book
+Matthew,Luke,REFERENCES,0.831274,pgvector_book
+Matthew,Luke,REFERENCES,0.89939,pgvector_book
+Matthew,Mark,REFERENCES,0.887781,pgvector_book
+Matthew,John,REFERENCES,0.842081,pgvector_book
+Matthew,Mark,REFERENCES,0.874567,pgvector_book
+Matthew,Luke,REFERENCES,0.856206,pgvector_book
+Matthew,Luke,REFERENCES,0.846415,pgvector_book
+Matthew,Mark,REFERENCES,0.936942,pgvector_book
+Matthew,Mark,REFERENCES,0.899976,pgvector_book
+Matthew,Matthew,REFERENCES,0.832993,pgvector_book
+Micah,Zephaniah,REFERENCES,0.868912,pgvector_book
+Micah,Amos,REFERENCES,0.862357,pgvector_book
+Micah,Malachi,REFERENCES,0.853327,pgvector_book
+Nahum,Zephaniah,REFERENCES,0.860428,pgvector_book
+Nahum,Amos,REFERENCES,0.85971,pgvector_book
+Nahum,Jeremiah,REFERENCES,0.859686,pgvector_book
+Nehemiah,Nehemiah,REFERENCES,0.842919,pgvector_book
+Nehemiah,Nehemiah,REFERENCES,0.839794,pgvector_book
+Nehemiah,Nehemiah,REFERENCES,0.832445,pgvector_book
+Nehemiah,Nehemiah,REFERENCES,0.867654,pgvector_book
+Nehemiah,Nehemiah,REFERENCES,0.860292,pgvector_book
+Nehemiah,Nehemiah,REFERENCES,0.854712,pgvector_book
+Nehemiah,Nehemiah,REFERENCES,0.891267,pgvector_book
+Nehemiah,Nehemiah,REFERENCES,0.876485,pgvector_book
+Nehemiah,Nehemiah,REFERENCES,0.876226,pgvector_book
+Nehemiah,Nehemiah,REFERENCES,0.88487,pgvector_book
+Nehemiah,Nehemiah,REFERENCES,0.867654,pgvector_book
+Nehemiah,Nehemiah,REFERENCES,0.836117,pgvector_book
+Nehemiah,Nehemiah,REFERENCES,0.854712,pgvector_book
+Nehemiah,Nehemiah,REFERENCES,0.843019,pgvector_book
+Nehemiah,Nehemiah,REFERENCES,0.836117,pgvector_book
+Nehemiah,Nehemiah,REFERENCES,0.88487,pgvector_book
+Nehemiah,Nehemiah,REFERENCES,0.860292,pgvector_book
+Nehemiah,Ezra,REFERENCES,0.948813,pgvector_book
+Nehemiah,Nehemiah,REFERENCES,0.911742,pgvector_book
+Nehemiah,Nehemiah,REFERENCES,0.901455,pgvector_book
+Nehemiah,Nehemiah,REFERENCES,0.842919,pgvector_book
+Nehemiah,Deuteronomy,REFERENCES,0.840581,pgvector_book
+Nehemiah,Nehemiah,REFERENCES,0.884033,pgvector_book
+Nehemiah,Nehemiah,REFERENCES,0.876307,pgvector_book
+Nehemiah,Nehemiah,REFERENCES,0.871925,pgvector_book
+Nehemiah,Nehemiah,REFERENCES,0.916461,pgvector_book
+Nehemiah,Nehemiah,REFERENCES,0.911742,pgvector_book
+Nehemiah,Ezra,REFERENCES,0.889164,pgvector_book
+Nehemiah,Nehemiah,REFERENCES,0.916461,pgvector_book
+Nehemiah,Nehemiah,REFERENCES,0.901455,pgvector_book
+Nehemiah,Nehemiah,REFERENCES,0.891267,pgvector_book
+Nehemiah,Nehemiah,REFERENCES,0.847257,pgvector_book
+Nehemiah,Nehemiah,REFERENCES,0.843019,pgvector_book
+Nehemiah,Nehemiah,REFERENCES,0.835092,pgvector_book
+Numbers,Numbers,REFERENCES,0.832805,pgvector_book
+Numbers,Numbers,REFERENCES,0.928109,pgvector_book
+Numbers,Numbers,REFERENCES,0.909132,pgvector_book
+Numbers,Numbers,REFERENCES,0.900973,pgvector_book
+Numbers,Numbers,REFERENCES,0.928109,pgvector_book
+Numbers,Numbers,REFERENCES,0.866985,pgvector_book
+Numbers,Numbers,REFERENCES,0.857219,pgvector_book
+Numbers,Numbers,REFERENCES,0.909132,pgvector_book
+Numbers,Numbers,REFERENCES,0.882911,pgvector_book
+Numbers,Numbers,REFERENCES,0.877795,pgvector_book
+Numbers,Numbers,REFERENCES,0.882911,pgvector_book
+Numbers,Numbers,REFERENCES,0.845238,pgvector_book
+Numbers,Numbers,REFERENCES,0.872836,pgvector_book
+Numbers,Numbers,REFERENCES,0.852417,pgvector_book
+Numbers,Numbers,REFERENCES,0.841361,pgvector_book
+Numbers,Leviticus,REFERENCES,0.869682,pgvector_book
+Numbers,Numbers,REFERENCES,0.856005,pgvector_book
+Numbers,Numbers,REFERENCES,0.854941,pgvector_book
+Numbers,Numbers,REFERENCES,0.831269,pgvector_book
+Numbers,Numbers,REFERENCES,0.856688,pgvector_book
+Numbers,Numbers,REFERENCES,0.853373,pgvector_book
+Numbers,Numbers,REFERENCES,0.851322,pgvector_book
+Numbers,Exodus,REFERENCES,0.84482,pgvector_book
+Numbers,Numbers,REFERENCES,0.842871,pgvector_book
+Numbers,Numbers,REFERENCES,0.838619,pgvector_book
+Numbers,Numbers,REFERENCES,0.857656,pgvector_book
+Numbers,Deuteronomy,REFERENCES,0.851715,pgvector_book
+Numbers,Numbers,REFERENCES,0.849069,pgvector_book
+Numbers,Deuteronomy,REFERENCES,0.886207,pgvector_book
+Numbers,Numbers,REFERENCES,0.857819,pgvector_book
+Numbers,Numbers,REFERENCES,0.857656,pgvector_book
+Numbers,Numbers,REFERENCES,0.839546,pgvector_book
+Numbers,Numbers,REFERENCES,0.832114,pgvector_book
+Numbers,Numbers,REFERENCES,0.851947,pgvector_book
+Numbers,Numbers,REFERENCES,0.845697,pgvector_book
+Numbers,Numbers,REFERENCES,0.838619,pgvector_book
+Numbers,Numbers,REFERENCES,0.854941,pgvector_book
+Numbers,Numbers,REFERENCES,0.849803,pgvector_book
+Numbers,Deuteronomy,REFERENCES,0.840214,pgvector_book
+Numbers,Leviticus,REFERENCES,0.834947,pgvector_book
+Numbers,Numbers,REFERENCES,0.864861,pgvector_book
+Numbers,Numbers,REFERENCES,0.861942,pgvector_book
+Numbers,Numbers,REFERENCES,0.857819,pgvector_book
+Numbers,Numbers,REFERENCES,0.877335,pgvector_book
+Numbers,Deuteronomy,REFERENCES,0.87685,pgvector_book
+Numbers,Numbers,REFERENCES,0.864861,pgvector_book
+Numbers,Numbers,REFERENCES,0.915883,pgvector_book
+Numbers,Numbers,REFERENCES,0.866889,pgvector_book
+Numbers,Numbers,REFERENCES,0.915883,pgvector_book
+Numbers,Numbers,REFERENCES,0.886838,pgvector_book
+Numbers,Numbers,REFERENCES,0.886838,pgvector_book
+Numbers,Numbers,REFERENCES,0.866889,pgvector_book
+Numbers,Numbers,REFERENCES,0.855141,pgvector_book
+Numbers,Numbers,REFERENCES,0.900973,pgvector_book
+Numbers,Numbers,REFERENCES,0.877795,pgvector_book
+Numbers,1 Chronicles,REFERENCES,0.870309,pgvector_book
+Numbers,Numbers,REFERENCES,0.832805,pgvector_book
+Numbers,Numbers,REFERENCES,0.956259,pgvector_book
+Numbers,Leviticus,REFERENCES,0.871203,pgvector_book
+Numbers,Exodus,REFERENCES,0.869407,pgvector_book
+Numbers,Numbers,REFERENCES,0.956259,pgvector_book
+Numbers,Exodus,REFERENCES,0.881867,pgvector_book
+Numbers,Leviticus,REFERENCES,0.861605,pgvector_book
+Numbers,Numbers,REFERENCES,0.855141,pgvector_book
+Numbers,Numbers,REFERENCES,0.848699,pgvector_book
+Numbers,Numbers,REFERENCES,0.838721,pgvector_book
+Numbers,Numbers,REFERENCES,0.885702,pgvector_book
+Numbers,Joshua,REFERENCES,0.879416,pgvector_book
+Numbers,Deuteronomy,REFERENCES,0.868751,pgvector_book
+Numbers,Numbers,REFERENCES,0.885702,pgvector_book
+Numbers,Numbers,REFERENCES,0.877335,pgvector_book
+Numbers,Deuteronomy,REFERENCES,0.874686,pgvector_book
+Numbers,Numbers,REFERENCES,0.865863,pgvector_book
+Numbers,Numbers,REFERENCES,0.85331,pgvector_book
+Numbers,Joshua,REFERENCES,0.841447,pgvector_book
+Numbers,Deuteronomy,REFERENCES,0.861167,pgvector_book
+Numbers,Joshua,REFERENCES,0.831846,pgvector_book
+Obadiah,Jeremiah,REFERENCES,0.853416,pgvector_book
+Obadiah,Micah,REFERENCES,0.832269,pgvector_book
+Philippians,2 Timothy,REFERENCES,0.870617,pgvector_book
+Philippians,Colossians,REFERENCES,0.863194,pgvector_book
+Philippians,Ephesians,REFERENCES,0.856189,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.883074,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.875265,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.866531,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.834326,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.863366,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.841542,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.836701,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.841542,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.84772,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.831188,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.84772,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.863366,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.885849,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.877278,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.871863,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.865405,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.859048,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.857807,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.884241,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.875189,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.872302,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.885849,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.871156,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.866531,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.884241,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.880825,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.879675,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.879675,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.877278,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.875189,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.879282,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.858407,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.857575,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.860803,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.845575,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.844776,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.844776,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.830855,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.865861,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.84917,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.847786,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.880825,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.879282,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.872302,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.883074,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.865098,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.859967,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.847539,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.838013,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.83583,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.872771,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.862735,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.859967,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.838641,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.845575,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.838641,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.8666,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.852944,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.844167,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.875265,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.872694,pgvector_book
+Proverbs,Proverbs,REFERENCES,0.8666,pgvector_book
+Psalm,Psalm,REFERENCES,0.844525,pgvector_book
+Psalm,Psalm,REFERENCES,0.834317,pgvector_book
+Psalm,Psalm,REFERENCES,0.90507,pgvector_book
+Psalm,2 Samuel,REFERENCES,0.925389,pgvector_book
+Psalm,Psalm,REFERENCES,0.847285,pgvector_book
+Psalm,Psalm,REFERENCES,0.831952,pgvector_book
+Psalm,Psalm,REFERENCES,0.860544,pgvector_book
+Psalm,Psalm,REFERENCES,0.840917,pgvector_book
+Psalm,Psalm,REFERENCES,0.831899,pgvector_book
+Psalm,Psalm,REFERENCES,0.861226,pgvector_book
+Psalm,Psalm,REFERENCES,0.860544,pgvector_book
+Psalm,Psalm,REFERENCES,0.836684,pgvector_book
+Psalm,Psalm,REFERENCES,0.90507,pgvector_book
+Psalm,Psalm,REFERENCES,0.861226,pgvector_book
+Psalm,Psalm,REFERENCES,0.844525,pgvector_book
+Psalm,Psalm,REFERENCES,0.831899,pgvector_book
+Psalm,Psalm,REFERENCES,0.843572,pgvector_book
+Psalm,Psalm,REFERENCES,0.851959,pgvector_book
+Psalm,Psalm,REFERENCES,0.834726,pgvector_book
+Psalm,Psalm,REFERENCES,0.831952,pgvector_book
+Psalm,Psalm,REFERENCES,0.840917,pgvector_book
+Psalm,Deuteronomy,REFERENCES,0.850477,pgvector_book
+Psalm,Psalm,REFERENCES,0.830668,pgvector_book
+Psalm,Psalm,REFERENCES,0.876286,pgvector_book
+Psalm,Psalm,REFERENCES,0.876286,pgvector_book
+Psalm,Psalm,REFERENCES,0.832812,pgvector_book
+Psalm,Psalm,REFERENCES,0.832812,pgvector_book
+Psalm,Psalm,REFERENCES,0.868455,pgvector_book
+Psalm,Psalm,REFERENCES,0.834919,pgvector_book
+Psalm,Psalm,REFERENCES,0.868455,pgvector_book
+Psalm,Psalm,REFERENCES,0.838168,pgvector_book
+Psalm,Psalm,REFERENCES,0.830668,pgvector_book
+Psalm,Psalm,REFERENCES,0.838168,pgvector_book
+Psalm,Psalm,REFERENCES,0.834919,pgvector_book
+Psalm,Psalm,REFERENCES,0.843572,pgvector_book
+Psalm,Psalm,REFERENCES,0.851959,pgvector_book
+Psalm,Psalm,REFERENCES,0.836684,pgvector_book
+Psalm,Psalm,REFERENCES,0.830203,pgvector_book
+Psalm,Psalm,REFERENCES,0.847285,pgvector_book
+Psalm,Psalm,REFERENCES,0.843638,pgvector_book
+Psalm,Psalm,REFERENCES,0.843638,pgvector_book
+Psalm,Psalm,REFERENCES,0.862315,pgvector_book
+Psalm,Psalm,REFERENCES,0.831641,pgvector_book
+Psalm,Psalm,REFERENCES,0.862315,pgvector_book
+Psalm,Psalm,REFERENCES,0.843254,pgvector_book
+Psalm,Psalm,REFERENCES,0.843254,pgvector_book
+Psalm,Psalm,REFERENCES,0.834317,pgvector_book
+Revelation,Revelation,REFERENCES,0.843351,pgvector_book
+Revelation,Revelation,REFERENCES,0.830674,pgvector_book
+Revelation,Revelation,REFERENCES,0.843351,pgvector_book
+Revelation,Revelation,REFERENCES,0.861081,pgvector_book
+Revelation,Revelation,REFERENCES,0.861081,pgvector_book
+Revelation,Revelation,REFERENCES,0.830674,pgvector_book
+Romans,Romans,REFERENCES,0.857226,pgvector_book
+Romans,Romans,REFERENCES,0.857226,pgvector_book
+Romans,Romans,REFERENCES,0.863608,pgvector_book
+Romans,Romans,REFERENCES,0.863608,pgvector_book
+Titus,1 Timothy,REFERENCES,0.886734,pgvector_book
+Titus,2 Timothy,REFERENCES,0.879662,pgvector_book
+Titus,1 Thessalonians,REFERENCES,0.844353,pgvector_book
+Zechariah,Haggai,REFERENCES,0.871591,pgvector_book
+Zechariah,Zephaniah,REFERENCES,0.862635,pgvector_book
+Zechariah,Micah,REFERENCES,0.850461,pgvector_book
+Zephaniah,Micah,REFERENCES,0.868912,pgvector_book
+Zephaniah,Zechariah,REFERENCES,0.862635,pgvector_book
+Zephaniah,Nahum,REFERENCES,0.860428,pgvector_book

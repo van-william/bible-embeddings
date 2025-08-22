@@ -169,3 +169,26 @@ LIMIT 3;
 - **analysis**: UMAP, HDBSCAN for advanced clustering
 - **web**: Flask, Jupyter for web serving
 - **dev**: pytest, black, mypy for development 
+
+---
+
+## Graph (Neo4j): curated prophecy fulfillments
+
+Add fulfillment mappings in `data/bible_fulfillment.md` (one per line):
+- `Micah 5:2 -> Matthew 2:1`
+- `Zechariah 9:9 -> Matthew 21:4-5`
+
+Build and load into Neo4j:
+```bash
+uv run python graph/ingest/build_fulfills.py
+cp results/graph/csv/fulfills_edges.csv graph/import/csv/
+docker cp graph/import/csv/fulfills_edges.csv bible_neo4j:/var/lib/neo4j/import/csv/
+docker exec bible_neo4j cypher-shell -u neo4j -p password -f /var/lib/neo4j/import/load_csv.cypher | cat
+```
+
+Verify in Neo4j:
+```bash
+docker exec bible_neo4j cypher-shell -u neo4j -p password "MATCH ()-[r:FULFILLS]->() RETURN count(r);" | cat
+```
+
+For full graph setup, login, and using Neon embeddings for references, see `graph/README.md`.

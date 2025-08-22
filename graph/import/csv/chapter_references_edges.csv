@@ -1,0 +1,1935 @@
+:START_ID,:END_ID,:TYPE,score,method
+1 Chronicles.1,1 Chronicles.2,REFERENCES,0.91137,pgvector_chapter
+1 Chronicles.1,Genesis.36,REFERENCES,0.898258,pgvector_chapter
+1 Chronicles.1,1 Chronicles.4,REFERENCES,0.893544,pgvector_chapter
+1 Chronicles.10,1 Samuel.31,REFERENCES,0.91774,pgvector_chapter
+1 Chronicles.10,2 Samuel.1,REFERENCES,0.842466,pgvector_chapter
+1 Chronicles.10,1 Samuel.14,REFERENCES,0.836307,pgvector_chapter
+1 Chronicles.11,2 Samuel.23,REFERENCES,0.928539,pgvector_chapter
+1 Chronicles.11,1 Chronicles.12,REFERENCES,0.885267,pgvector_chapter
+1 Chronicles.11,1 Chronicles.27,REFERENCES,0.863754,pgvector_chapter
+1 Chronicles.12,1 Chronicles.27,REFERENCES,0.888959,pgvector_chapter
+1 Chronicles.12,1 Chronicles.11,REFERENCES,0.885267,pgvector_chapter
+1 Chronicles.12,2 Samuel.23,REFERENCES,0.860106,pgvector_chapter
+1 Chronicles.13,2 Samuel.6,REFERENCES,0.855557,pgvector_chapter
+1 Chronicles.14,2 Samuel.5,REFERENCES,0.898111,pgvector_chapter
+1 Chronicles.15,2 Samuel.6,REFERENCES,0.863145,pgvector_chapter
+1 Chronicles.16,1 Kings.8,REFERENCES,0.833107,pgvector_chapter
+1 Chronicles.17,2 Samuel.7,REFERENCES,0.945344,pgvector_chapter
+1 Chronicles.17,2 Chronicles.6,REFERENCES,0.840618,pgvector_chapter
+1 Chronicles.17,1 Kings.8,REFERENCES,0.839589,pgvector_chapter
+1 Chronicles.18,2 Samuel.8,REFERENCES,0.941866,pgvector_chapter
+1 Chronicles.18,1 Chronicles.19,REFERENCES,0.842272,pgvector_chapter
+1 Chronicles.18,1 Chronicles.11,REFERENCES,0.830625,pgvector_chapter
+1 Chronicles.19,2 Samuel.10,REFERENCES,0.935953,pgvector_chapter
+1 Chronicles.19,1 Chronicles.18,REFERENCES,0.842272,pgvector_chapter
+1 Chronicles.19,2 Samuel.8,REFERENCES,0.831865,pgvector_chapter
+1 Chronicles.2,1 Chronicles.4,REFERENCES,0.925517,pgvector_chapter
+1 Chronicles.2,1 Chronicles.1,REFERENCES,0.91137,pgvector_chapter
+1 Chronicles.2,1 Chronicles.8,REFERENCES,0.910168,pgvector_chapter
+1 Chronicles.20,2 Samuel.21,REFERENCES,0.876724,pgvector_chapter
+1 Chronicles.21,2 Samuel.24,REFERENCES,0.930378,pgvector_chapter
+1 Chronicles.22,1 Chronicles.28,REFERENCES,0.916874,pgvector_chapter
+1 Chronicles.22,1 Chronicles.29,REFERENCES,0.886867,pgvector_chapter
+1 Chronicles.22,2 Chronicles.1,REFERENCES,0.843532,pgvector_chapter
+1 Chronicles.23,1 Chronicles.24,REFERENCES,0.916744,pgvector_chapter
+1 Chronicles.23,1 Chronicles.6,REFERENCES,0.894998,pgvector_chapter
+1 Chronicles.23,1 Chronicles.26,REFERENCES,0.883688,pgvector_chapter
+1 Chronicles.24,1 Chronicles.23,REFERENCES,0.916744,pgvector_chapter
+1 Chronicles.24,1 Chronicles.6,REFERENCES,0.903156,pgvector_chapter
+1 Chronicles.24,1 Chronicles.26,REFERENCES,0.889933,pgvector_chapter
+1 Chronicles.25,1 Chronicles.26,REFERENCES,0.855338,pgvector_chapter
+1 Chronicles.25,1 Chronicles.6,REFERENCES,0.85399,pgvector_chapter
+1 Chronicles.25,1 Chronicles.24,REFERENCES,0.85295,pgvector_chapter
+1 Chronicles.26,1 Chronicles.9,REFERENCES,0.894777,pgvector_chapter
+1 Chronicles.26,1 Chronicles.24,REFERENCES,0.889933,pgvector_chapter
+1 Chronicles.26,1 Chronicles.6,REFERENCES,0.883819,pgvector_chapter
+1 Chronicles.27,1 Chronicles.12,REFERENCES,0.888959,pgvector_chapter
+1 Chronicles.27,1 Chronicles.26,REFERENCES,0.868111,pgvector_chapter
+1 Chronicles.27,1 Chronicles.11,REFERENCES,0.863754,pgvector_chapter
+1 Chronicles.28,1 Chronicles.22,REFERENCES,0.916874,pgvector_chapter
+1 Chronicles.28,1 Chronicles.29,REFERENCES,0.902904,pgvector_chapter
+1 Chronicles.28,1 Kings.8,REFERENCES,0.859009,pgvector_chapter
+1 Chronicles.29,1 Chronicles.28,REFERENCES,0.902904,pgvector_chapter
+1 Chronicles.29,1 Chronicles.22,REFERENCES,0.886867,pgvector_chapter
+1 Chronicles.29,2 Chronicles.1,REFERENCES,0.847904,pgvector_chapter
+1 Chronicles.3,1 Chronicles.2,REFERENCES,0.881003,pgvector_chapter
+1 Chronicles.3,1 Chronicles.8,REFERENCES,0.85577,pgvector_chapter
+1 Chronicles.3,1 Chronicles.6,REFERENCES,0.846314,pgvector_chapter
+1 Chronicles.4,1 Chronicles.2,REFERENCES,0.925517,pgvector_chapter
+1 Chronicles.4,1 Chronicles.8,REFERENCES,0.897402,pgvector_chapter
+1 Chronicles.4,1 Chronicles.7,REFERENCES,0.894398,pgvector_chapter
+1 Chronicles.5,1 Chronicles.7,REFERENCES,0.878563,pgvector_chapter
+1 Chronicles.5,1 Chronicles.4,REFERENCES,0.865768,pgvector_chapter
+1 Chronicles.5,1 Chronicles.2,REFERENCES,0.864701,pgvector_chapter
+1 Chronicles.6,1 Chronicles.9,REFERENCES,0.911057,pgvector_chapter
+1 Chronicles.6,1 Chronicles.24,REFERENCES,0.903156,pgvector_chapter
+1 Chronicles.6,1 Chronicles.2,REFERENCES,0.90301,pgvector_chapter
+1 Chronicles.7,1 Chronicles.8,REFERENCES,0.908593,pgvector_chapter
+1 Chronicles.7,1 Chronicles.2,REFERENCES,0.907806,pgvector_chapter
+1 Chronicles.7,1 Chronicles.4,REFERENCES,0.894398,pgvector_chapter
+1 Chronicles.8,1 Chronicles.2,REFERENCES,0.910168,pgvector_chapter
+1 Chronicles.8,1 Chronicles.7,REFERENCES,0.908593,pgvector_chapter
+1 Chronicles.8,1 Chronicles.9,REFERENCES,0.900828,pgvector_chapter
+1 Chronicles.9,1 Chronicles.6,REFERENCES,0.911057,pgvector_chapter
+1 Chronicles.9,1 Chronicles.8,REFERENCES,0.900828,pgvector_chapter
+1 Chronicles.9,1 Chronicles.26,REFERENCES,0.894777,pgvector_chapter
+1 Corinthians.1,2 Corinthians.1,REFERENCES,0.855045,pgvector_chapter
+1 Corinthians.1,1 Corinthians.2,REFERENCES,0.830862,pgvector_chapter
+1 Corinthians.2,1 Corinthians.1,REFERENCES,0.830862,pgvector_chapter
+1 John.2,2 John.1,REFERENCES,0.874237,pgvector_chapter
+1 John.2,1 John.3,REFERENCES,0.849956,pgvector_chapter
+1 John.2,1 John.4,REFERENCES,0.846771,pgvector_chapter
+1 John.3,1 John.4,REFERENCES,0.871524,pgvector_chapter
+1 John.3,1 John.5,REFERENCES,0.86085,pgvector_chapter
+1 John.3,1 John.2,REFERENCES,0.849956,pgvector_chapter
+1 John.4,1 John.3,REFERENCES,0.871524,pgvector_chapter
+1 John.4,1 John.2,REFERENCES,0.846771,pgvector_chapter
+1 John.4,1 John.5,REFERENCES,0.836167,pgvector_chapter
+1 John.5,1 John.3,REFERENCES,0.86085,pgvector_chapter
+1 John.5,1 John.2,REFERENCES,0.836668,pgvector_chapter
+1 John.5,1 John.4,REFERENCES,0.836167,pgvector_chapter
+1 Kings.1,1 Kings.2,REFERENCES,0.90692,pgvector_chapter
+1 Kings.1,1 Kings.11,REFERENCES,0.859071,pgvector_chapter
+1 Kings.1,2 Samuel.19,REFERENCES,0.840516,pgvector_chapter
+1 Kings.10,2 Chronicles.9,REFERENCES,0.960218,pgvector_chapter
+1 Kings.10,2 Chronicles.1,REFERENCES,0.85378,pgvector_chapter
+1 Kings.10,1 Kings.4,REFERENCES,0.84675,pgvector_chapter
+1 Kings.11,1 Kings.14,REFERENCES,0.870422,pgvector_chapter
+1 Kings.11,1 Kings.2,REFERENCES,0.860697,pgvector_chapter
+1 Kings.11,1 Kings.1,REFERENCES,0.859071,pgvector_chapter
+1 Kings.12,2 Chronicles.10,REFERENCES,0.915914,pgvector_chapter
+1 Kings.12,1 Kings.14,REFERENCES,0.862086,pgvector_chapter
+1 Kings.12,1 Kings.11,REFERENCES,0.850336,pgvector_chapter
+1 Kings.13,1 Kings.14,REFERENCES,0.842749,pgvector_chapter
+1 Kings.13,1 Kings.12,REFERENCES,0.841353,pgvector_chapter
+1 Kings.13,2 Kings.23,REFERENCES,0.832433,pgvector_chapter
+1 Kings.14,1 Kings.15,REFERENCES,0.880559,pgvector_chapter
+1 Kings.14,2 Kings.14,REFERENCES,0.876748,pgvector_chapter
+1 Kings.14,1 Kings.11,REFERENCES,0.870422,pgvector_chapter
+1 Kings.15,1 Kings.16,REFERENCES,0.886243,pgvector_chapter
+1 Kings.15,1 Kings.14,REFERENCES,0.880559,pgvector_chapter
+1 Kings.15,2 Kings.15,REFERENCES,0.872131,pgvector_chapter
+1 Kings.16,1 Kings.15,REFERENCES,0.886243,pgvector_chapter
+1 Kings.16,1 Kings.22,REFERENCES,0.869265,pgvector_chapter
+1 Kings.16,2 Kings.10,REFERENCES,0.865908,pgvector_chapter
+1 Kings.17,1 Kings.19,REFERENCES,0.851246,pgvector_chapter
+1 Kings.17,1 Kings.18,REFERENCES,0.850947,pgvector_chapter
+1 Kings.17,2 Kings.4,REFERENCES,0.839659,pgvector_chapter
+1 Kings.18,1 Kings.19,REFERENCES,0.905321,pgvector_chapter
+1 Kings.18,1 Kings.17,REFERENCES,0.850947,pgvector_chapter
+1 Kings.18,2 Kings.2,REFERENCES,0.850429,pgvector_chapter
+1 Kings.19,1 Kings.18,REFERENCES,0.905321,pgvector_chapter
+1 Kings.19,2 Kings.1,REFERENCES,0.861624,pgvector_chapter
+1 Kings.19,2 Kings.2,REFERENCES,0.853015,pgvector_chapter
+1 Kings.2,1 Kings.1,REFERENCES,0.90692,pgvector_chapter
+1 Kings.2,2 Samuel.19,REFERENCES,0.882259,pgvector_chapter
+1 Kings.2,1 Kings.11,REFERENCES,0.860697,pgvector_chapter
+1 Kings.20,2 Kings.6,REFERENCES,0.868642,pgvector_chapter
+1 Kings.20,1 Kings.22,REFERENCES,0.858765,pgvector_chapter
+1 Kings.20,2 Chronicles.18,REFERENCES,0.845267,pgvector_chapter
+1 Kings.21,2 Kings.9,REFERENCES,0.865517,pgvector_chapter
+1 Kings.21,1 Kings.16,REFERENCES,0.851731,pgvector_chapter
+1 Kings.21,1 Kings.22,REFERENCES,0.846523,pgvector_chapter
+1 Kings.22,2 Chronicles.18,REFERENCES,0.95096,pgvector_chapter
+1 Kings.22,2 Kings.9,REFERENCES,0.891921,pgvector_chapter
+1 Kings.22,2 Chronicles.20,REFERENCES,0.878799,pgvector_chapter
+1 Kings.3,1 Kings.1,REFERENCES,0.834306,pgvector_chapter
+1 Kings.3,1 Kings.2,REFERENCES,0.831897,pgvector_chapter
+1 Kings.4,1 Kings.10,REFERENCES,0.84675,pgvector_chapter
+1 Kings.4,2 Chronicles.9,REFERENCES,0.845627,pgvector_chapter
+1 Kings.4,2 Chronicles.1,REFERENCES,0.839046,pgvector_chapter
+1 Kings.5,2 Chronicles.2,REFERENCES,0.884964,pgvector_chapter
+1 Kings.5,1 Kings.9,REFERENCES,0.875391,pgvector_chapter
+1 Kings.6,2 Chronicles.3,REFERENCES,0.901207,pgvector_chapter
+1 Kings.6,1 Kings.7,REFERENCES,0.861774,pgvector_chapter
+1 Kings.6,Ezekiel.41,REFERENCES,0.853271,pgvector_chapter
+1 Kings.7,2 Chronicles.4,REFERENCES,0.915244,pgvector_chapter
+1 Kings.7,1 Kings.6,REFERENCES,0.861774,pgvector_chapter
+1 Kings.7,1 Kings.10,REFERENCES,0.839001,pgvector_chapter
+1 Kings.8,2 Chronicles.6,REFERENCES,0.947114,pgvector_chapter
+1 Kings.8,2 Chronicles.7,REFERENCES,0.874743,pgvector_chapter
+1 Kings.8,1 Chronicles.28,REFERENCES,0.859009,pgvector_chapter
+1 Kings.9,2 Chronicles.8,REFERENCES,0.905357,pgvector_chapter
+1 Kings.9,1 Kings.5,REFERENCES,0.875391,pgvector_chapter
+1 Kings.9,2 Chronicles.2,REFERENCES,0.843625,pgvector_chapter
+1 Peter.1,2 Peter.1,REFERENCES,0.859237,pgvector_chapter
+1 Samuel.1,1 Samuel.2,REFERENCES,0.863474,pgvector_chapter
+1 Samuel.1,1 Kings.1,REFERENCES,0.837416,pgvector_chapter
+1 Samuel.10,1 Samuel.9,REFERENCES,0.905484,pgvector_chapter
+1 Samuel.10,1 Samuel.14,REFERENCES,0.8534,pgvector_chapter
+1 Samuel.10,1 Samuel.16,REFERENCES,0.847575,pgvector_chapter
+1 Samuel.11,1 Samuel.15,REFERENCES,0.849792,pgvector_chapter
+1 Samuel.11,1 Samuel.10,REFERENCES,0.843684,pgvector_chapter
+1 Samuel.11,1 Samuel.13,REFERENCES,0.842762,pgvector_chapter
+1 Samuel.12,1 Samuel.8,REFERENCES,0.832524,pgvector_chapter
+1 Samuel.13,1 Samuel.14,REFERENCES,0.874406,pgvector_chapter
+1 Samuel.13,1 Samuel.17,REFERENCES,0.86329,pgvector_chapter
+1 Samuel.13,1 Samuel.10,REFERENCES,0.846658,pgvector_chapter
+1 Samuel.14,1 Samuel.20,REFERENCES,0.883224,pgvector_chapter
+1 Samuel.14,1 Samuel.13,REFERENCES,0.874406,pgvector_chapter
+1 Samuel.14,1 Samuel.17,REFERENCES,0.872279,pgvector_chapter
+1 Samuel.15,1 Samuel.11,REFERENCES,0.849792,pgvector_chapter
+1 Samuel.15,1 Samuel.28,REFERENCES,0.844391,pgvector_chapter
+1 Samuel.15,1 Samuel.10,REFERENCES,0.842671,pgvector_chapter
+1 Samuel.16,1 Samuel.10,REFERENCES,0.847575,pgvector_chapter
+1 Samuel.17,1 Samuel.14,REFERENCES,0.872279,pgvector_chapter
+1 Samuel.17,1 Samuel.26,REFERENCES,0.869418,pgvector_chapter
+1 Samuel.17,1 Samuel.23,REFERENCES,0.865246,pgvector_chapter
+1 Samuel.18,1 Samuel.19,REFERENCES,0.892208,pgvector_chapter
+1 Samuel.18,1 Samuel.17,REFERENCES,0.854338,pgvector_chapter
+1 Samuel.18,1 Samuel.25,REFERENCES,0.850006,pgvector_chapter
+1 Samuel.19,1 Samuel.18,REFERENCES,0.892208,pgvector_chapter
+1 Samuel.19,1 Samuel.20,REFERENCES,0.87939,pgvector_chapter
+1 Samuel.19,1 Samuel.23,REFERENCES,0.866755,pgvector_chapter
+1 Samuel.2,1 Samuel.1,REFERENCES,0.863474,pgvector_chapter
+1 Samuel.2,1 Samuel.3,REFERENCES,0.832052,pgvector_chapter
+1 Samuel.20,1 Samuel.14,REFERENCES,0.883224,pgvector_chapter
+1 Samuel.20,1 Samuel.19,REFERENCES,0.87939,pgvector_chapter
+1 Samuel.20,2 Samuel.1,REFERENCES,0.851387,pgvector_chapter
+1 Samuel.21,1 Samuel.22,REFERENCES,0.896795,pgvector_chapter
+1 Samuel.21,1 Samuel.17,REFERENCES,0.831389,pgvector_chapter
+1 Samuel.22,1 Samuel.21,REFERENCES,0.896795,pgvector_chapter
+1 Samuel.22,1 Samuel.23,REFERENCES,0.882501,pgvector_chapter
+1 Samuel.22,1 Samuel.26,REFERENCES,0.875132,pgvector_chapter
+1 Samuel.23,1 Samuel.26,REFERENCES,0.886652,pgvector_chapter
+1 Samuel.23,1 Samuel.22,REFERENCES,0.882501,pgvector_chapter
+1 Samuel.23,1 Samuel.24,REFERENCES,0.868256,pgvector_chapter
+1 Samuel.24,1 Samuel.26,REFERENCES,0.895957,pgvector_chapter
+1 Samuel.24,1 Samuel.23,REFERENCES,0.868256,pgvector_chapter
+1 Samuel.24,1 Samuel.18,REFERENCES,0.838815,pgvector_chapter
+1 Samuel.25,2 Samuel.3,REFERENCES,0.877386,pgvector_chapter
+1 Samuel.25,1 Samuel.26,REFERENCES,0.871709,pgvector_chapter
+1 Samuel.25,1 Samuel.22,REFERENCES,0.858502,pgvector_chapter
+1 Samuel.26,1 Samuel.24,REFERENCES,0.895957,pgvector_chapter
+1 Samuel.26,1 Samuel.23,REFERENCES,0.886652,pgvector_chapter
+1 Samuel.26,1 Samuel.22,REFERENCES,0.875132,pgvector_chapter
+1 Samuel.27,1 Samuel.30,REFERENCES,0.86104,pgvector_chapter
+1 Samuel.27,1 Samuel.29,REFERENCES,0.854785,pgvector_chapter
+1 Samuel.27,1 Samuel.23,REFERENCES,0.840832,pgvector_chapter
+1 Samuel.28,1 Samuel.26,REFERENCES,0.845745,pgvector_chapter
+1 Samuel.28,1 Samuel.19,REFERENCES,0.844805,pgvector_chapter
+1 Samuel.28,1 Samuel.15,REFERENCES,0.844391,pgvector_chapter
+1 Samuel.29,1 Samuel.27,REFERENCES,0.854785,pgvector_chapter
+1 Samuel.29,1 Samuel.26,REFERENCES,0.839434,pgvector_chapter
+1 Samuel.3,1 Samuel.2,REFERENCES,0.832052,pgvector_chapter
+1 Samuel.30,1 Samuel.27,REFERENCES,0.86104,pgvector_chapter
+1 Samuel.30,1 Samuel.25,REFERENCES,0.847607,pgvector_chapter
+1 Samuel.30,1 Samuel.23,REFERENCES,0.835647,pgvector_chapter
+1 Samuel.31,1 Chronicles.10,REFERENCES,0.91774,pgvector_chapter
+1 Samuel.31,1 Samuel.13,REFERENCES,0.845029,pgvector_chapter
+1 Samuel.31,1 Samuel.14,REFERENCES,0.842141,pgvector_chapter
+1 Samuel.5,1 Samuel.6,REFERENCES,0.83607,pgvector_chapter
+1 Samuel.6,1 Samuel.5,REFERENCES,0.83607,pgvector_chapter
+1 Samuel.8,1 Samuel.12,REFERENCES,0.832524,pgvector_chapter
+1 Samuel.9,1 Samuel.10,REFERENCES,0.905484,pgvector_chapter
+1 Thessalonians.1,2 Thessalonians.1,REFERENCES,0.862928,pgvector_chapter
+1 Thessalonians.1,1 Thessalonians.2,REFERENCES,0.841832,pgvector_chapter
+1 Thessalonians.1,1 Thessalonians.3,REFERENCES,0.833483,pgvector_chapter
+1 Thessalonians.2,1 Thessalonians.1,REFERENCES,0.841832,pgvector_chapter
+1 Thessalonians.3,1 Thessalonians.1,REFERENCES,0.833483,pgvector_chapter
+2 Chronicles.1,2 Chronicles.9,REFERENCES,0.872166,pgvector_chapter
+2 Chronicles.1,1 Kings.10,REFERENCES,0.85378,pgvector_chapter
+2 Chronicles.1,1 Chronicles.29,REFERENCES,0.847904,pgvector_chapter
+2 Chronicles.10,1 Kings.12,REFERENCES,0.915914,pgvector_chapter
+2 Chronicles.11,2 Chronicles.13,REFERENCES,0.865421,pgvector_chapter
+2 Chronicles.11,1 Kings.12,REFERENCES,0.850133,pgvector_chapter
+2 Chronicles.11,1 Kings.11,REFERENCES,0.845158,pgvector_chapter
+2 Chronicles.12,2 Chronicles.11,REFERENCES,0.843792,pgvector_chapter
+2 Chronicles.12,1 Kings.14,REFERENCES,0.842222,pgvector_chapter
+2 Chronicles.12,1 Kings.12,REFERENCES,0.841097,pgvector_chapter
+2 Chronicles.13,2 Chronicles.11,REFERENCES,0.865421,pgvector_chapter
+2 Chronicles.13,1 Kings.15,REFERENCES,0.859352,pgvector_chapter
+2 Chronicles.13,1 Kings.14,REFERENCES,0.854542,pgvector_chapter
+2 Chronicles.14,2 Chronicles.15,REFERENCES,0.859793,pgvector_chapter
+2 Chronicles.14,2 Chronicles.20,REFERENCES,0.836178,pgvector_chapter
+2 Chronicles.14,2 Kings.14,REFERENCES,0.832409,pgvector_chapter
+2 Chronicles.15,2 Chronicles.14,REFERENCES,0.859793,pgvector_chapter
+2 Chronicles.16,1 Kings.15,REFERENCES,0.859438,pgvector_chapter
+2 Chronicles.17,2 Chronicles.20,REFERENCES,0.861173,pgvector_chapter
+2 Chronicles.17,2 Chronicles.13,REFERENCES,0.841686,pgvector_chapter
+2 Chronicles.17,2 Chronicles.11,REFERENCES,0.835392,pgvector_chapter
+2 Chronicles.18,1 Kings.22,REFERENCES,0.95096,pgvector_chapter
+2 Chronicles.18,2 Kings.3,REFERENCES,0.863868,pgvector_chapter
+2 Chronicles.18,2 Chronicles.20,REFERENCES,0.862192,pgvector_chapter
+2 Chronicles.19,2 Chronicles.20,REFERENCES,0.85004,pgvector_chapter
+2 Chronicles.19,2 Chronicles.17,REFERENCES,0.830178,pgvector_chapter
+2 Chronicles.2,1 Kings.5,REFERENCES,0.884964,pgvector_chapter
+2 Chronicles.2,2 Chronicles.8,REFERENCES,0.849464,pgvector_chapter
+2 Chronicles.2,1 Kings.9,REFERENCES,0.843625,pgvector_chapter
+2 Chronicles.20,1 Kings.22,REFERENCES,0.878799,pgvector_chapter
+2 Chronicles.20,2 Kings.14,REFERENCES,0.867172,pgvector_chapter
+2 Chronicles.20,2 Kings.3,REFERENCES,0.864749,pgvector_chapter
+2 Chronicles.21,1 Kings.14,REFERENCES,0.855288,pgvector_chapter
+2 Chronicles.21,2 Kings.8,REFERENCES,0.846598,pgvector_chapter
+2 Chronicles.21,1 Kings.22,REFERENCES,0.84101,pgvector_chapter
+2 Chronicles.22,2 Kings.11,REFERENCES,0.884876,pgvector_chapter
+2 Chronicles.22,2 Chronicles.28,REFERENCES,0.872521,pgvector_chapter
+2 Chronicles.22,2 Kings.8,REFERENCES,0.870991,pgvector_chapter
+2 Chronicles.23,2 Kings.11,REFERENCES,0.921056,pgvector_chapter
+2 Chronicles.23,2 Chronicles.24,REFERENCES,0.886429,pgvector_chapter
+2 Chronicles.23,2 Kings.23,REFERENCES,0.856919,pgvector_chapter
+2 Chronicles.24,2 Kings.12,REFERENCES,0.933073,pgvector_chapter
+2 Chronicles.24,2 Kings.14,REFERENCES,0.895136,pgvector_chapter
+2 Chronicles.24,2 Chronicles.23,REFERENCES,0.886429,pgvector_chapter
+2 Chronicles.25,2 Kings.14,REFERENCES,0.924515,pgvector_chapter
+2 Chronicles.25,2 Chronicles.24,REFERENCES,0.880832,pgvector_chapter
+2 Chronicles.25,2 Chronicles.26,REFERENCES,0.879871,pgvector_chapter
+2 Chronicles.26,2 Chronicles.25,REFERENCES,0.879871,pgvector_chapter
+2 Chronicles.26,2 Kings.14,REFERENCES,0.862673,pgvector_chapter
+2 Chronicles.26,2 Kings.15,REFERENCES,0.855193,pgvector_chapter
+2 Chronicles.27,2 Chronicles.24,REFERENCES,0.836345,pgvector_chapter
+2 Chronicles.28,2 Kings.16,REFERENCES,0.913506,pgvector_chapter
+2 Chronicles.28,2 Chronicles.22,REFERENCES,0.872521,pgvector_chapter
+2 Chronicles.28,2 Chronicles.25,REFERENCES,0.867705,pgvector_chapter
+2 Chronicles.29,2 Chronicles.30,REFERENCES,0.890181,pgvector_chapter
+2 Chronicles.29,2 Chronicles.31,REFERENCES,0.875062,pgvector_chapter
+2 Chronicles.29,2 Chronicles.28,REFERENCES,0.849923,pgvector_chapter
+2 Chronicles.3,1 Kings.6,REFERENCES,0.901207,pgvector_chapter
+2 Chronicles.3,2 Chronicles.5,REFERENCES,0.833029,pgvector_chapter
+2 Chronicles.3,1 Kings.7,REFERENCES,0.831205,pgvector_chapter
+2 Chronicles.30,2 Chronicles.29,REFERENCES,0.890181,pgvector_chapter
+2 Chronicles.30,2 Chronicles.31,REFERENCES,0.855311,pgvector_chapter
+2 Chronicles.30,2 Chronicles.35,REFERENCES,0.845168,pgvector_chapter
+2 Chronicles.31,2 Chronicles.29,REFERENCES,0.875062,pgvector_chapter
+2 Chronicles.31,2 Chronicles.30,REFERENCES,0.855311,pgvector_chapter
+2 Chronicles.31,Nehemiah.10,REFERENCES,0.831476,pgvector_chapter
+2 Chronicles.32,2 Kings.19,REFERENCES,0.904271,pgvector_chapter
+2 Chronicles.32,Isaiah.37,REFERENCES,0.8989,pgvector_chapter
+2 Chronicles.32,2 Kings.18,REFERENCES,0.898488,pgvector_chapter
+2 Chronicles.33,2 Kings.21,REFERENCES,0.918274,pgvector_chapter
+2 Chronicles.33,2 Kings.23,REFERENCES,0.853157,pgvector_chapter
+2 Chronicles.33,2 Kings.17,REFERENCES,0.843357,pgvector_chapter
+2 Chronicles.34,2 Kings.22,REFERENCES,0.928572,pgvector_chapter
+2 Chronicles.34,2 Kings.23,REFERENCES,0.866783,pgvector_chapter
+2 Chronicles.34,2 Chronicles.24,REFERENCES,0.847132,pgvector_chapter
+2 Chronicles.35,2 Kings.23,REFERENCES,0.885816,pgvector_chapter
+2 Chronicles.35,2 Chronicles.30,REFERENCES,0.845168,pgvector_chapter
+2 Chronicles.35,2 Chronicles.24,REFERENCES,0.834172,pgvector_chapter
+2 Chronicles.36,2 Kings.24,REFERENCES,0.890035,pgvector_chapter
+2 Chronicles.36,Jeremiah.52,REFERENCES,0.886774,pgvector_chapter
+2 Chronicles.36,2 Kings.25,REFERENCES,0.88525,pgvector_chapter
+2 Chronicles.4,1 Kings.7,REFERENCES,0.915244,pgvector_chapter
+2 Chronicles.5,2 Chronicles.7,REFERENCES,0.839256,pgvector_chapter
+2 Chronicles.5,2 Chronicles.3,REFERENCES,0.833029,pgvector_chapter
+2 Chronicles.6,1 Kings.8,REFERENCES,0.947114,pgvector_chapter
+2 Chronicles.6,2 Chronicles.7,REFERENCES,0.894578,pgvector_chapter
+2 Chronicles.6,2 Samuel.7,REFERENCES,0.84899,pgvector_chapter
+2 Chronicles.7,2 Chronicles.6,REFERENCES,0.894578,pgvector_chapter
+2 Chronicles.7,1 Kings.8,REFERENCES,0.874743,pgvector_chapter
+2 Chronicles.7,2 Chronicles.5,REFERENCES,0.839256,pgvector_chapter
+2 Chronicles.8,1 Kings.9,REFERENCES,0.905357,pgvector_chapter
+2 Chronicles.8,2 Chronicles.2,REFERENCES,0.849464,pgvector_chapter
+2 Chronicles.8,2 Chronicles.9,REFERENCES,0.834155,pgvector_chapter
+2 Chronicles.9,1 Kings.10,REFERENCES,0.960218,pgvector_chapter
+2 Chronicles.9,2 Chronicles.1,REFERENCES,0.872166,pgvector_chapter
+2 Chronicles.9,1 Kings.4,REFERENCES,0.845627,pgvector_chapter
+2 Corinthians.1,1 Corinthians.1,REFERENCES,0.855045,pgvector_chapter
+2 Corinthians.1,2 Corinthians.2,REFERENCES,0.843296,pgvector_chapter
+2 Corinthians.1,2 Timothy.1,REFERENCES,0.837769,pgvector_chapter
+2 Corinthians.11,2 Corinthians.12,REFERENCES,0.877,pgvector_chapter
+2 Corinthians.12,2 Corinthians.11,REFERENCES,0.877,pgvector_chapter
+2 Corinthians.2,2 Corinthians.1,REFERENCES,0.843296,pgvector_chapter
+2 Corinthians.8,2 Corinthians.9,REFERENCES,0.844927,pgvector_chapter
+2 Corinthians.9,2 Corinthians.8,REFERENCES,0.844927,pgvector_chapter
+2 John.1,1 John.2,REFERENCES,0.874237,pgvector_chapter
+2 Kings.1,1 Kings.19,REFERENCES,0.861624,pgvector_chapter
+2 Kings.1,2 Kings.2,REFERENCES,0.859581,pgvector_chapter
+2 Kings.1,1 Kings.18,REFERENCES,0.84824,pgvector_chapter
+2 Kings.10,2 Kings.9,REFERENCES,0.911684,pgvector_chapter
+2 Kings.10,1 Kings.22,REFERENCES,0.866203,pgvector_chapter
+2 Kings.10,1 Kings.16,REFERENCES,0.865908,pgvector_chapter
+2 Kings.11,2 Chronicles.23,REFERENCES,0.921056,pgvector_chapter
+2 Kings.11,2 Chronicles.22,REFERENCES,0.884876,pgvector_chapter
+2 Kings.11,2 Chronicles.24,REFERENCES,0.88127,pgvector_chapter
+2 Kings.12,2 Chronicles.24,REFERENCES,0.933073,pgvector_chapter
+2 Kings.12,2 Kings.14,REFERENCES,0.874692,pgvector_chapter
+2 Kings.12,2 Kings.11,REFERENCES,0.870126,pgvector_chapter
+2 Kings.13,2 Kings.8,REFERENCES,0.891689,pgvector_chapter
+2 Kings.13,2 Kings.14,REFERENCES,0.884498,pgvector_chapter
+2 Kings.13,2 Kings.3,REFERENCES,0.880914,pgvector_chapter
+2 Kings.14,2 Chronicles.25,REFERENCES,0.924515,pgvector_chapter
+2 Kings.14,2 Kings.15,REFERENCES,0.904713,pgvector_chapter
+2 Kings.14,2 Chronicles.24,REFERENCES,0.895136,pgvector_chapter
+2 Kings.15,2 Kings.14,REFERENCES,0.904713,pgvector_chapter
+2 Kings.15,2 Kings.23,REFERENCES,0.874958,pgvector_chapter
+2 Kings.15,1 Kings.15,REFERENCES,0.872131,pgvector_chapter
+2 Kings.16,2 Chronicles.28,REFERENCES,0.913506,pgvector_chapter
+2 Kings.16,2 Kings.15,REFERENCES,0.861351,pgvector_chapter
+2 Kings.16,1 Kings.16,REFERENCES,0.848081,pgvector_chapter
+2 Kings.17,2 Kings.18,REFERENCES,0.873592,pgvector_chapter
+2 Kings.17,2 Kings.23,REFERENCES,0.851675,pgvector_chapter
+2 Kings.17,2 Chronicles.33,REFERENCES,0.843357,pgvector_chapter
+2 Kings.18,2 Kings.19,REFERENCES,0.917769,pgvector_chapter
+2 Kings.18,Isaiah.36,REFERENCES,0.91598,pgvector_chapter
+2 Kings.18,2 Chronicles.32,REFERENCES,0.898488,pgvector_chapter
+2 Kings.19,Isaiah.37,REFERENCES,0.957998,pgvector_chapter
+2 Kings.19,2 Kings.18,REFERENCES,0.917769,pgvector_chapter
+2 Kings.19,2 Chronicles.32,REFERENCES,0.904271,pgvector_chapter
+2 Kings.2,2 Kings.1,REFERENCES,0.859581,pgvector_chapter
+2 Kings.2,1 Kings.19,REFERENCES,0.853015,pgvector_chapter
+2 Kings.2,2 Kings.6,REFERENCES,0.851837,pgvector_chapter
+2 Kings.20,Isaiah.38,REFERENCES,0.886692,pgvector_chapter
+2 Kings.20,Isaiah.39,REFERENCES,0.849822,pgvector_chapter
+2 Kings.20,2 Kings.19,REFERENCES,0.839997,pgvector_chapter
+2 Kings.21,2 Chronicles.33,REFERENCES,0.918274,pgvector_chapter
+2 Kings.21,2 Kings.23,REFERENCES,0.867136,pgvector_chapter
+2 Kings.21,2 Chronicles.25,REFERENCES,0.850484,pgvector_chapter
+2 Kings.22,2 Chronicles.34,REFERENCES,0.928572,pgvector_chapter
+2 Kings.22,2 Kings.23,REFERENCES,0.847707,pgvector_chapter
+2 Kings.22,2 Chronicles.24,REFERENCES,0.840922,pgvector_chapter
+2 Kings.23,2 Chronicles.35,REFERENCES,0.885816,pgvector_chapter
+2 Kings.23,2 Kings.15,REFERENCES,0.874958,pgvector_chapter
+2 Kings.23,2 Chronicles.24,REFERENCES,0.868071,pgvector_chapter
+2 Kings.24,2 Kings.25,REFERENCES,0.897787,pgvector_chapter
+2 Kings.24,2 Chronicles.36,REFERENCES,0.890035,pgvector_chapter
+2 Kings.24,Jeremiah.52,REFERENCES,0.882299,pgvector_chapter
+2 Kings.25,Jeremiah.52,REFERENCES,0.939366,pgvector_chapter
+2 Kings.25,2 Kings.24,REFERENCES,0.897787,pgvector_chapter
+2 Kings.25,Jeremiah.39,REFERENCES,0.891834,pgvector_chapter
+2 Kings.3,2 Kings.13,REFERENCES,0.880914,pgvector_chapter
+2 Kings.3,1 Kings.22,REFERENCES,0.869864,pgvector_chapter
+2 Kings.3,2 Chronicles.20,REFERENCES,0.864749,pgvector_chapter
+2 Kings.4,2 Kings.6,REFERENCES,0.856289,pgvector_chapter
+2 Kings.4,2 Kings.5,REFERENCES,0.849746,pgvector_chapter
+2 Kings.4,2 Kings.8,REFERENCES,0.84053,pgvector_chapter
+2 Kings.5,2 Kings.4,REFERENCES,0.849746,pgvector_chapter
+2 Kings.5,2 Kings.8,REFERENCES,0.831521,pgvector_chapter
+2 Kings.6,1 Kings.20,REFERENCES,0.868642,pgvector_chapter
+2 Kings.6,2 Kings.7,REFERENCES,0.85771,pgvector_chapter
+2 Kings.6,2 Kings.4,REFERENCES,0.856289,pgvector_chapter
+2 Kings.7,2 Kings.6,REFERENCES,0.85771,pgvector_chapter
+2 Kings.8,2 Kings.13,REFERENCES,0.891689,pgvector_chapter
+2 Kings.8,2 Kings.9,REFERENCES,0.87569,pgvector_chapter
+2 Kings.8,2 Chronicles.22,REFERENCES,0.870991,pgvector_chapter
+2 Kings.9,2 Kings.10,REFERENCES,0.911684,pgvector_chapter
+2 Kings.9,1 Kings.22,REFERENCES,0.891921,pgvector_chapter
+2 Kings.9,2 Kings.8,REFERENCES,0.87569,pgvector_chapter
+2 Peter.1,1 Peter.1,REFERENCES,0.859237,pgvector_chapter
+2 Samuel.1,2 Samuel.2,REFERENCES,0.858955,pgvector_chapter
+2 Samuel.1,1 Samuel.17,REFERENCES,0.854966,pgvector_chapter
+2 Samuel.1,1 Samuel.14,REFERENCES,0.851762,pgvector_chapter
+2 Samuel.10,1 Chronicles.19,REFERENCES,0.935953,pgvector_chapter
+2 Samuel.10,2 Samuel.8,REFERENCES,0.857737,pgvector_chapter
+2 Samuel.10,2 Samuel.2,REFERENCES,0.842192,pgvector_chapter
+2 Samuel.11,2 Samuel.12,REFERENCES,0.880073,pgvector_chapter
+2 Samuel.11,2 Samuel.3,REFERENCES,0.854002,pgvector_chapter
+2 Samuel.11,2 Samuel.17,REFERENCES,0.839728,pgvector_chapter
+2 Samuel.12,2 Samuel.11,REFERENCES,0.880073,pgvector_chapter
+2 Samuel.12,2 Samuel.3,REFERENCES,0.849377,pgvector_chapter
+2 Samuel.12,2 Samuel.13,REFERENCES,0.844276,pgvector_chapter
+2 Samuel.13,2 Samuel.14,REFERENCES,0.895075,pgvector_chapter
+2 Samuel.13,2 Samuel.3,REFERENCES,0.877853,pgvector_chapter
+2 Samuel.13,2 Samuel.19,REFERENCES,0.868309,pgvector_chapter
+2 Samuel.14,2 Samuel.13,REFERENCES,0.895075,pgvector_chapter
+2 Samuel.14,2 Samuel.19,REFERENCES,0.872673,pgvector_chapter
+2 Samuel.14,2 Samuel.15,REFERENCES,0.858971,pgvector_chapter
+2 Samuel.15,2 Samuel.17,REFERENCES,0.907528,pgvector_chapter
+2 Samuel.15,2 Samuel.16,REFERENCES,0.899782,pgvector_chapter
+2 Samuel.15,2 Samuel.19,REFERENCES,0.896037,pgvector_chapter
+2 Samuel.16,2 Samuel.19,REFERENCES,0.900572,pgvector_chapter
+2 Samuel.16,2 Samuel.15,REFERENCES,0.899782,pgvector_chapter
+2 Samuel.16,2 Samuel.17,REFERENCES,0.881078,pgvector_chapter
+2 Samuel.17,2 Samuel.15,REFERENCES,0.907528,pgvector_chapter
+2 Samuel.17,2 Samuel.18,REFERENCES,0.889664,pgvector_chapter
+2 Samuel.17,2 Samuel.16,REFERENCES,0.881078,pgvector_chapter
+2 Samuel.18,2 Samuel.19,REFERENCES,0.891378,pgvector_chapter
+2 Samuel.18,2 Samuel.17,REFERENCES,0.889664,pgvector_chapter
+2 Samuel.18,2 Samuel.15,REFERENCES,0.885996,pgvector_chapter
+2 Samuel.19,2 Samuel.16,REFERENCES,0.900572,pgvector_chapter
+2 Samuel.19,2 Samuel.15,REFERENCES,0.896037,pgvector_chapter
+2 Samuel.19,2 Samuel.18,REFERENCES,0.891378,pgvector_chapter
+2 Samuel.2,2 Samuel.3,REFERENCES,0.930477,pgvector_chapter
+2 Samuel.2,2 Samuel.17,REFERENCES,0.87732,pgvector_chapter
+2 Samuel.2,2 Samuel.19,REFERENCES,0.875093,pgvector_chapter
+2 Samuel.20,2 Samuel.2,REFERENCES,0.869262,pgvector_chapter
+2 Samuel.20,2 Samuel.19,REFERENCES,0.863975,pgvector_chapter
+2 Samuel.20,2 Samuel.3,REFERENCES,0.861854,pgvector_chapter
+2 Samuel.21,1 Chronicles.20,REFERENCES,0.876724,pgvector_chapter
+2 Samuel.21,2 Samuel.4,REFERENCES,0.85403,pgvector_chapter
+2 Samuel.21,2 Samuel.3,REFERENCES,0.849833,pgvector_chapter
+2 Samuel.22,Psalm.18,REFERENCES,0.928006,pgvector_chapter
+2 Samuel.23,1 Chronicles.11,REFERENCES,0.928539,pgvector_chapter
+2 Samuel.23,1 Chronicles.12,REFERENCES,0.860106,pgvector_chapter
+2 Samuel.23,2 Samuel.17,REFERENCES,0.853892,pgvector_chapter
+2 Samuel.24,1 Chronicles.21,REFERENCES,0.930378,pgvector_chapter
+2 Samuel.24,2 Samuel.12,REFERENCES,0.835719,pgvector_chapter
+2 Samuel.3,2 Samuel.2,REFERENCES,0.930477,pgvector_chapter
+2 Samuel.3,2 Samuel.13,REFERENCES,0.877853,pgvector_chapter
+2 Samuel.3,1 Samuel.25,REFERENCES,0.877386,pgvector_chapter
+2 Samuel.4,2 Samuel.21,REFERENCES,0.85403,pgvector_chapter
+2 Samuel.4,2 Samuel.3,REFERENCES,0.851247,pgvector_chapter
+2 Samuel.4,2 Samuel.2,REFERENCES,0.845551,pgvector_chapter
+2 Samuel.5,1 Chronicles.14,REFERENCES,0.898111,pgvector_chapter
+2 Samuel.5,2 Samuel.2,REFERENCES,0.835846,pgvector_chapter
+2 Samuel.5,1 Samuel.17,REFERENCES,0.835428,pgvector_chapter
+2 Samuel.6,1 Chronicles.15,REFERENCES,0.863145,pgvector_chapter
+2 Samuel.6,1 Chronicles.13,REFERENCES,0.855557,pgvector_chapter
+2 Samuel.7,1 Chronicles.17,REFERENCES,0.945344,pgvector_chapter
+2 Samuel.7,2 Chronicles.6,REFERENCES,0.84899,pgvector_chapter
+2 Samuel.8,1 Chronicles.18,REFERENCES,0.941866,pgvector_chapter
+2 Samuel.8,2 Samuel.10,REFERENCES,0.857737,pgvector_chapter
+2 Samuel.8,2 Samuel.2,REFERENCES,0.83708,pgvector_chapter
+2 Samuel.9,2 Samuel.19,REFERENCES,0.837323,pgvector_chapter
+2 Thessalonians.1,1 Thessalonians.1,REFERENCES,0.862928,pgvector_chapter
+2 Timothy.1,2 Corinthians.1,REFERENCES,0.837769,pgvector_chapter
+Acts.10,Acts.11,REFERENCES,0.844853,pgvector_chapter
+Acts.11,Acts.15,REFERENCES,0.850175,pgvector_chapter
+Acts.11,Acts.10,REFERENCES,0.844853,pgvector_chapter
+Acts.13,Acts.15,REFERENCES,0.851408,pgvector_chapter
+Acts.13,Acts.9,REFERENCES,0.836887,pgvector_chapter
+Acts.13,Acts.21,REFERENCES,0.83313,pgvector_chapter
+Acts.15,Acts.13,REFERENCES,0.851408,pgvector_chapter
+Acts.15,Acts.11,REFERENCES,0.850175,pgvector_chapter
+Acts.16,Acts.21,REFERENCES,0.84351,pgvector_chapter
+Acts.18,Acts.21,REFERENCES,0.836424,pgvector_chapter
+Acts.19,Acts.21,REFERENCES,0.832538,pgvector_chapter
+Acts.20,Acts.21,REFERENCES,0.857341,pgvector_chapter
+Acts.21,Acts.22,REFERENCES,0.864627,pgvector_chapter
+Acts.21,Acts.20,REFERENCES,0.857341,pgvector_chapter
+Acts.21,Acts.23,REFERENCES,0.85636,pgvector_chapter
+Acts.22,Acts.26,REFERENCES,0.877315,pgvector_chapter
+Acts.22,Acts.21,REFERENCES,0.864627,pgvector_chapter
+Acts.22,Acts.23,REFERENCES,0.864331,pgvector_chapter
+Acts.23,Acts.24,REFERENCES,0.886241,pgvector_chapter
+Acts.23,Acts.25,REFERENCES,0.881647,pgvector_chapter
+Acts.23,Acts.22,REFERENCES,0.864331,pgvector_chapter
+Acts.24,Acts.23,REFERENCES,0.886241,pgvector_chapter
+Acts.24,Acts.25,REFERENCES,0.865927,pgvector_chapter
+Acts.24,Acts.26,REFERENCES,0.837651,pgvector_chapter
+Acts.25,Acts.26,REFERENCES,0.898417,pgvector_chapter
+Acts.25,Acts.23,REFERENCES,0.881647,pgvector_chapter
+Acts.25,Acts.24,REFERENCES,0.865927,pgvector_chapter
+Acts.26,Acts.25,REFERENCES,0.898417,pgvector_chapter
+Acts.26,Acts.22,REFERENCES,0.877315,pgvector_chapter
+Acts.26,Acts.23,REFERENCES,0.847478,pgvector_chapter
+Acts.28,Acts.21,REFERENCES,0.844252,pgvector_chapter
+Acts.3,Acts.4,REFERENCES,0.832991,pgvector_chapter
+Acts.4,Acts.5,REFERENCES,0.847566,pgvector_chapter
+Acts.4,Acts.3,REFERENCES,0.832991,pgvector_chapter
+Acts.5,Acts.4,REFERENCES,0.847566,pgvector_chapter
+Acts.5,Acts.9,REFERENCES,0.835677,pgvector_chapter
+Acts.8,Acts.13,REFERENCES,0.832921,pgvector_chapter
+Acts.9,Acts.22,REFERENCES,0.851615,pgvector_chapter
+Acts.9,Acts.13,REFERENCES,0.836887,pgvector_chapter
+Acts.9,Acts.5,REFERENCES,0.835677,pgvector_chapter
+Amos.1,Amos.2,REFERENCES,0.835798,pgvector_chapter
+Amos.1,Jeremiah.49,REFERENCES,0.832988,pgvector_chapter
+Amos.2,Amos.1,REFERENCES,0.835798,pgvector_chapter
+Amos.4,Amos.5,REFERENCES,0.86288,pgvector_chapter
+Amos.4,Amos.6,REFERENCES,0.836861,pgvector_chapter
+Amos.4,Amos.8,REFERENCES,0.835958,pgvector_chapter
+Amos.5,Amos.4,REFERENCES,0.86288,pgvector_chapter
+Amos.5,Amos.6,REFERENCES,0.856826,pgvector_chapter
+Amos.5,Amos.9,REFERENCES,0.847171,pgvector_chapter
+Amos.6,Amos.5,REFERENCES,0.856826,pgvector_chapter
+Amos.6,Amos.4,REFERENCES,0.836861,pgvector_chapter
+Amos.6,Amos.9,REFERENCES,0.835604,pgvector_chapter
+Amos.8,Amos.4,REFERENCES,0.835958,pgvector_chapter
+Amos.8,Amos.5,REFERENCES,0.830981,pgvector_chapter
+Amos.9,Amos.5,REFERENCES,0.847171,pgvector_chapter
+Amos.9,Amos.6,REFERENCES,0.835604,pgvector_chapter
+Colossians.1,Ephesians.1,REFERENCES,0.872722,pgvector_chapter
+Colossians.1,Colossians.2,REFERENCES,0.838275,pgvector_chapter
+Colossians.2,Colossians.1,REFERENCES,0.838275,pgvector_chapter
+Daniel.1,Daniel.3,REFERENCES,0.841542,pgvector_chapter
+Daniel.1,Daniel.5,REFERENCES,0.837583,pgvector_chapter
+Daniel.11,Daniel.8,REFERENCES,0.855259,pgvector_chapter
+Daniel.2,Daniel.4,REFERENCES,0.872885,pgvector_chapter
+Daniel.2,Daniel.5,REFERENCES,0.855198,pgvector_chapter
+Daniel.3,Daniel.1,REFERENCES,0.841542,pgvector_chapter
+Daniel.4,Daniel.2,REFERENCES,0.872885,pgvector_chapter
+Daniel.4,Daniel.5,REFERENCES,0.860714,pgvector_chapter
+Daniel.4,Daniel.7,REFERENCES,0.838604,pgvector_chapter
+Daniel.5,Daniel.4,REFERENCES,0.860714,pgvector_chapter
+Daniel.5,Daniel.2,REFERENCES,0.855198,pgvector_chapter
+Daniel.5,Daniel.1,REFERENCES,0.837583,pgvector_chapter
+Daniel.7,Daniel.8,REFERENCES,0.869453,pgvector_chapter
+Daniel.7,Daniel.4,REFERENCES,0.838604,pgvector_chapter
+Daniel.8,Daniel.7,REFERENCES,0.869453,pgvector_chapter
+Daniel.8,Daniel.11,REFERENCES,0.855259,pgvector_chapter
+Deuteronomy.1,Deuteronomy.2,REFERENCES,0.904508,pgvector_chapter
+Deuteronomy.1,Numbers.14,REFERENCES,0.885835,pgvector_chapter
+Deuteronomy.1,Deuteronomy.4,REFERENCES,0.885419,pgvector_chapter
+Deuteronomy.10,Deuteronomy.5,REFERENCES,0.834257,pgvector_chapter
+Deuteronomy.10,Deuteronomy.11,REFERENCES,0.830969,pgvector_chapter
+Deuteronomy.11,Deuteronomy.6,REFERENCES,0.875656,pgvector_chapter
+Deuteronomy.11,Deuteronomy.1,REFERENCES,0.866664,pgvector_chapter
+Deuteronomy.11,Deuteronomy.4,REFERENCES,0.853387,pgvector_chapter
+Deuteronomy.14,Leviticus.11,REFERENCES,0.880588,pgvector_chapter
+Deuteronomy.15,Leviticus.25,REFERENCES,0.845372,pgvector_chapter
+Deuteronomy.16,Leviticus.23,REFERENCES,0.852622,pgvector_chapter
+Deuteronomy.16,Exodus.23,REFERENCES,0.843029,pgvector_chapter
+Deuteronomy.17,Deuteronomy.21,REFERENCES,0.841354,pgvector_chapter
+Deuteronomy.18,Numbers.18,REFERENCES,0.837191,pgvector_chapter
+Deuteronomy.19,Numbers.35,REFERENCES,0.860138,pgvector_chapter
+Deuteronomy.2,Deuteronomy.1,REFERENCES,0.904508,pgvector_chapter
+Deuteronomy.2,Deuteronomy.3,REFERENCES,0.886188,pgvector_chapter
+Deuteronomy.2,Numbers.21,REFERENCES,0.876314,pgvector_chapter
+Deuteronomy.21,Deuteronomy.22,REFERENCES,0.887499,pgvector_chapter
+Deuteronomy.21,Exodus.21,REFERENCES,0.858812,pgvector_chapter
+Deuteronomy.21,Leviticus.20,REFERENCES,0.841955,pgvector_chapter
+Deuteronomy.22,Deuteronomy.21,REFERENCES,0.887499,pgvector_chapter
+Deuteronomy.22,Exodus.22,REFERENCES,0.8765,pgvector_chapter
+Deuteronomy.22,Leviticus.20,REFERENCES,0.846899,pgvector_chapter
+Deuteronomy.23,Deuteronomy.27,REFERENCES,0.830265,pgvector_chapter
+Deuteronomy.25,Deuteronomy.22,REFERENCES,0.843759,pgvector_chapter
+Deuteronomy.25,Deuteronomy.21,REFERENCES,0.83217,pgvector_chapter
+Deuteronomy.26,Deuteronomy.6,REFERENCES,0.833858,pgvector_chapter
+Deuteronomy.27,Deuteronomy.23,REFERENCES,0.830265,pgvector_chapter
+Deuteronomy.28,Leviticus.26,REFERENCES,0.869904,pgvector_chapter
+Deuteronomy.28,Deuteronomy.29,REFERENCES,0.842155,pgvector_chapter
+Deuteronomy.28,Deuteronomy.7,REFERENCES,0.839813,pgvector_chapter
+Deuteronomy.29,Deuteronomy.32,REFERENCES,0.870497,pgvector_chapter
+Deuteronomy.29,Deuteronomy.4,REFERENCES,0.853723,pgvector_chapter
+Deuteronomy.29,Deuteronomy.11,REFERENCES,0.851405,pgvector_chapter
+Deuteronomy.3,Deuteronomy.2,REFERENCES,0.886188,pgvector_chapter
+Deuteronomy.3,Deuteronomy.1,REFERENCES,0.87715,pgvector_chapter
+Deuteronomy.3,Joshua.13,REFERENCES,0.875502,pgvector_chapter
+Deuteronomy.30,Deuteronomy.11,REFERENCES,0.851632,pgvector_chapter
+Deuteronomy.30,Deuteronomy.6,REFERENCES,0.84382,pgvector_chapter
+Deuteronomy.31,Deuteronomy.32,REFERENCES,0.86485,pgvector_chapter
+Deuteronomy.31,Deuteronomy.29,REFERENCES,0.851208,pgvector_chapter
+Deuteronomy.31,Deuteronomy.1,REFERENCES,0.850443,pgvector_chapter
+Deuteronomy.32,Deuteronomy.29,REFERENCES,0.870497,pgvector_chapter
+Deuteronomy.32,Deuteronomy.31,REFERENCES,0.86485,pgvector_chapter
+Deuteronomy.32,Deuteronomy.1,REFERENCES,0.8553,pgvector_chapter
+Deuteronomy.33,Deuteronomy.32,REFERENCES,0.847283,pgvector_chapter
+Deuteronomy.33,Genesis.49,REFERENCES,0.836656,pgvector_chapter
+Deuteronomy.33,Deuteronomy.1,REFERENCES,0.831445,pgvector_chapter
+Deuteronomy.4,Deuteronomy.1,REFERENCES,0.885419,pgvector_chapter
+Deuteronomy.4,Deuteronomy.3,REFERENCES,0.874064,pgvector_chapter
+Deuteronomy.4,Deuteronomy.5,REFERENCES,0.8713,pgvector_chapter
+Deuteronomy.5,Exodus.20,REFERENCES,0.893632,pgvector_chapter
+Deuteronomy.5,Deuteronomy.4,REFERENCES,0.8713,pgvector_chapter
+Deuteronomy.5,Deuteronomy.6,REFERENCES,0.868164,pgvector_chapter
+Deuteronomy.6,Deuteronomy.11,REFERENCES,0.875656,pgvector_chapter
+Deuteronomy.6,Deuteronomy.5,REFERENCES,0.868164,pgvector_chapter
+Deuteronomy.6,Deuteronomy.8,REFERENCES,0.855507,pgvector_chapter
+Deuteronomy.7,Deuteronomy.6,REFERENCES,0.854843,pgvector_chapter
+Deuteronomy.7,Deuteronomy.28,REFERENCES,0.839813,pgvector_chapter
+Deuteronomy.7,Leviticus.26,REFERENCES,0.839598,pgvector_chapter
+Deuteronomy.8,Deuteronomy.6,REFERENCES,0.855507,pgvector_chapter
+Deuteronomy.8,Deuteronomy.11,REFERENCES,0.837766,pgvector_chapter
+Deuteronomy.9,Deuteronomy.1,REFERENCES,0.850207,pgvector_chapter
+Deuteronomy.9,Exodus.32,REFERENCES,0.849972,pgvector_chapter
+Deuteronomy.9,Deuteronomy.32,REFERENCES,0.849301,pgvector_chapter
+Ecclesiastes.1,Ecclesiastes.2,REFERENCES,0.861893,pgvector_chapter
+Ecclesiastes.2,Ecclesiastes.1,REFERENCES,0.861893,pgvector_chapter
+Ecclesiastes.2,Ecclesiastes.4,REFERENCES,0.845748,pgvector_chapter
+Ecclesiastes.2,Ecclesiastes.8,REFERENCES,0.841026,pgvector_chapter
+Ecclesiastes.3,Ecclesiastes.8,REFERENCES,0.831354,pgvector_chapter
+Ecclesiastes.4,Ecclesiastes.2,REFERENCES,0.845748,pgvector_chapter
+Ecclesiastes.5,Ecclesiastes.6,REFERENCES,0.842064,pgvector_chapter
+Ecclesiastes.6,Ecclesiastes.5,REFERENCES,0.842064,pgvector_chapter
+Ecclesiastes.6,Ecclesiastes.2,REFERENCES,0.832104,pgvector_chapter
+Ecclesiastes.7,Ecclesiastes.8,REFERENCES,0.848918,pgvector_chapter
+Ecclesiastes.7,Ecclesiastes.2,REFERENCES,0.838072,pgvector_chapter
+Ecclesiastes.7,Ecclesiastes.9,REFERENCES,0.833549,pgvector_chapter
+Ecclesiastes.8,Ecclesiastes.9,REFERENCES,0.876346,pgvector_chapter
+Ecclesiastes.8,Ecclesiastes.7,REFERENCES,0.848918,pgvector_chapter
+Ecclesiastes.8,Ecclesiastes.2,REFERENCES,0.841026,pgvector_chapter
+Ecclesiastes.9,Ecclesiastes.8,REFERENCES,0.876346,pgvector_chapter
+Ecclesiastes.9,Ecclesiastes.7,REFERENCES,0.833549,pgvector_chapter
+Ephesians.1,Colossians.1,REFERENCES,0.872722,pgvector_chapter
+Ephesians.1,Ephesians.3,REFERENCES,0.85291,pgvector_chapter
+Ephesians.1,Ephesians.2,REFERENCES,0.830726,pgvector_chapter
+Ephesians.2,Ephesians.1,REFERENCES,0.830726,pgvector_chapter
+Ephesians.3,Ephesians.1,REFERENCES,0.85291,pgvector_chapter
+Esther.1,Esther.2,REFERENCES,0.896816,pgvector_chapter
+Esther.1,Esther.8,REFERENCES,0.862219,pgvector_chapter
+Esther.1,Esther.6,REFERENCES,0.838823,pgvector_chapter
+Esther.2,Esther.1,REFERENCES,0.896816,pgvector_chapter
+Esther.2,Esther.6,REFERENCES,0.859013,pgvector_chapter
+Esther.2,Esther.8,REFERENCES,0.858148,pgvector_chapter
+Esther.3,Esther.8,REFERENCES,0.936761,pgvector_chapter
+Esther.3,Esther.9,REFERENCES,0.911919,pgvector_chapter
+Esther.3,Esther.6,REFERENCES,0.877936,pgvector_chapter
+Esther.4,Esther.3,REFERENCES,0.8693,pgvector_chapter
+Esther.4,Esther.8,REFERENCES,0.869117,pgvector_chapter
+Esther.4,Esther.5,REFERENCES,0.862489,pgvector_chapter
+Esther.5,Esther.7,REFERENCES,0.931653,pgvector_chapter
+Esther.5,Esther.6,REFERENCES,0.907387,pgvector_chapter
+Esther.5,Esther.8,REFERENCES,0.874203,pgvector_chapter
+Esther.6,Esther.5,REFERENCES,0.907387,pgvector_chapter
+Esther.6,Esther.7,REFERENCES,0.903581,pgvector_chapter
+Esther.6,Esther.8,REFERENCES,0.895609,pgvector_chapter
+Esther.7,Esther.5,REFERENCES,0.931653,pgvector_chapter
+Esther.7,Esther.6,REFERENCES,0.903581,pgvector_chapter
+Esther.7,Esther.8,REFERENCES,0.878058,pgvector_chapter
+Esther.8,Esther.3,REFERENCES,0.936761,pgvector_chapter
+Esther.8,Esther.9,REFERENCES,0.919709,pgvector_chapter
+Esther.8,Esther.6,REFERENCES,0.895609,pgvector_chapter
+Esther.9,Esther.8,REFERENCES,0.919709,pgvector_chapter
+Esther.9,Esther.3,REFERENCES,0.911919,pgvector_chapter
+Esther.9,Esther.5,REFERENCES,0.842257,pgvector_chapter
+Exodus.1,Exodus.2,REFERENCES,0.834768,pgvector_chapter
+Exodus.10,Exodus.9,REFERENCES,0.911456,pgvector_chapter
+Exodus.10,Exodus.8,REFERENCES,0.894207,pgvector_chapter
+Exodus.10,Exodus.14,REFERENCES,0.858539,pgvector_chapter
+Exodus.11,Exodus.9,REFERENCES,0.832138,pgvector_chapter
+Exodus.11,Exodus.7,REFERENCES,0.831508,pgvector_chapter
+Exodus.12,Exodus.13,REFERENCES,0.889046,pgvector_chapter
+Exodus.12,Exodus.34,REFERENCES,0.840815,pgvector_chapter
+Exodus.12,Leviticus.23,REFERENCES,0.83025,pgvector_chapter
+Exodus.13,Exodus.12,REFERENCES,0.889046,pgvector_chapter
+Exodus.13,Exodus.34,REFERENCES,0.844816,pgvector_chapter
+Exodus.13,Exodus.14,REFERENCES,0.834674,pgvector_chapter
+Exodus.14,Exodus.15,REFERENCES,0.862164,pgvector_chapter
+Exodus.14,Exodus.10,REFERENCES,0.858539,pgvector_chapter
+Exodus.14,Exodus.7,REFERENCES,0.858423,pgvector_chapter
+Exodus.15,Exodus.14,REFERENCES,0.862164,pgvector_chapter
+Exodus.16,Numbers.11,REFERENCES,0.845285,pgvector_chapter
+Exodus.19,Exodus.24,REFERENCES,0.860017,pgvector_chapter
+Exodus.19,Exodus.34,REFERENCES,0.851787,pgvector_chapter
+Exodus.19,Exodus.20,REFERENCES,0.840322,pgvector_chapter
+Exodus.2,Exodus.6,REFERENCES,0.841316,pgvector_chapter
+Exodus.2,Exodus.4,REFERENCES,0.835388,pgvector_chapter
+Exodus.2,Exodus.1,REFERENCES,0.834768,pgvector_chapter
+Exodus.20,Deuteronomy.5,REFERENCES,0.893632,pgvector_chapter
+Exodus.20,Exodus.19,REFERENCES,0.840322,pgvector_chapter
+Exodus.20,Exodus.34,REFERENCES,0.833102,pgvector_chapter
+Exodus.21,Exodus.22,REFERENCES,0.867159,pgvector_chapter
+Exodus.21,Deuteronomy.21,REFERENCES,0.858812,pgvector_chapter
+Exodus.21,Deuteronomy.22,REFERENCES,0.8408,pgvector_chapter
+Exodus.22,Deuteronomy.22,REFERENCES,0.8765,pgvector_chapter
+Exodus.22,Exodus.21,REFERENCES,0.867159,pgvector_chapter
+Exodus.22,Deuteronomy.21,REFERENCES,0.840317,pgvector_chapter
+Exodus.23,Deuteronomy.16,REFERENCES,0.843029,pgvector_chapter
+Exodus.23,Exodus.34,REFERENCES,0.837441,pgvector_chapter
+Exodus.23,Leviticus.26,REFERENCES,0.832151,pgvector_chapter
+Exodus.24,Exodus.19,REFERENCES,0.860017,pgvector_chapter
+Exodus.24,Exodus.34,REFERENCES,0.851219,pgvector_chapter
+Exodus.25,Exodus.37,REFERENCES,0.912482,pgvector_chapter
+Exodus.25,Exodus.26,REFERENCES,0.885745,pgvector_chapter
+Exodus.25,Exodus.27,REFERENCES,0.86147,pgvector_chapter
+Exodus.26,Exodus.36,REFERENCES,0.918964,pgvector_chapter
+Exodus.26,Exodus.27,REFERENCES,0.888043,pgvector_chapter
+Exodus.26,Exodus.25,REFERENCES,0.885745,pgvector_chapter
+Exodus.27,Exodus.26,REFERENCES,0.888043,pgvector_chapter
+Exodus.27,Exodus.25,REFERENCES,0.86147,pgvector_chapter
+Exodus.27,Exodus.37,REFERENCES,0.844538,pgvector_chapter
+Exodus.28,Exodus.39,REFERENCES,0.917692,pgvector_chapter
+Exodus.28,Exodus.35,REFERENCES,0.84183,pgvector_chapter
+Exodus.29,Leviticus.8,REFERENCES,0.923793,pgvector_chapter
+Exodus.29,Numbers.29,REFERENCES,0.881745,pgvector_chapter
+Exodus.29,Numbers.28,REFERENCES,0.869308,pgvector_chapter
+Exodus.3,Exodus.33,REFERENCES,0.858304,pgvector_chapter
+Exodus.30,Exodus.29,REFERENCES,0.86798,pgvector_chapter
+Exodus.30,Exodus.25,REFERENCES,0.852934,pgvector_chapter
+Exodus.30,Exodus.27,REFERENCES,0.840159,pgvector_chapter
+Exodus.31,Exodus.35,REFERENCES,0.867244,pgvector_chapter
+Exodus.32,Exodus.34,REFERENCES,0.871267,pgvector_chapter
+Exodus.32,Deuteronomy.9,REFERENCES,0.849972,pgvector_chapter
+Exodus.32,Deuteronomy.32,REFERENCES,0.833275,pgvector_chapter
+Exodus.33,Exodus.34,REFERENCES,0.863153,pgvector_chapter
+Exodus.33,Exodus.3,REFERENCES,0.858304,pgvector_chapter
+Exodus.33,Deuteronomy.31,REFERENCES,0.837666,pgvector_chapter
+Exodus.34,Exodus.32,REFERENCES,0.871267,pgvector_chapter
+Exodus.34,Exodus.33,REFERENCES,0.863153,pgvector_chapter
+Exodus.34,Exodus.19,REFERENCES,0.851787,pgvector_chapter
+Exodus.35,Exodus.39,REFERENCES,0.894353,pgvector_chapter
+Exodus.35,Exodus.36,REFERENCES,0.887366,pgvector_chapter
+Exodus.35,Exodus.31,REFERENCES,0.867244,pgvector_chapter
+Exodus.36,Exodus.26,REFERENCES,0.918964,pgvector_chapter
+Exodus.36,Exodus.38,REFERENCES,0.901636,pgvector_chapter
+Exodus.36,Exodus.35,REFERENCES,0.887366,pgvector_chapter
+Exodus.37,Exodus.25,REFERENCES,0.912482,pgvector_chapter
+Exodus.37,Exodus.38,REFERENCES,0.85754,pgvector_chapter
+Exodus.37,Exodus.39,REFERENCES,0.84625,pgvector_chapter
+Exodus.38,Exodus.36,REFERENCES,0.901636,pgvector_chapter
+Exodus.38,Exodus.35,REFERENCES,0.860775,pgvector_chapter
+Exodus.38,Exodus.39,REFERENCES,0.85911,pgvector_chapter
+Exodus.39,Exodus.28,REFERENCES,0.917692,pgvector_chapter
+Exodus.39,Exodus.35,REFERENCES,0.894353,pgvector_chapter
+Exodus.39,Exodus.36,REFERENCES,0.874437,pgvector_chapter
+Exodus.4,Exodus.7,REFERENCES,0.856857,pgvector_chapter
+Exodus.4,Exodus.2,REFERENCES,0.835388,pgvector_chapter
+Exodus.4,Exodus.6,REFERENCES,0.833017,pgvector_chapter
+Exodus.40,Exodus.39,REFERENCES,0.854031,pgvector_chapter
+Exodus.40,Exodus.26,REFERENCES,0.852264,pgvector_chapter
+Exodus.40,Leviticus.8,REFERENCES,0.846535,pgvector_chapter
+Exodus.6,Exodus.2,REFERENCES,0.841316,pgvector_chapter
+Exodus.6,Exodus.4,REFERENCES,0.833017,pgvector_chapter
+Exodus.7,Exodus.8,REFERENCES,0.875842,pgvector_chapter
+Exodus.7,Exodus.14,REFERENCES,0.858423,pgvector_chapter
+Exodus.7,Exodus.4,REFERENCES,0.856857,pgvector_chapter
+Exodus.8,Exodus.10,REFERENCES,0.894207,pgvector_chapter
+Exodus.8,Exodus.7,REFERENCES,0.875842,pgvector_chapter
+Exodus.8,Exodus.9,REFERENCES,0.872484,pgvector_chapter
+Exodus.9,Exodus.10,REFERENCES,0.911456,pgvector_chapter
+Exodus.9,Exodus.8,REFERENCES,0.872484,pgvector_chapter
+Exodus.9,Exodus.7,REFERENCES,0.854245,pgvector_chapter
+Ezekiel.1,Ezekiel.10,REFERENCES,0.902201,pgvector_chapter
+Ezekiel.10,Ezekiel.1,REFERENCES,0.902201,pgvector_chapter
+Ezekiel.11,Ezekiel.24,REFERENCES,0.861315,pgvector_chapter
+Ezekiel.11,Ezekiel.21,REFERENCES,0.830212,pgvector_chapter
+Ezekiel.12,Ezekiel.24,REFERENCES,0.853078,pgvector_chapter
+Ezekiel.12,Ezekiel.33,REFERENCES,0.847865,pgvector_chapter
+Ezekiel.12,Ezekiel.21,REFERENCES,0.843777,pgvector_chapter
+Ezekiel.14,Ezekiel.33,REFERENCES,0.846288,pgvector_chapter
+Ezekiel.14,Ezekiel.7,REFERENCES,0.842086,pgvector_chapter
+Ezekiel.14,Ezekiel.6,REFERENCES,0.839427,pgvector_chapter
+Ezekiel.16,Ezekiel.23,REFERENCES,0.907598,pgvector_chapter
+Ezekiel.16,Ezekiel.22,REFERENCES,0.833421,pgvector_chapter
+Ezekiel.17,Ezekiel.31,REFERENCES,0.842669,pgvector_chapter
+Ezekiel.18,Ezekiel.33,REFERENCES,0.849066,pgvector_chapter
+Ezekiel.2,Ezekiel.3,REFERENCES,0.85748,pgvector_chapter
+Ezekiel.20,Ezekiel.36,REFERENCES,0.86199,pgvector_chapter
+Ezekiel.20,Ezekiel.39,REFERENCES,0.847609,pgvector_chapter
+Ezekiel.20,Ezekiel.6,REFERENCES,0.843815,pgvector_chapter
+Ezekiel.21,Ezekiel.24,REFERENCES,0.868856,pgvector_chapter
+Ezekiel.21,Jeremiah.25,REFERENCES,0.855508,pgvector_chapter
+Ezekiel.21,Ezekiel.7,REFERENCES,0.852933,pgvector_chapter
+Ezekiel.22,Ezekiel.24,REFERENCES,0.865633,pgvector_chapter
+Ezekiel.22,Isaiah.1,REFERENCES,0.835803,pgvector_chapter
+Ezekiel.22,Ezekiel.21,REFERENCES,0.834939,pgvector_chapter
+Ezekiel.23,Ezekiel.16,REFERENCES,0.907598,pgvector_chapter
+Ezekiel.24,Ezekiel.21,REFERENCES,0.868856,pgvector_chapter
+Ezekiel.24,Ezekiel.22,REFERENCES,0.865633,pgvector_chapter
+Ezekiel.24,Ezekiel.11,REFERENCES,0.861315,pgvector_chapter
+Ezekiel.25,Ezekiel.35,REFERENCES,0.839934,pgvector_chapter
+Ezekiel.25,Jeremiah.49,REFERENCES,0.839599,pgvector_chapter
+Ezekiel.25,Ezekiel.6,REFERENCES,0.831079,pgvector_chapter
+Ezekiel.26,Ezekiel.27,REFERENCES,0.898291,pgvector_chapter
+Ezekiel.26,Ezekiel.28,REFERENCES,0.864268,pgvector_chapter
+Ezekiel.26,Isaiah.23,REFERENCES,0.845679,pgvector_chapter
+Ezekiel.27,Ezekiel.26,REFERENCES,0.898291,pgvector_chapter
+Ezekiel.27,Ezekiel.28,REFERENCES,0.864417,pgvector_chapter
+Ezekiel.27,Isaiah.23,REFERENCES,0.851914,pgvector_chapter
+Ezekiel.28,Ezekiel.27,REFERENCES,0.864417,pgvector_chapter
+Ezekiel.28,Ezekiel.26,REFERENCES,0.864268,pgvector_chapter
+Ezekiel.29,Ezekiel.30,REFERENCES,0.916094,pgvector_chapter
+Ezekiel.29,Ezekiel.32,REFERENCES,0.872043,pgvector_chapter
+Ezekiel.29,Jeremiah.46,REFERENCES,0.865767,pgvector_chapter
+Ezekiel.3,Ezekiel.33,REFERENCES,0.867314,pgvector_chapter
+Ezekiel.3,Ezekiel.2,REFERENCES,0.85748,pgvector_chapter
+Ezekiel.3,Ezekiel.12,REFERENCES,0.835589,pgvector_chapter
+Ezekiel.30,Ezekiel.29,REFERENCES,0.916094,pgvector_chapter
+Ezekiel.30,Ezekiel.32,REFERENCES,0.890238,pgvector_chapter
+Ezekiel.30,Jeremiah.46,REFERENCES,0.879741,pgvector_chapter
+Ezekiel.31,Ezekiel.32,REFERENCES,0.871272,pgvector_chapter
+Ezekiel.31,Ezekiel.17,REFERENCES,0.842669,pgvector_chapter
+Ezekiel.32,Ezekiel.30,REFERENCES,0.890238,pgvector_chapter
+Ezekiel.32,Ezekiel.29,REFERENCES,0.872043,pgvector_chapter
+Ezekiel.32,Ezekiel.31,REFERENCES,0.871272,pgvector_chapter
+Ezekiel.33,Ezekiel.3,REFERENCES,0.867314,pgvector_chapter
+Ezekiel.33,Ezekiel.21,REFERENCES,0.850697,pgvector_chapter
+Ezekiel.33,Ezekiel.18,REFERENCES,0.849066,pgvector_chapter
+Ezekiel.34,Ezekiel.36,REFERENCES,0.861159,pgvector_chapter
+Ezekiel.35,Ezekiel.6,REFERENCES,0.855785,pgvector_chapter
+Ezekiel.35,Ezekiel.36,REFERENCES,0.84061,pgvector_chapter
+Ezekiel.35,Ezekiel.25,REFERENCES,0.839934,pgvector_chapter
+Ezekiel.36,Jeremiah.31,REFERENCES,0.870197,pgvector_chapter
+Ezekiel.36,Ezekiel.20,REFERENCES,0.86199,pgvector_chapter
+Ezekiel.36,Ezekiel.34,REFERENCES,0.861159,pgvector_chapter
+Ezekiel.37,Ezekiel.36,REFERENCES,0.856354,pgvector_chapter
+Ezekiel.37,Jeremiah.31,REFERENCES,0.834612,pgvector_chapter
+Ezekiel.38,Ezekiel.39,REFERENCES,0.911759,pgvector_chapter
+Ezekiel.39,Ezekiel.38,REFERENCES,0.911759,pgvector_chapter
+Ezekiel.39,Ezekiel.36,REFERENCES,0.85036,pgvector_chapter
+Ezekiel.39,Ezekiel.20,REFERENCES,0.847609,pgvector_chapter
+Ezekiel.40,Ezekiel.41,REFERENCES,0.909433,pgvector_chapter
+Ezekiel.40,Ezekiel.42,REFERENCES,0.877621,pgvector_chapter
+Ezekiel.40,Ezekiel.43,REFERENCES,0.856676,pgvector_chapter
+Ezekiel.41,Ezekiel.40,REFERENCES,0.909433,pgvector_chapter
+Ezekiel.41,Ezekiel.42,REFERENCES,0.896922,pgvector_chapter
+Ezekiel.41,1 Kings.6,REFERENCES,0.853271,pgvector_chapter
+Ezekiel.42,Ezekiel.41,REFERENCES,0.896922,pgvector_chapter
+Ezekiel.42,Ezekiel.40,REFERENCES,0.877621,pgvector_chapter
+Ezekiel.43,Ezekiel.44,REFERENCES,0.871462,pgvector_chapter
+Ezekiel.43,Ezekiel.40,REFERENCES,0.856676,pgvector_chapter
+Ezekiel.43,Ezekiel.41,REFERENCES,0.837643,pgvector_chapter
+Ezekiel.44,Ezekiel.43,REFERENCES,0.871462,pgvector_chapter
+Ezekiel.45,Ezekiel.46,REFERENCES,0.876858,pgvector_chapter
+Ezekiel.45,Ezekiel.48,REFERENCES,0.833296,pgvector_chapter
+Ezekiel.46,Ezekiel.45,REFERENCES,0.876858,pgvector_chapter
+Ezekiel.46,Ezekiel.40,REFERENCES,0.841987,pgvector_chapter
+Ezekiel.46,Ezekiel.43,REFERENCES,0.835284,pgvector_chapter
+Ezekiel.47,Ezekiel.48,REFERENCES,0.850577,pgvector_chapter
+Ezekiel.48,Ezekiel.40,REFERENCES,0.850739,pgvector_chapter
+Ezekiel.48,Ezekiel.47,REFERENCES,0.850577,pgvector_chapter
+Ezekiel.48,Ezekiel.45,REFERENCES,0.833296,pgvector_chapter
+Ezekiel.5,Ezekiel.21,REFERENCES,0.837824,pgvector_chapter
+Ezekiel.6,Ezekiel.7,REFERENCES,0.863308,pgvector_chapter
+Ezekiel.6,Ezekiel.35,REFERENCES,0.855785,pgvector_chapter
+Ezekiel.6,Ezekiel.36,REFERENCES,0.849666,pgvector_chapter
+Ezekiel.7,Ezekiel.6,REFERENCES,0.863308,pgvector_chapter
+Ezekiel.7,Ezekiel.21,REFERENCES,0.852933,pgvector_chapter
+Ezekiel.7,Ezekiel.14,REFERENCES,0.842086,pgvector_chapter
+Ezra.1,Ezra.5,REFERENCES,0.851817,pgvector_chapter
+Ezra.1,Ezra.7,REFERENCES,0.833324,pgvector_chapter
+Ezra.10,Ezra.8,REFERENCES,0.869602,pgvector_chapter
+Ezra.10,Ezra.2,REFERENCES,0.852128,pgvector_chapter
+Ezra.10,Nehemiah.10,REFERENCES,0.843728,pgvector_chapter
+Ezra.2,Nehemiah.7,REFERENCES,0.949094,pgvector_chapter
+Ezra.2,Ezra.8,REFERENCES,0.90005,pgvector_chapter
+Ezra.2,Nehemiah.11,REFERENCES,0.889658,pgvector_chapter
+Ezra.3,Ezra.6,REFERENCES,0.836763,pgvector_chapter
+Ezra.3,Nehemiah.12,REFERENCES,0.832262,pgvector_chapter
+Ezra.4,Ezra.5,REFERENCES,0.86951,pgvector_chapter
+Ezra.4,Ezra.7,REFERENCES,0.859515,pgvector_chapter
+Ezra.4,Ezra.6,REFERENCES,0.836395,pgvector_chapter
+Ezra.5,Ezra.6,REFERENCES,0.897087,pgvector_chapter
+Ezra.5,Ezra.4,REFERENCES,0.86951,pgvector_chapter
+Ezra.5,Ezra.7,REFERENCES,0.853427,pgvector_chapter
+Ezra.6,Ezra.5,REFERENCES,0.897087,pgvector_chapter
+Ezra.6,Ezra.7,REFERENCES,0.857472,pgvector_chapter
+Ezra.6,Ezra.8,REFERENCES,0.855341,pgvector_chapter
+Ezra.7,Ezra.8,REFERENCES,0.869568,pgvector_chapter
+Ezra.7,Ezra.4,REFERENCES,0.859515,pgvector_chapter
+Ezra.7,Ezra.6,REFERENCES,0.857472,pgvector_chapter
+Ezra.8,Ezra.2,REFERENCES,0.90005,pgvector_chapter
+Ezra.8,Nehemiah.7,REFERENCES,0.873882,pgvector_chapter
+Ezra.8,Ezra.10,REFERENCES,0.869602,pgvector_chapter
+Ezra.9,Ezra.10,REFERENCES,0.841698,pgvector_chapter
+Galatians.1,Galatians.2,REFERENCES,0.848203,pgvector_chapter
+Galatians.2,Galatians.1,REFERENCES,0.848203,pgvector_chapter
+Genesis.1,Genesis.2,REFERENCES,0.834417,pgvector_chapter
+Genesis.10,1 Chronicles.1,REFERENCES,0.886759,pgvector_chapter
+Genesis.10,Genesis.11,REFERENCES,0.839183,pgvector_chapter
+Genesis.11,Genesis.10,REFERENCES,0.839183,pgvector_chapter
+Genesis.12,Genesis.13,REFERENCES,0.843176,pgvector_chapter
+Genesis.13,Genesis.19,REFERENCES,0.849008,pgvector_chapter
+Genesis.13,Genesis.12,REFERENCES,0.843176,pgvector_chapter
+Genesis.13,Genesis.14,REFERENCES,0.838183,pgvector_chapter
+Genesis.14,Genesis.13,REFERENCES,0.838183,pgvector_chapter
+Genesis.16,Genesis.21,REFERENCES,0.85114,pgvector_chapter
+Genesis.17,Genesis.21,REFERENCES,0.849229,pgvector_chapter
+Genesis.19,Genesis.13,REFERENCES,0.849008,pgvector_chapter
+Genesis.2,Genesis.1,REFERENCES,0.834417,pgvector_chapter
+Genesis.20,Genesis.21,REFERENCES,0.858796,pgvector_chapter
+Genesis.20,Genesis.26,REFERENCES,0.833001,pgvector_chapter
+Genesis.21,Genesis.22,REFERENCES,0.877916,pgvector_chapter
+Genesis.21,Genesis.26,REFERENCES,0.861173,pgvector_chapter
+Genesis.21,Genesis.20,REFERENCES,0.858796,pgvector_chapter
+Genesis.22,Genesis.21,REFERENCES,0.877916,pgvector_chapter
+Genesis.22,Genesis.26,REFERENCES,0.849539,pgvector_chapter
+Genesis.22,Genesis.24,REFERENCES,0.842233,pgvector_chapter
+Genesis.24,Genesis.26,REFERENCES,0.842968,pgvector_chapter
+Genesis.24,Genesis.22,REFERENCES,0.842233,pgvector_chapter
+Genesis.24,Genesis.21,REFERENCES,0.84045,pgvector_chapter
+Genesis.25,Genesis.27,REFERENCES,0.875249,pgvector_chapter
+Genesis.25,Genesis.35,REFERENCES,0.858033,pgvector_chapter
+Genesis.25,Genesis.26,REFERENCES,0.849111,pgvector_chapter
+Genesis.26,Genesis.21,REFERENCES,0.861173,pgvector_chapter
+Genesis.26,Genesis.22,REFERENCES,0.849539,pgvector_chapter
+Genesis.26,Genesis.25,REFERENCES,0.849111,pgvector_chapter
+Genesis.27,Genesis.25,REFERENCES,0.875249,pgvector_chapter
+Genesis.27,Genesis.26,REFERENCES,0.848793,pgvector_chapter
+Genesis.27,Genesis.32,REFERENCES,0.837888,pgvector_chapter
+Genesis.28,Genesis.31,REFERENCES,0.853855,pgvector_chapter
+Genesis.28,Genesis.35,REFERENCES,0.839718,pgvector_chapter
+Genesis.29,Genesis.30,REFERENCES,0.915877,pgvector_chapter
+Genesis.29,Genesis.31,REFERENCES,0.890035,pgvector_chapter
+Genesis.29,Genesis.27,REFERENCES,0.835194,pgvector_chapter
+Genesis.30,Genesis.29,REFERENCES,0.915877,pgvector_chapter
+Genesis.30,Genesis.31,REFERENCES,0.904056,pgvector_chapter
+Genesis.30,Genesis.35,REFERENCES,0.840409,pgvector_chapter
+Genesis.31,Genesis.30,REFERENCES,0.904056,pgvector_chapter
+Genesis.31,Genesis.29,REFERENCES,0.890035,pgvector_chapter
+Genesis.31,Genesis.28,REFERENCES,0.853855,pgvector_chapter
+Genesis.32,Genesis.33,REFERENCES,0.849249,pgvector_chapter
+Genesis.32,Genesis.31,REFERENCES,0.846421,pgvector_chapter
+Genesis.32,Genesis.27,REFERENCES,0.837888,pgvector_chapter
+Genesis.33,Genesis.32,REFERENCES,0.849249,pgvector_chapter
+Genesis.33,Genesis.31,REFERENCES,0.833407,pgvector_chapter
+Genesis.35,Genesis.25,REFERENCES,0.858033,pgvector_chapter
+Genesis.35,Genesis.46,REFERENCES,0.850235,pgvector_chapter
+Genesis.35,Genesis.30,REFERENCES,0.840409,pgvector_chapter
+Genesis.36,1 Chronicles.1,REFERENCES,0.898258,pgvector_chapter
+Genesis.36,1 Chronicles.2,REFERENCES,0.858569,pgvector_chapter
+Genesis.36,1 Chronicles.4,REFERENCES,0.841343,pgvector_chapter
+Genesis.37,Genesis.42,REFERENCES,0.872967,pgvector_chapter
+Genesis.37,Genesis.44,REFERENCES,0.855024,pgvector_chapter
+Genesis.37,Genesis.43,REFERENCES,0.853612,pgvector_chapter
+Genesis.39,Genesis.37,REFERENCES,0.842752,pgvector_chapter
+Genesis.40,Genesis.41,REFERENCES,0.8475,pgvector_chapter
+Genesis.41,Genesis.47,REFERENCES,0.879855,pgvector_chapter
+Genesis.41,Genesis.45,REFERENCES,0.859488,pgvector_chapter
+Genesis.41,Genesis.42,REFERENCES,0.849747,pgvector_chapter
+Genesis.42,Genesis.43,REFERENCES,0.928357,pgvector_chapter
+Genesis.42,Genesis.44,REFERENCES,0.903375,pgvector_chapter
+Genesis.42,Genesis.45,REFERENCES,0.884703,pgvector_chapter
+Genesis.43,Genesis.44,REFERENCES,0.930136,pgvector_chapter
+Genesis.43,Genesis.42,REFERENCES,0.928357,pgvector_chapter
+Genesis.43,Genesis.45,REFERENCES,0.908398,pgvector_chapter
+Genesis.44,Genesis.43,REFERENCES,0.930136,pgvector_chapter
+Genesis.44,Genesis.42,REFERENCES,0.903375,pgvector_chapter
+Genesis.44,Genesis.45,REFERENCES,0.868666,pgvector_chapter
+Genesis.45,Genesis.47,REFERENCES,0.92179,pgvector_chapter
+Genesis.45,Genesis.43,REFERENCES,0.908398,pgvector_chapter
+Genesis.45,Genesis.50,REFERENCES,0.892528,pgvector_chapter
+Genesis.46,Genesis.48,REFERENCES,0.879421,pgvector_chapter
+Genesis.46,Genesis.47,REFERENCES,0.879303,pgvector_chapter
+Genesis.46,Genesis.45,REFERENCES,0.872374,pgvector_chapter
+Genesis.47,Genesis.45,REFERENCES,0.92179,pgvector_chapter
+Genesis.47,Genesis.50,REFERENCES,0.88332,pgvector_chapter
+Genesis.47,Genesis.41,REFERENCES,0.879855,pgvector_chapter
+Genesis.48,Genesis.46,REFERENCES,0.879421,pgvector_chapter
+Genesis.48,Genesis.50,REFERENCES,0.858807,pgvector_chapter
+Genesis.48,Genesis.47,REFERENCES,0.85299,pgvector_chapter
+Genesis.49,Deuteronomy.33,REFERENCES,0.836656,pgvector_chapter
+Genesis.49,Genesis.46,REFERENCES,0.833971,pgvector_chapter
+Genesis.49,Genesis.48,REFERENCES,0.832065,pgvector_chapter
+Genesis.50,Genesis.45,REFERENCES,0.892528,pgvector_chapter
+Genesis.50,Genesis.47,REFERENCES,0.88332,pgvector_chapter
+Genesis.50,Genesis.48,REFERENCES,0.858807,pgvector_chapter
+Genesis.6,Genesis.7,REFERENCES,0.85248,pgvector_chapter
+Genesis.7,Genesis.8,REFERENCES,0.880879,pgvector_chapter
+Genesis.7,Genesis.6,REFERENCES,0.85248,pgvector_chapter
+Genesis.8,Genesis.7,REFERENCES,0.880879,pgvector_chapter
+Haggai.1,Haggai.2,REFERENCES,0.878282,pgvector_chapter
+Haggai.2,Haggai.1,REFERENCES,0.878282,pgvector_chapter
+Hebrews.10,Hebrews.9,REFERENCES,0.866875,pgvector_chapter
+Hebrews.8,Hebrews.9,REFERENCES,0.869231,pgvector_chapter
+Hebrews.9,Hebrews.8,REFERENCES,0.869231,pgvector_chapter
+Hebrews.9,Hebrews.10,REFERENCES,0.866875,pgvector_chapter
+Hosea.1,Hosea.2,REFERENCES,0.862473,pgvector_chapter
+Hosea.10,Hosea.9,REFERENCES,0.86921,pgvector_chapter
+Hosea.10,Hosea.8,REFERENCES,0.864917,pgvector_chapter
+Hosea.10,Hosea.13,REFERENCES,0.862076,pgvector_chapter
+Hosea.11,Hosea.13,REFERENCES,0.857247,pgvector_chapter
+Hosea.11,Hosea.8,REFERENCES,0.836731,pgvector_chapter
+Hosea.12,Hosea.9,REFERENCES,0.836085,pgvector_chapter
+Hosea.13,Hosea.5,REFERENCES,0.867736,pgvector_chapter
+Hosea.13,Hosea.10,REFERENCES,0.862076,pgvector_chapter
+Hosea.13,Hosea.8,REFERENCES,0.860087,pgvector_chapter
+Hosea.2,Hosea.1,REFERENCES,0.862473,pgvector_chapter
+Hosea.2,Hosea.9,REFERENCES,0.861702,pgvector_chapter
+Hosea.2,Hosea.4,REFERENCES,0.854356,pgvector_chapter
+Hosea.4,Hosea.9,REFERENCES,0.86673,pgvector_chapter
+Hosea.4,Hosea.5,REFERENCES,0.863803,pgvector_chapter
+Hosea.4,Hosea.2,REFERENCES,0.854356,pgvector_chapter
+Hosea.5,Hosea.9,REFERENCES,0.876199,pgvector_chapter
+Hosea.5,Hosea.13,REFERENCES,0.867736,pgvector_chapter
+Hosea.5,Hosea.4,REFERENCES,0.863803,pgvector_chapter
+Hosea.6,Hosea.9,REFERENCES,0.843215,pgvector_chapter
+Hosea.6,Hosea.5,REFERENCES,0.841351,pgvector_chapter
+Hosea.7,Hosea.9,REFERENCES,0.877378,pgvector_chapter
+Hosea.7,Hosea.8,REFERENCES,0.857637,pgvector_chapter
+Hosea.7,Hosea.5,REFERENCES,0.838204,pgvector_chapter
+Hosea.8,Hosea.9,REFERENCES,0.868084,pgvector_chapter
+Hosea.8,Hosea.10,REFERENCES,0.864917,pgvector_chapter
+Hosea.8,Hosea.13,REFERENCES,0.860087,pgvector_chapter
+Hosea.9,Hosea.7,REFERENCES,0.877378,pgvector_chapter
+Hosea.9,Hosea.5,REFERENCES,0.876199,pgvector_chapter
+Hosea.9,Hosea.10,REFERENCES,0.86921,pgvector_chapter
+Isaiah.1,Isaiah.5,REFERENCES,0.866694,pgvector_chapter
+Isaiah.1,Isaiah.10,REFERENCES,0.855791,pgvector_chapter
+Isaiah.1,Isaiah.3,REFERENCES,0.852522,pgvector_chapter
+Isaiah.10,Isaiah.14,REFERENCES,0.875443,pgvector_chapter
+Isaiah.10,Isaiah.9,REFERENCES,0.866088,pgvector_chapter
+Isaiah.10,Isaiah.30,REFERENCES,0.862355,pgvector_chapter
+Isaiah.11,Isaiah.9,REFERENCES,0.833296,pgvector_chapter
+Isaiah.13,Jeremiah.50,REFERENCES,0.851129,pgvector_chapter
+Isaiah.13,Isaiah.10,REFERENCES,0.850245,pgvector_chapter
+Isaiah.13,Isaiah.34,REFERENCES,0.848788,pgvector_chapter
+Isaiah.14,Isaiah.10,REFERENCES,0.875443,pgvector_chapter
+Isaiah.14,Isaiah.49,REFERENCES,0.839848,pgvector_chapter
+Isaiah.14,Jeremiah.51,REFERENCES,0.839457,pgvector_chapter
+Isaiah.17,Isaiah.10,REFERENCES,0.837624,pgvector_chapter
+Isaiah.19,Ezekiel.29,REFERENCES,0.856562,pgvector_chapter
+Isaiah.19,Isaiah.30,REFERENCES,0.854012,pgvector_chapter
+Isaiah.19,Ezekiel.30,REFERENCES,0.844898,pgvector_chapter
+Isaiah.23,Ezekiel.27,REFERENCES,0.851914,pgvector_chapter
+Isaiah.23,Ezekiel.26,REFERENCES,0.845679,pgvector_chapter
+Isaiah.24,Isaiah.5,REFERENCES,0.844359,pgvector_chapter
+Isaiah.26,Isaiah.66,REFERENCES,0.837401,pgvector_chapter
+Isaiah.28,Isaiah.5,REFERENCES,0.868342,pgvector_chapter
+Isaiah.28,Isaiah.29,REFERENCES,0.853257,pgvector_chapter
+Isaiah.28,Isaiah.30,REFERENCES,0.840866,pgvector_chapter
+Isaiah.29,Isaiah.30,REFERENCES,0.862705,pgvector_chapter
+Isaiah.29,Isaiah.28,REFERENCES,0.853257,pgvector_chapter
+Isaiah.29,Isaiah.5,REFERENCES,0.832762,pgvector_chapter
+Isaiah.3,Isaiah.1,REFERENCES,0.852522,pgvector_chapter
+Isaiah.30,Isaiah.33,REFERENCES,0.871108,pgvector_chapter
+Isaiah.30,Isaiah.31,REFERENCES,0.866123,pgvector_chapter
+Isaiah.30,Isaiah.29,REFERENCES,0.862705,pgvector_chapter
+Isaiah.31,Isaiah.30,REFERENCES,0.866123,pgvector_chapter
+Isaiah.33,Isaiah.30,REFERENCES,0.871108,pgvector_chapter
+Isaiah.33,Zephaniah.3,REFERENCES,0.858256,pgvector_chapter
+Isaiah.33,Isaiah.51,REFERENCES,0.841344,pgvector_chapter
+Isaiah.34,Isaiah.13,REFERENCES,0.848788,pgvector_chapter
+Isaiah.36,Isaiah.37,REFERENCES,0.916098,pgvector_chapter
+Isaiah.36,2 Kings.18,REFERENCES,0.91598,pgvector_chapter
+Isaiah.36,2 Kings.19,REFERENCES,0.881858,pgvector_chapter
+Isaiah.37,2 Kings.19,REFERENCES,0.957998,pgvector_chapter
+Isaiah.37,Isaiah.36,REFERENCES,0.916098,pgvector_chapter
+Isaiah.37,2 Chronicles.32,REFERENCES,0.8989,pgvector_chapter
+Isaiah.38,2 Kings.20,REFERENCES,0.886692,pgvector_chapter
+Isaiah.39,2 Kings.20,REFERENCES,0.849822,pgvector_chapter
+Isaiah.40,Isaiah.41,REFERENCES,0.862312,pgvector_chapter
+Isaiah.40,Isaiah.44,REFERENCES,0.84116,pgvector_chapter
+Isaiah.40,Isaiah.49,REFERENCES,0.831583,pgvector_chapter
+Isaiah.41,Isaiah.43,REFERENCES,0.887982,pgvector_chapter
+Isaiah.41,Isaiah.44,REFERENCES,0.885145,pgvector_chapter
+Isaiah.41,Isaiah.42,REFERENCES,0.871532,pgvector_chapter
+Isaiah.42,Isaiah.43,REFERENCES,0.877176,pgvector_chapter
+Isaiah.42,Isaiah.41,REFERENCES,0.871532,pgvector_chapter
+Isaiah.42,Isaiah.49,REFERENCES,0.860309,pgvector_chapter
+Isaiah.43,Isaiah.41,REFERENCES,0.887982,pgvector_chapter
+Isaiah.43,Isaiah.44,REFERENCES,0.885551,pgvector_chapter
+Isaiah.43,Isaiah.42,REFERENCES,0.877176,pgvector_chapter
+Isaiah.44,Isaiah.43,REFERENCES,0.885551,pgvector_chapter
+Isaiah.44,Isaiah.41,REFERENCES,0.885145,pgvector_chapter
+Isaiah.44,Isaiah.45,REFERENCES,0.876676,pgvector_chapter
+Isaiah.45,Isaiah.44,REFERENCES,0.876676,pgvector_chapter
+Isaiah.45,Isaiah.43,REFERENCES,0.862552,pgvector_chapter
+Isaiah.45,Isaiah.48,REFERENCES,0.853776,pgvector_chapter
+Isaiah.46,Isaiah.48,REFERENCES,0.834373,pgvector_chapter
+Isaiah.48,Isaiah.43,REFERENCES,0.873227,pgvector_chapter
+Isaiah.48,Isaiah.44,REFERENCES,0.863744,pgvector_chapter
+Isaiah.48,Isaiah.45,REFERENCES,0.853776,pgvector_chapter
+Isaiah.49,Isaiah.43,REFERENCES,0.871777,pgvector_chapter
+Isaiah.49,Isaiah.51,REFERENCES,0.865724,pgvector_chapter
+Isaiah.49,Isaiah.52,REFERENCES,0.862198,pgvector_chapter
+Isaiah.5,Isaiah.28,REFERENCES,0.868342,pgvector_chapter
+Isaiah.5,Isaiah.1,REFERENCES,0.866694,pgvector_chapter
+Isaiah.5,Jeremiah.5,REFERENCES,0.853326,pgvector_chapter
+Isaiah.51,Isaiah.49,REFERENCES,0.865724,pgvector_chapter
+Isaiah.51,Jeremiah.51,REFERENCES,0.857774,pgvector_chapter
+Isaiah.51,Isaiah.30,REFERENCES,0.845591,pgvector_chapter
+Isaiah.52,Isaiah.49,REFERENCES,0.862198,pgvector_chapter
+Isaiah.52,Isaiah.51,REFERENCES,0.839935,pgvector_chapter
+Isaiah.60,Isaiah.62,REFERENCES,0.845409,pgvector_chapter
+Isaiah.60,Isaiah.49,REFERENCES,0.833578,pgvector_chapter
+Isaiah.61,Isaiah.62,REFERENCES,0.839271,pgvector_chapter
+Isaiah.62,Isaiah.60,REFERENCES,0.845409,pgvector_chapter
+Isaiah.62,Isaiah.61,REFERENCES,0.839271,pgvector_chapter
+Isaiah.65,Isaiah.66,REFERENCES,0.876344,pgvector_chapter
+Isaiah.65,Isaiah.33,REFERENCES,0.835638,pgvector_chapter
+Isaiah.66,Isaiah.65,REFERENCES,0.876344,pgvector_chapter
+Isaiah.66,Isaiah.33,REFERENCES,0.839475,pgvector_chapter
+Isaiah.66,Isaiah.26,REFERENCES,0.837401,pgvector_chapter
+Isaiah.7,Isaiah.8,REFERENCES,0.834431,pgvector_chapter
+Isaiah.8,Isaiah.7,REFERENCES,0.834431,pgvector_chapter
+Isaiah.9,Isaiah.10,REFERENCES,0.866088,pgvector_chapter
+Isaiah.9,Isaiah.30,REFERENCES,0.843059,pgvector_chapter
+Isaiah.9,Zechariah.9,REFERENCES,0.84157,pgvector_chapter
+Jeremiah.10,Jeremiah.9,REFERENCES,0.840308,pgvector_chapter
+Jeremiah.10,Jeremiah.6,REFERENCES,0.837103,pgvector_chapter
+Jeremiah.10,Jeremiah.4,REFERENCES,0.837059,pgvector_chapter
+Jeremiah.11,Jeremiah.7,REFERENCES,0.865925,pgvector_chapter
+Jeremiah.11,Jeremiah.5,REFERENCES,0.849291,pgvector_chapter
+Jeremiah.11,Jeremiah.6,REFERENCES,0.847374,pgvector_chapter
+Jeremiah.12,Jeremiah.5,REFERENCES,0.867995,pgvector_chapter
+Jeremiah.12,Jeremiah.6,REFERENCES,0.850957,pgvector_chapter
+Jeremiah.12,Jeremiah.4,REFERENCES,0.845449,pgvector_chapter
+Jeremiah.13,Jeremiah.2,REFERENCES,0.851446,pgvector_chapter
+Jeremiah.13,Jeremiah.5,REFERENCES,0.83891,pgvector_chapter
+Jeremiah.13,Jeremiah.9,REFERENCES,0.832644,pgvector_chapter
+Jeremiah.14,Jeremiah.5,REFERENCES,0.868263,pgvector_chapter
+Jeremiah.14,Jeremiah.8,REFERENCES,0.861089,pgvector_chapter
+Jeremiah.14,Jeremiah.2,REFERENCES,0.857725,pgvector_chapter
+Jeremiah.15,Jeremiah.6,REFERENCES,0.86232,pgvector_chapter
+Jeremiah.15,Jeremiah.4,REFERENCES,0.849585,pgvector_chapter
+Jeremiah.15,Jeremiah.5,REFERENCES,0.84903,pgvector_chapter
+Jeremiah.16,Jeremiah.7,REFERENCES,0.861359,pgvector_chapter
+Jeremiah.16,Jeremiah.9,REFERENCES,0.855568,pgvector_chapter
+Jeremiah.16,Jeremiah.5,REFERENCES,0.849211,pgvector_chapter
+Jeremiah.17,Jeremiah.15,REFERENCES,0.841996,pgvector_chapter
+Jeremiah.17,Jeremiah.11,REFERENCES,0.836103,pgvector_chapter
+Jeremiah.17,Jeremiah.5,REFERENCES,0.835485,pgvector_chapter
+Jeremiah.18,Jeremiah.19,REFERENCES,0.852029,pgvector_chapter
+Jeremiah.18,Jeremiah.6,REFERENCES,0.841209,pgvector_chapter
+Jeremiah.18,Jeremiah.2,REFERENCES,0.838171,pgvector_chapter
+Jeremiah.19,Jeremiah.7,REFERENCES,0.870769,pgvector_chapter
+Jeremiah.19,Jeremiah.18,REFERENCES,0.852029,pgvector_chapter
+Jeremiah.2,Jeremiah.5,REFERENCES,0.884445,pgvector_chapter
+Jeremiah.2,Jeremiah.9,REFERENCES,0.875205,pgvector_chapter
+Jeremiah.2,Jeremiah.3,REFERENCES,0.869457,pgvector_chapter
+Jeremiah.21,Jeremiah.34,REFERENCES,0.865686,pgvector_chapter
+Jeremiah.21,Jeremiah.22,REFERENCES,0.850304,pgvector_chapter
+Jeremiah.21,Jeremiah.38,REFERENCES,0.850044,pgvector_chapter
+Jeremiah.22,Jeremiah.26,REFERENCES,0.859824,pgvector_chapter
+Jeremiah.22,Jeremiah.29,REFERENCES,0.855769,pgvector_chapter
+Jeremiah.22,Jeremiah.25,REFERENCES,0.850817,pgvector_chapter
+Jeremiah.23,Jeremiah.25,REFERENCES,0.862071,pgvector_chapter
+Jeremiah.23,Jeremiah.5,REFERENCES,0.858816,pgvector_chapter
+Jeremiah.23,Jeremiah.2,REFERENCES,0.8485,pgvector_chapter
+Jeremiah.25,Jeremiah.50,REFERENCES,0.914292,pgvector_chapter
+Jeremiah.25,Jeremiah.51,REFERENCES,0.913375,pgvector_chapter
+Jeremiah.25,Jeremiah.49,REFERENCES,0.873775,pgvector_chapter
+Jeremiah.26,Jeremiah.22,REFERENCES,0.859824,pgvector_chapter
+Jeremiah.26,Jeremiah.38,REFERENCES,0.850759,pgvector_chapter
+Jeremiah.26,Jeremiah.36,REFERENCES,0.847444,pgvector_chapter
+Jeremiah.27,Jeremiah.29,REFERENCES,0.885295,pgvector_chapter
+Jeremiah.27,Jeremiah.34,REFERENCES,0.878823,pgvector_chapter
+Jeremiah.27,Jeremiah.28,REFERENCES,0.868323,pgvector_chapter
+Jeremiah.28,Jeremiah.27,REFERENCES,0.868323,pgvector_chapter
+Jeremiah.28,Jeremiah.29,REFERENCES,0.832844,pgvector_chapter
+Jeremiah.29,Jeremiah.27,REFERENCES,0.885295,pgvector_chapter
+Jeremiah.29,Jeremiah.22,REFERENCES,0.855769,pgvector_chapter
+Jeremiah.29,Jeremiah.34,REFERENCES,0.855281,pgvector_chapter
+Jeremiah.3,Jeremiah.2,REFERENCES,0.869457,pgvector_chapter
+Jeremiah.3,Jeremiah.5,REFERENCES,0.848821,pgvector_chapter
+Jeremiah.3,Jeremiah.7,REFERENCES,0.842816,pgvector_chapter
+Jeremiah.30,Jeremiah.31,REFERENCES,0.885222,pgvector_chapter
+Jeremiah.30,Jeremiah.33,REFERENCES,0.8597,pgvector_chapter
+Jeremiah.30,Isaiah.30,REFERENCES,0.831336,pgvector_chapter
+Jeremiah.31,Jeremiah.33,REFERENCES,0.900396,pgvector_chapter
+Jeremiah.31,Jeremiah.30,REFERENCES,0.885222,pgvector_chapter
+Jeremiah.31,Ezekiel.36,REFERENCES,0.870197,pgvector_chapter
+Jeremiah.32,Jeremiah.34,REFERENCES,0.881587,pgvector_chapter
+Jeremiah.32,Jeremiah.33,REFERENCES,0.858389,pgvector_chapter
+Jeremiah.32,Jeremiah.38,REFERENCES,0.85298,pgvector_chapter
+Jeremiah.33,Jeremiah.31,REFERENCES,0.900396,pgvector_chapter
+Jeremiah.33,Jeremiah.30,REFERENCES,0.8597,pgvector_chapter
+Jeremiah.33,Jeremiah.32,REFERENCES,0.858389,pgvector_chapter
+Jeremiah.34,Jeremiah.39,REFERENCES,0.888931,pgvector_chapter
+Jeremiah.34,Jeremiah.32,REFERENCES,0.881587,pgvector_chapter
+Jeremiah.34,Jeremiah.38,REFERENCES,0.88122,pgvector_chapter
+Jeremiah.36,Jeremiah.38,REFERENCES,0.85701,pgvector_chapter
+Jeremiah.36,Jeremiah.37,REFERENCES,0.848835,pgvector_chapter
+Jeremiah.36,Jeremiah.32,REFERENCES,0.847574,pgvector_chapter
+Jeremiah.37,Jeremiah.39,REFERENCES,0.905536,pgvector_chapter
+Jeremiah.37,Jeremiah.38,REFERENCES,0.902285,pgvector_chapter
+Jeremiah.37,Jeremiah.34,REFERENCES,0.877816,pgvector_chapter
+Jeremiah.38,Jeremiah.37,REFERENCES,0.902285,pgvector_chapter
+Jeremiah.38,Jeremiah.39,REFERENCES,0.900751,pgvector_chapter
+Jeremiah.38,Jeremiah.34,REFERENCES,0.88122,pgvector_chapter
+Jeremiah.39,Jeremiah.37,REFERENCES,0.905536,pgvector_chapter
+Jeremiah.39,Jeremiah.52,REFERENCES,0.904051,pgvector_chapter
+Jeremiah.39,Jeremiah.38,REFERENCES,0.900751,pgvector_chapter
+Jeremiah.4,Jeremiah.6,REFERENCES,0.89329,pgvector_chapter
+Jeremiah.4,Jeremiah.5,REFERENCES,0.877832,pgvector_chapter
+Jeremiah.4,Jeremiah.9,REFERENCES,0.860207,pgvector_chapter
+Jeremiah.40,Jeremiah.41,REFERENCES,0.928724,pgvector_chapter
+Jeremiah.40,Jeremiah.39,REFERENCES,0.875496,pgvector_chapter
+Jeremiah.40,2 Kings.25,REFERENCES,0.851679,pgvector_chapter
+Jeremiah.41,Jeremiah.40,REFERENCES,0.928724,pgvector_chapter
+Jeremiah.42,Jeremiah.44,REFERENCES,0.876452,pgvector_chapter
+Jeremiah.42,Jeremiah.43,REFERENCES,0.855149,pgvector_chapter
+Jeremiah.42,Jeremiah.46,REFERENCES,0.849771,pgvector_chapter
+Jeremiah.43,Jeremiah.44,REFERENCES,0.856667,pgvector_chapter
+Jeremiah.43,Jeremiah.42,REFERENCES,0.855149,pgvector_chapter
+Jeremiah.43,Jeremiah.46,REFERENCES,0.852386,pgvector_chapter
+Jeremiah.44,Jeremiah.42,REFERENCES,0.876452,pgvector_chapter
+Jeremiah.44,Jeremiah.46,REFERENCES,0.857633,pgvector_chapter
+Jeremiah.44,Jeremiah.43,REFERENCES,0.856667,pgvector_chapter
+Jeremiah.46,Jeremiah.50,REFERENCES,0.886926,pgvector_chapter
+Jeremiah.46,Jeremiah.49,REFERENCES,0.881612,pgvector_chapter
+Jeremiah.46,Jeremiah.51,REFERENCES,0.881376,pgvector_chapter
+Jeremiah.48,Jeremiah.49,REFERENCES,0.898614,pgvector_chapter
+Jeremiah.48,Jeremiah.50,REFERENCES,0.885499,pgvector_chapter
+Jeremiah.48,Jeremiah.51,REFERENCES,0.87812,pgvector_chapter
+Jeremiah.49,Jeremiah.50,REFERENCES,0.899507,pgvector_chapter
+Jeremiah.49,Jeremiah.48,REFERENCES,0.898614,pgvector_chapter
+Jeremiah.49,Jeremiah.51,REFERENCES,0.895343,pgvector_chapter
+Jeremiah.5,Jeremiah.2,REFERENCES,0.884445,pgvector_chapter
+Jeremiah.5,Jeremiah.9,REFERENCES,0.879933,pgvector_chapter
+Jeremiah.5,Jeremiah.6,REFERENCES,0.878493,pgvector_chapter
+Jeremiah.50,Jeremiah.51,REFERENCES,0.949946,pgvector_chapter
+Jeremiah.50,Jeremiah.25,REFERENCES,0.914292,pgvector_chapter
+Jeremiah.50,Jeremiah.49,REFERENCES,0.899507,pgvector_chapter
+Jeremiah.51,Jeremiah.50,REFERENCES,0.949946,pgvector_chapter
+Jeremiah.51,Jeremiah.25,REFERENCES,0.913375,pgvector_chapter
+Jeremiah.51,Jeremiah.49,REFERENCES,0.895343,pgvector_chapter
+Jeremiah.52,2 Kings.25,REFERENCES,0.939366,pgvector_chapter
+Jeremiah.52,Jeremiah.39,REFERENCES,0.904051,pgvector_chapter
+Jeremiah.52,2 Chronicles.36,REFERENCES,0.886774,pgvector_chapter
+Jeremiah.6,Jeremiah.4,REFERENCES,0.89329,pgvector_chapter
+Jeremiah.6,Jeremiah.8,REFERENCES,0.881092,pgvector_chapter
+Jeremiah.6,Jeremiah.5,REFERENCES,0.878493,pgvector_chapter
+Jeremiah.7,Jeremiah.19,REFERENCES,0.870769,pgvector_chapter
+Jeremiah.7,Jeremiah.11,REFERENCES,0.865925,pgvector_chapter
+Jeremiah.7,Jeremiah.5,REFERENCES,0.864766,pgvector_chapter
+Jeremiah.8,Jeremiah.9,REFERENCES,0.889461,pgvector_chapter
+Jeremiah.8,Jeremiah.6,REFERENCES,0.881092,pgvector_chapter
+Jeremiah.8,Jeremiah.5,REFERENCES,0.864574,pgvector_chapter
+Jeremiah.9,Jeremiah.8,REFERENCES,0.889461,pgvector_chapter
+Jeremiah.9,Jeremiah.5,REFERENCES,0.879933,pgvector_chapter
+Jeremiah.9,Jeremiah.2,REFERENCES,0.875205,pgvector_chapter
+Job.1,Job.2,REFERENCES,0.864662,pgvector_chapter
+Job.1,Job.42,REFERENCES,0.83207,pgvector_chapter
+Job.10,Job.7,REFERENCES,0.83627,pgvector_chapter
+Job.11,Job.22,REFERENCES,0.83134,pgvector_chapter
+Job.12,Job.34,REFERENCES,0.844156,pgvector_chapter
+Job.13,Job.33,REFERENCES,0.848358,pgvector_chapter
+Job.13,Job.16,REFERENCES,0.842612,pgvector_chapter
+Job.13,Job.19,REFERENCES,0.836251,pgvector_chapter
+Job.15,Job.21,REFERENCES,0.854227,pgvector_chapter
+Job.15,Job.27,REFERENCES,0.839142,pgvector_chapter
+Job.15,Job.22,REFERENCES,0.834953,pgvector_chapter
+Job.16,Job.19,REFERENCES,0.871781,pgvector_chapter
+Job.16,Job.30,REFERENCES,0.858807,pgvector_chapter
+Job.16,Job.13,REFERENCES,0.842612,pgvector_chapter
+Job.17,Job.16,REFERENCES,0.838665,pgvector_chapter
+Job.19,Job.16,REFERENCES,0.871781,pgvector_chapter
+Job.19,Job.30,REFERENCES,0.84911,pgvector_chapter
+Job.19,Job.13,REFERENCES,0.836251,pgvector_chapter
+Job.2,Job.1,REFERENCES,0.864662,pgvector_chapter
+Job.20,Job.21,REFERENCES,0.852798,pgvector_chapter
+Job.20,Job.15,REFERENCES,0.834506,pgvector_chapter
+Job.20,Job.27,REFERENCES,0.830156,pgvector_chapter
+Job.21,Job.27,REFERENCES,0.876481,pgvector_chapter
+Job.21,Job.24,REFERENCES,0.865114,pgvector_chapter
+Job.21,Job.34,REFERENCES,0.855805,pgvector_chapter
+Job.22,Job.21,REFERENCES,0.849703,pgvector_chapter
+Job.22,Job.34,REFERENCES,0.84638,pgvector_chapter
+Job.22,Job.36,REFERENCES,0.844733,pgvector_chapter
+Job.23,Job.9,REFERENCES,0.839133,pgvector_chapter
+Job.24,Job.21,REFERENCES,0.865114,pgvector_chapter
+Job.27,Job.21,REFERENCES,0.876481,pgvector_chapter
+Job.27,Job.15,REFERENCES,0.839142,pgvector_chapter
+Job.27,Job.20,REFERENCES,0.830156,pgvector_chapter
+Job.29,Job.30,REFERENCES,0.844737,pgvector_chapter
+Job.30,Job.16,REFERENCES,0.858807,pgvector_chapter
+Job.30,Job.19,REFERENCES,0.84911,pgvector_chapter
+Job.30,Job.6,REFERENCES,0.845769,pgvector_chapter
+Job.33,Job.13,REFERENCES,0.848358,pgvector_chapter
+Job.33,Job.34,REFERENCES,0.842697,pgvector_chapter
+Job.34,Job.36,REFERENCES,0.887318,pgvector_chapter
+Job.34,Job.35,REFERENCES,0.85717,pgvector_chapter
+Job.34,Job.21,REFERENCES,0.855805,pgvector_chapter
+Job.35,Job.34,REFERENCES,0.85717,pgvector_chapter
+Job.35,Job.36,REFERENCES,0.852752,pgvector_chapter
+Job.36,Job.34,REFERENCES,0.887318,pgvector_chapter
+Job.36,Job.37,REFERENCES,0.869724,pgvector_chapter
+Job.36,Job.35,REFERENCES,0.852752,pgvector_chapter
+Job.37,Job.36,REFERENCES,0.869724,pgvector_chapter
+Job.37,Job.38,REFERENCES,0.849986,pgvector_chapter
+Job.37,Job.9,REFERENCES,0.835633,pgvector_chapter
+Job.38,Job.37,REFERENCES,0.849986,pgvector_chapter
+Job.40,Job.41,REFERENCES,0.852137,pgvector_chapter
+Job.41,Job.40,REFERENCES,0.852137,pgvector_chapter
+Job.42,Job.1,REFERENCES,0.83207,pgvector_chapter
+Job.5,Job.21,REFERENCES,0.830339,pgvector_chapter
+Job.6,Job.30,REFERENCES,0.845769,pgvector_chapter
+Job.6,Job.16,REFERENCES,0.83898,pgvector_chapter
+Job.7,Job.10,REFERENCES,0.83627,pgvector_chapter
+Job.9,Job.34,REFERENCES,0.853173,pgvector_chapter
+Job.9,Job.36,REFERENCES,0.847065,pgvector_chapter
+Job.9,Job.23,REFERENCES,0.839133,pgvector_chapter
+Joel.1,Joel.2,REFERENCES,0.876619,pgvector_chapter
+Joel.1,Joel.3,REFERENCES,0.838257,pgvector_chapter
+Joel.2,Joel.1,REFERENCES,0.876619,pgvector_chapter
+Joel.2,Joel.3,REFERENCES,0.869416,pgvector_chapter
+Joel.3,Joel.2,REFERENCES,0.869416,pgvector_chapter
+Joel.3,Joel.1,REFERENCES,0.838257,pgvector_chapter
+John.1,John.3,REFERENCES,0.849846,pgvector_chapter
+John.1,Mark.1,REFERENCES,0.849634,pgvector_chapter
+John.1,Luke.3,REFERENCES,0.837971,pgvector_chapter
+John.10,John.8,REFERENCES,0.832194,pgvector_chapter
+John.11,John.12,REFERENCES,0.869768,pgvector_chapter
+John.11,Luke.24,REFERENCES,0.839324,pgvector_chapter
+John.12,John.11,REFERENCES,0.869768,pgvector_chapter
+John.12,Mark.14,REFERENCES,0.855458,pgvector_chapter
+John.12,Matthew.26,REFERENCES,0.848625,pgvector_chapter
+John.13,Luke.22,REFERENCES,0.877173,pgvector_chapter
+John.13,Matthew.26,REFERENCES,0.866849,pgvector_chapter
+John.13,Mark.14,REFERENCES,0.862227,pgvector_chapter
+John.14,John.16,REFERENCES,0.858482,pgvector_chapter
+John.16,John.14,REFERENCES,0.858482,pgvector_chapter
+John.16,John.17,REFERENCES,0.838374,pgvector_chapter
+John.17,John.16,REFERENCES,0.838374,pgvector_chapter
+John.18,Luke.22,REFERENCES,0.888832,pgvector_chapter
+John.18,Matthew.26,REFERENCES,0.884814,pgvector_chapter
+John.18,Mark.14,REFERENCES,0.878891,pgvector_chapter
+John.19,Mark.15,REFERENCES,0.927455,pgvector_chapter
+John.19,Matthew.27,REFERENCES,0.91536,pgvector_chapter
+John.19,Luke.23,REFERENCES,0.901503,pgvector_chapter
+John.20,Luke.24,REFERENCES,0.852545,pgvector_chapter
+John.20,Mark.16,REFERENCES,0.8413,pgvector_chapter
+John.3,John.1,REFERENCES,0.849846,pgvector_chapter
+John.4,John.7,REFERENCES,0.853012,pgvector_chapter
+John.4,Luke.4,REFERENCES,0.832562,pgvector_chapter
+John.5,John.9,REFERENCES,0.846991,pgvector_chapter
+John.5,John.8,REFERENCES,0.835593,pgvector_chapter
+John.5,John.7,REFERENCES,0.831726,pgvector_chapter
+John.6,Mark.8,REFERENCES,0.836609,pgvector_chapter
+John.6,Mark.6,REFERENCES,0.830988,pgvector_chapter
+John.7,John.4,REFERENCES,0.853012,pgvector_chapter
+John.7,John.8,REFERENCES,0.840455,pgvector_chapter
+John.7,John.5,REFERENCES,0.831726,pgvector_chapter
+John.8,John.7,REFERENCES,0.840455,pgvector_chapter
+John.8,John.5,REFERENCES,0.835593,pgvector_chapter
+John.8,John.10,REFERENCES,0.832194,pgvector_chapter
+John.9,John.5,REFERENCES,0.846991,pgvector_chapter
+Jonah.1,Jonah.2,REFERENCES,0.8353,pgvector_chapter
+Jonah.2,Jonah.1,REFERENCES,0.8353,pgvector_chapter
+Joshua.1,Deuteronomy.1,REFERENCES,0.83784,pgvector_chapter
+Joshua.1,Joshua.23,REFERENCES,0.832827,pgvector_chapter
+Joshua.10,Joshua.11,REFERENCES,0.895799,pgvector_chapter
+Joshua.10,Joshua.8,REFERENCES,0.872861,pgvector_chapter
+Joshua.10,Joshua.9,REFERENCES,0.867844,pgvector_chapter
+Joshua.11,Joshua.10,REFERENCES,0.895799,pgvector_chapter
+Joshua.11,Joshua.12,REFERENCES,0.861274,pgvector_chapter
+Joshua.11,Joshua.13,REFERENCES,0.844619,pgvector_chapter
+Joshua.12,Joshua.13,REFERENCES,0.897102,pgvector_chapter
+Joshua.12,Deuteronomy.3,REFERENCES,0.869584,pgvector_chapter
+Joshua.12,Joshua.11,REFERENCES,0.861274,pgvector_chapter
+Joshua.13,Joshua.12,REFERENCES,0.897102,pgvector_chapter
+Joshua.13,Joshua.19,REFERENCES,0.884011,pgvector_chapter
+Joshua.13,Joshua.21,REFERENCES,0.883504,pgvector_chapter
+Joshua.14,Joshua.13,REFERENCES,0.858848,pgvector_chapter
+Joshua.14,Joshua.21,REFERENCES,0.852788,pgvector_chapter
+Joshua.14,Joshua.15,REFERENCES,0.846146,pgvector_chapter
+Joshua.15,Joshua.19,REFERENCES,0.905435,pgvector_chapter
+Joshua.15,Judges.1,REFERENCES,0.895941,pgvector_chapter
+Joshua.15,Joshua.21,REFERENCES,0.881884,pgvector_chapter
+Joshua.16,Joshua.17,REFERENCES,0.860896,pgvector_chapter
+Joshua.16,Joshua.15,REFERENCES,0.835244,pgvector_chapter
+Joshua.17,Joshua.13,REFERENCES,0.863797,pgvector_chapter
+Joshua.17,Joshua.16,REFERENCES,0.860896,pgvector_chapter
+Joshua.17,Joshua.19,REFERENCES,0.852273,pgvector_chapter
+Joshua.18,Joshua.19,REFERENCES,0.908011,pgvector_chapter
+Joshua.18,Joshua.13,REFERENCES,0.87773,pgvector_chapter
+Joshua.18,Joshua.15,REFERENCES,0.874685,pgvector_chapter
+Joshua.19,Joshua.18,REFERENCES,0.908011,pgvector_chapter
+Joshua.19,Joshua.15,REFERENCES,0.905435,pgvector_chapter
+Joshua.19,Joshua.21,REFERENCES,0.895377,pgvector_chapter
+Joshua.2,Joshua.6,REFERENCES,0.879401,pgvector_chapter
+Joshua.20,Numbers.35,REFERENCES,0.831851,pgvector_chapter
+Joshua.21,Joshua.19,REFERENCES,0.895377,pgvector_chapter
+Joshua.21,Joshua.13,REFERENCES,0.883504,pgvector_chapter
+Joshua.21,Joshua.15,REFERENCES,0.881884,pgvector_chapter
+Joshua.22,Joshua.24,REFERENCES,0.859862,pgvector_chapter
+Joshua.22,Numbers.32,REFERENCES,0.85902,pgvector_chapter
+Joshua.22,Joshua.7,REFERENCES,0.850345,pgvector_chapter
+Joshua.23,Deuteronomy.31,REFERENCES,0.845471,pgvector_chapter
+Joshua.23,Joshua.1,REFERENCES,0.832827,pgvector_chapter
+Joshua.23,Joshua.24,REFERENCES,0.830498,pgvector_chapter
+Joshua.24,Joshua.22,REFERENCES,0.859862,pgvector_chapter
+Joshua.24,Judges.2,REFERENCES,0.84951,pgvector_chapter
+Joshua.24,Deuteronomy.4,REFERENCES,0.847883,pgvector_chapter
+Joshua.3,Joshua.4,REFERENCES,0.888021,pgvector_chapter
+Joshua.3,Deuteronomy.3,REFERENCES,0.8314,pgvector_chapter
+Joshua.4,Joshua.3,REFERENCES,0.888021,pgvector_chapter
+Joshua.4,Joshua.10,REFERENCES,0.835864,pgvector_chapter
+Joshua.6,Joshua.2,REFERENCES,0.879401,pgvector_chapter
+Joshua.7,Joshua.22,REFERENCES,0.850345,pgvector_chapter
+Joshua.7,Joshua.8,REFERENCES,0.836856,pgvector_chapter
+Joshua.8,Joshua.10,REFERENCES,0.872861,pgvector_chapter
+Joshua.8,Joshua.7,REFERENCES,0.836856,pgvector_chapter
+Joshua.9,Joshua.10,REFERENCES,0.867844,pgvector_chapter
+Joshua.9,Joshua.11,REFERENCES,0.843217,pgvector_chapter
+Joshua.9,Joshua.13,REFERENCES,0.833336,pgvector_chapter
+Judges.1,Joshua.15,REFERENCES,0.895941,pgvector_chapter
+Judges.1,Joshua.21,REFERENCES,0.853986,pgvector_chapter
+Judges.1,1 Chronicles.2,REFERENCES,0.853424,pgvector_chapter
+Judges.11,Judges.8,REFERENCES,0.853595,pgvector_chapter
+Judges.11,Judges.20,REFERENCES,0.841253,pgvector_chapter
+Judges.11,Judges.19,REFERENCES,0.839314,pgvector_chapter
+Judges.12,Judges.8,REFERENCES,0.83817,pgvector_chapter
+Judges.14,Judges.15,REFERENCES,0.873553,pgvector_chapter
+Judges.14,Judges.16,REFERENCES,0.848506,pgvector_chapter
+Judges.15,Judges.16,REFERENCES,0.890678,pgvector_chapter
+Judges.15,Judges.14,REFERENCES,0.873553,pgvector_chapter
+Judges.16,Judges.15,REFERENCES,0.890678,pgvector_chapter
+Judges.16,Judges.14,REFERENCES,0.848506,pgvector_chapter
+Judges.17,Judges.18,REFERENCES,0.833582,pgvector_chapter
+Judges.18,Judges.17,REFERENCES,0.833582,pgvector_chapter
+Judges.19,Judges.20,REFERENCES,0.861946,pgvector_chapter
+Judges.19,Judges.11,REFERENCES,0.839314,pgvector_chapter
+Judges.2,Joshua.24,REFERENCES,0.84951,pgvector_chapter
+Judges.20,Judges.21,REFERENCES,0.885894,pgvector_chapter
+Judges.20,Judges.19,REFERENCES,0.861946,pgvector_chapter
+Judges.20,Joshua.10,REFERENCES,0.845624,pgvector_chapter
+Judges.21,Judges.20,REFERENCES,0.885894,pgvector_chapter
+Judges.21,Judges.11,REFERENCES,0.83726,pgvector_chapter
+Judges.3,Judges.8,REFERENCES,0.836462,pgvector_chapter
+Judges.3,Judges.1,REFERENCES,0.833181,pgvector_chapter
+Judges.4,Judges.5,REFERENCES,0.912294,pgvector_chapter
+Judges.5,Judges.4,REFERENCES,0.912294,pgvector_chapter
+Judges.5,Judges.8,REFERENCES,0.832459,pgvector_chapter
+Judges.6,Judges.7,REFERENCES,0.910462,pgvector_chapter
+Judges.6,Judges.8,REFERENCES,0.901845,pgvector_chapter
+Judges.6,Judges.9,REFERENCES,0.834817,pgvector_chapter
+Judges.7,Judges.6,REFERENCES,0.910462,pgvector_chapter
+Judges.7,Judges.8,REFERENCES,0.904989,pgvector_chapter
+Judges.8,Judges.7,REFERENCES,0.904989,pgvector_chapter
+Judges.8,Judges.6,REFERENCES,0.901845,pgvector_chapter
+Judges.8,Judges.9,REFERENCES,0.862887,pgvector_chapter
+Judges.9,Judges.8,REFERENCES,0.862887,pgvector_chapter
+Judges.9,2 Samuel.19,REFERENCES,0.837741,pgvector_chapter
+Judges.9,Judges.1,REFERENCES,0.837132,pgvector_chapter
+Lamentations.1,Lamentations.2,REFERENCES,0.909502,pgvector_chapter
+Lamentations.1,Lamentations.4,REFERENCES,0.872198,pgvector_chapter
+Lamentations.1,Jeremiah.6,REFERENCES,0.842281,pgvector_chapter
+Lamentations.2,Lamentations.1,REFERENCES,0.909502,pgvector_chapter
+Lamentations.2,Lamentations.4,REFERENCES,0.870839,pgvector_chapter
+Lamentations.2,Jeremiah.6,REFERENCES,0.8508,pgvector_chapter
+Lamentations.3,Psalm.22,REFERENCES,0.837117,pgvector_chapter
+Lamentations.3,Psalm.69,REFERENCES,0.83435,pgvector_chapter
+Lamentations.3,Psalm.35,REFERENCES,0.833902,pgvector_chapter
+Lamentations.4,Lamentations.1,REFERENCES,0.872198,pgvector_chapter
+Lamentations.4,Lamentations.2,REFERENCES,0.870839,pgvector_chapter
+Lamentations.4,Jeremiah.4,REFERENCES,0.836708,pgvector_chapter
+Lamentations.5,Lamentations.1,REFERENCES,0.832666,pgvector_chapter
+Leviticus.1,Leviticus.3,REFERENCES,0.879784,pgvector_chapter
+Leviticus.1,Leviticus.8,REFERENCES,0.859515,pgvector_chapter
+Leviticus.1,Leviticus.9,REFERENCES,0.852765,pgvector_chapter
+Leviticus.10,Leviticus.8,REFERENCES,0.868227,pgvector_chapter
+Leviticus.10,Leviticus.9,REFERENCES,0.848902,pgvector_chapter
+Leviticus.10,Leviticus.6,REFERENCES,0.843396,pgvector_chapter
+Leviticus.11,Deuteronomy.14,REFERENCES,0.880588,pgvector_chapter
+Leviticus.13,Leviticus.14,REFERENCES,0.849878,pgvector_chapter
+Leviticus.14,Leviticus.13,REFERENCES,0.849878,pgvector_chapter
+Leviticus.14,Leviticus.15,REFERENCES,0.837042,pgvector_chapter
+Leviticus.15,Leviticus.14,REFERENCES,0.837042,pgvector_chapter
+Leviticus.16,Leviticus.8,REFERENCES,0.868219,pgvector_chapter
+Leviticus.16,Exodus.29,REFERENCES,0.859218,pgvector_chapter
+Leviticus.16,Leviticus.4,REFERENCES,0.852164,pgvector_chapter
+Leviticus.17,Numbers.19,REFERENCES,0.833884,pgvector_chapter
+Leviticus.18,Leviticus.20,REFERENCES,0.896872,pgvector_chapter
+Leviticus.18,Leviticus.19,REFERENCES,0.839368,pgvector_chapter
+Leviticus.19,Leviticus.22,REFERENCES,0.850154,pgvector_chapter
+Leviticus.19,Leviticus.20,REFERENCES,0.847707,pgvector_chapter
+Leviticus.19,Leviticus.18,REFERENCES,0.839368,pgvector_chapter
+Leviticus.2,Leviticus.6,REFERENCES,0.840233,pgvector_chapter
+Leviticus.20,Leviticus.18,REFERENCES,0.896872,pgvector_chapter
+Leviticus.20,Leviticus.19,REFERENCES,0.847707,pgvector_chapter
+Leviticus.20,Deuteronomy.22,REFERENCES,0.846899,pgvector_chapter
+Leviticus.21,Leviticus.22,REFERENCES,0.899708,pgvector_chapter
+Leviticus.22,Leviticus.21,REFERENCES,0.899708,pgvector_chapter
+Leviticus.22,Leviticus.19,REFERENCES,0.850154,pgvector_chapter
+Leviticus.22,Leviticus.7,REFERENCES,0.846618,pgvector_chapter
+Leviticus.23,Numbers.28,REFERENCES,0.870994,pgvector_chapter
+Leviticus.23,Numbers.29,REFERENCES,0.861824,pgvector_chapter
+Leviticus.23,Deuteronomy.16,REFERENCES,0.852622,pgvector_chapter
+Leviticus.25,Leviticus.27,REFERENCES,0.857465,pgvector_chapter
+Leviticus.25,Deuteronomy.15,REFERENCES,0.845372,pgvector_chapter
+Leviticus.26,Deuteronomy.28,REFERENCES,0.869904,pgvector_chapter
+Leviticus.26,Deuteronomy.29,REFERENCES,0.844461,pgvector_chapter
+Leviticus.26,Deuteronomy.7,REFERENCES,0.839598,pgvector_chapter
+Leviticus.27,Leviticus.25,REFERENCES,0.857465,pgvector_chapter
+Leviticus.3,Leviticus.7,REFERENCES,0.885812,pgvector_chapter
+Leviticus.3,Leviticus.1,REFERENCES,0.879784,pgvector_chapter
+Leviticus.3,Leviticus.8,REFERENCES,0.846943,pgvector_chapter
+Leviticus.4,Leviticus.6,REFERENCES,0.874564,pgvector_chapter
+Leviticus.4,Leviticus.8,REFERENCES,0.869044,pgvector_chapter
+Leviticus.4,Leviticus.7,REFERENCES,0.861647,pgvector_chapter
+Leviticus.5,Leviticus.4,REFERENCES,0.859841,pgvector_chapter
+Leviticus.6,Leviticus.7,REFERENCES,0.894542,pgvector_chapter
+Leviticus.6,Leviticus.4,REFERENCES,0.874564,pgvector_chapter
+Leviticus.6,Leviticus.8,REFERENCES,0.87387,pgvector_chapter
+Leviticus.7,Leviticus.6,REFERENCES,0.894542,pgvector_chapter
+Leviticus.7,Leviticus.3,REFERENCES,0.885812,pgvector_chapter
+Leviticus.7,Leviticus.8,REFERENCES,0.870968,pgvector_chapter
+Leviticus.8,Exodus.29,REFERENCES,0.923793,pgvector_chapter
+Leviticus.8,Leviticus.9,REFERENCES,0.904025,pgvector_chapter
+Leviticus.8,Leviticus.6,REFERENCES,0.87387,pgvector_chapter
+Leviticus.9,Leviticus.8,REFERENCES,0.904025,pgvector_chapter
+Leviticus.9,Exodus.29,REFERENCES,0.862933,pgvector_chapter
+Leviticus.9,Leviticus.4,REFERENCES,0.857088,pgvector_chapter
+Luke.1,Luke.2,REFERENCES,0.872985,pgvector_chapter
+Luke.1,Luke.3,REFERENCES,0.832627,pgvector_chapter
+Luke.10,Matthew.10,REFERENCES,0.843322,pgvector_chapter
+Luke.11,Matthew.12,REFERENCES,0.899931,pgvector_chapter
+Luke.11,Luke.9,REFERENCES,0.838282,pgvector_chapter
+Luke.11,Matthew.11,REFERENCES,0.831086,pgvector_chapter
+Luke.12,Matthew.24,REFERENCES,0.842508,pgvector_chapter
+Luke.13,Matthew.13,REFERENCES,0.845531,pgvector_chapter
+Luke.13,Luke.17,REFERENCES,0.843071,pgvector_chapter
+Luke.13,Luke.6,REFERENCES,0.832509,pgvector_chapter
+Luke.14,Luke.6,REFERENCES,0.843133,pgvector_chapter
+Luke.17,Luke.13,REFERENCES,0.843071,pgvector_chapter
+Luke.17,Luke.9,REFERENCES,0.831123,pgvector_chapter
+Luke.18,Mark.10,REFERENCES,0.873733,pgvector_chapter
+Luke.18,Luke.19,REFERENCES,0.853208,pgvector_chapter
+Luke.18,Matthew.19,REFERENCES,0.837824,pgvector_chapter
+Luke.19,Matthew.21,REFERENCES,0.854526,pgvector_chapter
+Luke.19,Luke.18,REFERENCES,0.853208,pgvector_chapter
+Luke.2,Luke.1,REFERENCES,0.872985,pgvector_chapter
+Luke.2,Matthew.2,REFERENCES,0.847676,pgvector_chapter
+Luke.20,Mark.12,REFERENCES,0.891427,pgvector_chapter
+Luke.20,Matthew.21,REFERENCES,0.867071,pgvector_chapter
+Luke.20,Matthew.22,REFERENCES,0.856691,pgvector_chapter
+Luke.21,Mark.13,REFERENCES,0.879264,pgvector_chapter
+Luke.21,Matthew.24,REFERENCES,0.866348,pgvector_chapter
+Luke.21,Matthew.21,REFERENCES,0.83622,pgvector_chapter
+Luke.22,Matthew.26,REFERENCES,0.932554,pgvector_chapter
+Luke.22,Mark.14,REFERENCES,0.929482,pgvector_chapter
+Luke.22,John.18,REFERENCES,0.888832,pgvector_chapter
+Luke.23,Mark.15,REFERENCES,0.924868,pgvector_chapter
+Luke.23,Matthew.27,REFERENCES,0.92078,pgvector_chapter
+Luke.23,John.19,REFERENCES,0.901503,pgvector_chapter
+Luke.24,John.20,REFERENCES,0.852545,pgvector_chapter
+Luke.24,Luke.23,REFERENCES,0.847623,pgvector_chapter
+Luke.24,Matthew.27,REFERENCES,0.840366,pgvector_chapter
+Luke.3,Matthew.3,REFERENCES,0.858138,pgvector_chapter
+Luke.3,John.1,REFERENCES,0.837971,pgvector_chapter
+Luke.3,Luke.1,REFERENCES,0.832627,pgvector_chapter
+Luke.4,Matthew.4,REFERENCES,0.888141,pgvector_chapter
+Luke.4,Mark.1,REFERENCES,0.864282,pgvector_chapter
+Luke.4,Luke.9,REFERENCES,0.842354,pgvector_chapter
+Luke.5,Mark.2,REFERENCES,0.884586,pgvector_chapter
+Luke.5,Matthew.9,REFERENCES,0.880217,pgvector_chapter
+Luke.5,Luke.7,REFERENCES,0.845841,pgvector_chapter
+Luke.6,Luke.14,REFERENCES,0.843133,pgvector_chapter
+Luke.6,Luke.13,REFERENCES,0.832509,pgvector_chapter
+Luke.6,Matthew.12,REFERENCES,0.83123,pgvector_chapter
+Luke.7,Luke.5,REFERENCES,0.845841,pgvector_chapter
+Luke.7,Matthew.11,REFERENCES,0.837504,pgvector_chapter
+Luke.7,Matthew.9,REFERENCES,0.836587,pgvector_chapter
+Luke.8,Mark.5,REFERENCES,0.884418,pgvector_chapter
+Luke.8,Matthew.13,REFERENCES,0.856108,pgvector_chapter
+Luke.8,Matthew.8,REFERENCES,0.850062,pgvector_chapter
+Luke.9,Mark.9,REFERENCES,0.89095,pgvector_chapter
+Luke.9,Mark.8,REFERENCES,0.875031,pgvector_chapter
+Luke.9,Matthew.17,REFERENCES,0.858678,pgvector_chapter
+Mark.1,Luke.4,REFERENCES,0.864282,pgvector_chapter
+Mark.1,John.1,REFERENCES,0.849634,pgvector_chapter
+Mark.1,Matthew.4,REFERENCES,0.832057,pgvector_chapter
+Mark.10,Matthew.19,REFERENCES,0.884456,pgvector_chapter
+Mark.10,Luke.18,REFERENCES,0.873733,pgvector_chapter
+Mark.10,Luke.9,REFERENCES,0.835229,pgvector_chapter
+Mark.11,Matthew.21,REFERENCES,0.907997,pgvector_chapter
+Mark.12,Matthew.22,REFERENCES,0.891661,pgvector_chapter
+Mark.12,Luke.20,REFERENCES,0.891427,pgvector_chapter
+Mark.13,Matthew.24,REFERENCES,0.921248,pgvector_chapter
+Mark.13,Luke.21,REFERENCES,0.879264,pgvector_chapter
+Mark.14,Matthew.26,REFERENCES,0.964667,pgvector_chapter
+Mark.14,Luke.22,REFERENCES,0.929482,pgvector_chapter
+Mark.14,Matthew.27,REFERENCES,0.879197,pgvector_chapter
+Mark.15,Matthew.27,REFERENCES,0.949035,pgvector_chapter
+Mark.15,John.19,REFERENCES,0.927455,pgvector_chapter
+Mark.15,Luke.23,REFERENCES,0.924868,pgvector_chapter
+Mark.16,John.20,REFERENCES,0.8413,pgvector_chapter
+Mark.2,Luke.5,REFERENCES,0.884586,pgvector_chapter
+Mark.2,Matthew.9,REFERENCES,0.877685,pgvector_chapter
+Mark.3,Matthew.12,REFERENCES,0.888255,pgvector_chapter
+Mark.4,Matthew.13,REFERENCES,0.874739,pgvector_chapter
+Mark.4,Luke.8,REFERENCES,0.843727,pgvector_chapter
+Mark.5,Luke.8,REFERENCES,0.884418,pgvector_chapter
+Mark.5,Matthew.8,REFERENCES,0.830291,pgvector_chapter
+Mark.6,Matthew.14,REFERENCES,0.936623,pgvector_chapter
+Mark.6,Luke.9,REFERENCES,0.842761,pgvector_chapter
+Mark.6,John.6,REFERENCES,0.830988,pgvector_chapter
+Mark.7,Matthew.15,REFERENCES,0.900295,pgvector_chapter
+Mark.8,Luke.9,REFERENCES,0.875031,pgvector_chapter
+Mark.8,Matthew.16,REFERENCES,0.864079,pgvector_chapter
+Mark.8,John.6,REFERENCES,0.836609,pgvector_chapter
+Mark.9,Luke.9,REFERENCES,0.89095,pgvector_chapter
+Mark.9,Matthew.17,REFERENCES,0.845365,pgvector_chapter
+Mark.9,Matthew.12,REFERENCES,0.83514,pgvector_chapter
+Matthew.10,Luke.10,REFERENCES,0.843322,pgvector_chapter
+Matthew.10,Luke.9,REFERENCES,0.83982,pgvector_chapter
+Matthew.11,Luke.7,REFERENCES,0.837504,pgvector_chapter
+Matthew.11,Luke.11,REFERENCES,0.831086,pgvector_chapter
+Matthew.12,Luke.11,REFERENCES,0.899931,pgvector_chapter
+Matthew.12,Mark.3,REFERENCES,0.888255,pgvector_chapter
+Matthew.12,John.12,REFERENCES,0.842568,pgvector_chapter
+Matthew.13,Mark.4,REFERENCES,0.874739,pgvector_chapter
+Matthew.13,Luke.8,REFERENCES,0.856108,pgvector_chapter
+Matthew.13,Luke.13,REFERENCES,0.845531,pgvector_chapter
+Matthew.14,Mark.6,REFERENCES,0.936623,pgvector_chapter
+Matthew.15,Mark.7,REFERENCES,0.900295,pgvector_chapter
+Matthew.15,Matthew.12,REFERENCES,0.831428,pgvector_chapter
+Matthew.16,Mark.8,REFERENCES,0.864079,pgvector_chapter
+Matthew.17,Luke.9,REFERENCES,0.858678,pgvector_chapter
+Matthew.17,Mark.9,REFERENCES,0.845365,pgvector_chapter
+Matthew.19,Mark.10,REFERENCES,0.884456,pgvector_chapter
+Matthew.19,Luke.18,REFERENCES,0.837824,pgvector_chapter
+Matthew.2,Luke.2,REFERENCES,0.847676,pgvector_chapter
+Matthew.20,Matthew.21,REFERENCES,0.837884,pgvector_chapter
+Matthew.20,Luke.20,REFERENCES,0.835779,pgvector_chapter
+Matthew.21,Mark.11,REFERENCES,0.907997,pgvector_chapter
+Matthew.21,Luke.20,REFERENCES,0.867071,pgvector_chapter
+Matthew.21,Luke.19,REFERENCES,0.854526,pgvector_chapter
+Matthew.22,Mark.12,REFERENCES,0.891661,pgvector_chapter
+Matthew.22,Luke.20,REFERENCES,0.856691,pgvector_chapter
+Matthew.24,Mark.13,REFERENCES,0.921248,pgvector_chapter
+Matthew.24,Luke.21,REFERENCES,0.866348,pgvector_chapter
+Matthew.24,Luke.12,REFERENCES,0.842508,pgvector_chapter
+Matthew.26,Mark.14,REFERENCES,0.964667,pgvector_chapter
+Matthew.26,Luke.22,REFERENCES,0.932554,pgvector_chapter
+Matthew.26,Matthew.27,REFERENCES,0.898842,pgvector_chapter
+Matthew.27,Mark.15,REFERENCES,0.949035,pgvector_chapter
+Matthew.27,Luke.23,REFERENCES,0.92078,pgvector_chapter
+Matthew.27,John.19,REFERENCES,0.91536,pgvector_chapter
+Matthew.28,Luke.24,REFERENCES,0.834167,pgvector_chapter
+Matthew.3,Luke.3,REFERENCES,0.858138,pgvector_chapter
+Matthew.4,Luke.4,REFERENCES,0.888141,pgvector_chapter
+Matthew.4,Mark.1,REFERENCES,0.832057,pgvector_chapter
+Matthew.8,Matthew.9,REFERENCES,0.852149,pgvector_chapter
+Matthew.8,Luke.8,REFERENCES,0.850062,pgvector_chapter
+Matthew.8,Luke.9,REFERENCES,0.832662,pgvector_chapter
+Matthew.9,Luke.5,REFERENCES,0.880217,pgvector_chapter
+Matthew.9,Mark.2,REFERENCES,0.877685,pgvector_chapter
+Matthew.9,Matthew.8,REFERENCES,0.852149,pgvector_chapter
+Micah.2,Micah.3,REFERENCES,0.844163,pgvector_chapter
+Micah.2,Micah.7,REFERENCES,0.841727,pgvector_chapter
+Micah.3,Micah.2,REFERENCES,0.844163,pgvector_chapter
+Micah.4,Micah.5,REFERENCES,0.831558,pgvector_chapter
+Micah.5,Micah.4,REFERENCES,0.831558,pgvector_chapter
+Micah.7,Micah.2,REFERENCES,0.841727,pgvector_chapter
+Nehemiah.1,Nehemiah.9,REFERENCES,0.840394,pgvector_chapter
+Nehemiah.1,Nehemiah.2,REFERENCES,0.836724,pgvector_chapter
+Nehemiah.10,Nehemiah.12,REFERENCES,0.88254,pgvector_chapter
+Nehemiah.10,Nehemiah.11,REFERENCES,0.873623,pgvector_chapter
+Nehemiah.10,Nehemiah.7,REFERENCES,0.869978,pgvector_chapter
+Nehemiah.11,Nehemiah.12,REFERENCES,0.915109,pgvector_chapter
+Nehemiah.11,Nehemiah.7,REFERENCES,0.911144,pgvector_chapter
+Nehemiah.11,Ezra.2,REFERENCES,0.889658,pgvector_chapter
+Nehemiah.12,Nehemiah.11,REFERENCES,0.915109,pgvector_chapter
+Nehemiah.12,Nehemiah.7,REFERENCES,0.900923,pgvector_chapter
+Nehemiah.12,Nehemiah.3,REFERENCES,0.889865,pgvector_chapter
+Nehemiah.13,Nehemiah.2,REFERENCES,0.844711,pgvector_chapter
+Nehemiah.13,Nehemiah.5,REFERENCES,0.840345,pgvector_chapter
+Nehemiah.13,Nehemiah.10,REFERENCES,0.832437,pgvector_chapter
+Nehemiah.2,Nehemiah.4,REFERENCES,0.86543,pgvector_chapter
+Nehemiah.2,Nehemiah.6,REFERENCES,0.856206,pgvector_chapter
+Nehemiah.2,Nehemiah.5,REFERENCES,0.852346,pgvector_chapter
+Nehemiah.3,Nehemiah.12,REFERENCES,0.889865,pgvector_chapter
+Nehemiah.3,Nehemiah.7,REFERENCES,0.875062,pgvector_chapter
+Nehemiah.3,Nehemiah.11,REFERENCES,0.874275,pgvector_chapter
+Nehemiah.4,Nehemiah.6,REFERENCES,0.880311,pgvector_chapter
+Nehemiah.4,Nehemiah.2,REFERENCES,0.86543,pgvector_chapter
+Nehemiah.4,Nehemiah.5,REFERENCES,0.832973,pgvector_chapter
+Nehemiah.5,Nehemiah.2,REFERENCES,0.852346,pgvector_chapter
+Nehemiah.5,Nehemiah.13,REFERENCES,0.840345,pgvector_chapter
+Nehemiah.5,Nehemiah.4,REFERENCES,0.832973,pgvector_chapter
+Nehemiah.6,Nehemiah.4,REFERENCES,0.880311,pgvector_chapter
+Nehemiah.6,Nehemiah.2,REFERENCES,0.856206,pgvector_chapter
+Nehemiah.7,Ezra.2,REFERENCES,0.949094,pgvector_chapter
+Nehemiah.7,Nehemiah.11,REFERENCES,0.911144,pgvector_chapter
+Nehemiah.7,Nehemiah.12,REFERENCES,0.900923,pgvector_chapter
+Nehemiah.9,Nehemiah.1,REFERENCES,0.840394,pgvector_chapter
+Nehemiah.9,Deuteronomy.9,REFERENCES,0.839756,pgvector_chapter
+Numbers.1,Numbers.2,REFERENCES,0.927664,pgvector_chapter
+Numbers.1,Numbers.3,REFERENCES,0.907626,pgvector_chapter
+Numbers.1,Numbers.26,REFERENCES,0.901083,pgvector_chapter
+Numbers.10,Numbers.33,REFERENCES,0.854157,pgvector_chapter
+Numbers.10,Numbers.1,REFERENCES,0.850216,pgvector_chapter
+Numbers.10,Numbers.2,REFERENCES,0.8489,pgvector_chapter
+Numbers.11,Exodus.16,REFERENCES,0.845285,pgvector_chapter
+Numbers.11,Numbers.14,REFERENCES,0.842901,pgvector_chapter
+Numbers.11,Numbers.16,REFERENCES,0.837961,pgvector_chapter
+Numbers.13,Numbers.14,REFERENCES,0.85581,pgvector_chapter
+Numbers.13,Deuteronomy.1,REFERENCES,0.85152,pgvector_chapter
+Numbers.13,Numbers.33,REFERENCES,0.845316,pgvector_chapter
+Numbers.14,Deuteronomy.1,REFERENCES,0.885835,pgvector_chapter
+Numbers.14,Numbers.20,REFERENCES,0.857831,pgvector_chapter
+Numbers.14,Numbers.13,REFERENCES,0.85581,pgvector_chapter
+Numbers.15,Numbers.28,REFERENCES,0.838265,pgvector_chapter
+Numbers.15,Numbers.29,REFERENCES,0.83041,pgvector_chapter
+Numbers.16,Numbers.14,REFERENCES,0.851208,pgvector_chapter
+Numbers.16,Numbers.20,REFERENCES,0.845138,pgvector_chapter
+Numbers.16,Numbers.11,REFERENCES,0.837961,pgvector_chapter
+Numbers.18,Numbers.8,REFERENCES,0.854526,pgvector_chapter
+Numbers.18,Numbers.3,REFERENCES,0.849202,pgvector_chapter
+Numbers.18,Deuteronomy.18,REFERENCES,0.837191,pgvector_chapter
+Numbers.19,Leviticus.17,REFERENCES,0.833884,pgvector_chapter
+Numbers.2,Numbers.1,REFERENCES,0.927664,pgvector_chapter
+Numbers.2,Numbers.26,REFERENCES,0.865867,pgvector_chapter
+Numbers.2,Numbers.3,REFERENCES,0.855711,pgvector_chapter
+Numbers.20,Numbers.21,REFERENCES,0.863398,pgvector_chapter
+Numbers.20,Numbers.33,REFERENCES,0.859476,pgvector_chapter
+Numbers.20,Numbers.14,REFERENCES,0.857831,pgvector_chapter
+Numbers.21,Deuteronomy.2,REFERENCES,0.876314,pgvector_chapter
+Numbers.21,Numbers.33,REFERENCES,0.875263,pgvector_chapter
+Numbers.21,Numbers.20,REFERENCES,0.863398,pgvector_chapter
+Numbers.22,Numbers.23,REFERENCES,0.915173,pgvector_chapter
+Numbers.22,Numbers.24,REFERENCES,0.866117,pgvector_chapter
+Numbers.23,Numbers.22,REFERENCES,0.915173,pgvector_chapter
+Numbers.23,Numbers.24,REFERENCES,0.884541,pgvector_chapter
+Numbers.24,Numbers.23,REFERENCES,0.884541,pgvector_chapter
+Numbers.24,Numbers.22,REFERENCES,0.866117,pgvector_chapter
+Numbers.25,Numbers.31,REFERENCES,0.852725,pgvector_chapter
+Numbers.26,Numbers.1,REFERENCES,0.901083,pgvector_chapter
+Numbers.26,Numbers.3,REFERENCES,0.877501,pgvector_chapter
+Numbers.26,1 Chronicles.2,REFERENCES,0.870253,pgvector_chapter
+Numbers.28,Numbers.29,REFERENCES,0.955404,pgvector_chapter
+Numbers.28,Leviticus.23,REFERENCES,0.870994,pgvector_chapter
+Numbers.28,Exodus.29,REFERENCES,0.869308,pgvector_chapter
+Numbers.29,Numbers.28,REFERENCES,0.955404,pgvector_chapter
+Numbers.29,Exodus.29,REFERENCES,0.881745,pgvector_chapter
+Numbers.29,Leviticus.23,REFERENCES,0.861824,pgvector_chapter
+Numbers.3,Numbers.1,REFERENCES,0.907626,pgvector_chapter
+Numbers.3,Numbers.4,REFERENCES,0.883526,pgvector_chapter
+Numbers.3,Numbers.26,REFERENCES,0.877501,pgvector_chapter
+Numbers.31,Numbers.25,REFERENCES,0.852725,pgvector_chapter
+Numbers.31,Numbers.32,REFERENCES,0.847697,pgvector_chapter
+Numbers.31,Numbers.3,REFERENCES,0.837575,pgvector_chapter
+Numbers.32,Numbers.33,REFERENCES,0.884204,pgvector_chapter
+Numbers.32,Joshua.13,REFERENCES,0.878155,pgvector_chapter
+Numbers.32,Deuteronomy.1,REFERENCES,0.868169,pgvector_chapter
+Numbers.33,Numbers.32,REFERENCES,0.884204,pgvector_chapter
+Numbers.33,Numbers.21,REFERENCES,0.875263,pgvector_chapter
+Numbers.33,Deuteronomy.1,REFERENCES,0.873863,pgvector_chapter
+Numbers.34,Numbers.33,REFERENCES,0.862419,pgvector_chapter
+Numbers.34,Numbers.32,REFERENCES,0.850051,pgvector_chapter
+Numbers.34,Joshua.19,REFERENCES,0.840777,pgvector_chapter
+Numbers.35,Deuteronomy.19,REFERENCES,0.860138,pgvector_chapter
+Numbers.35,Joshua.20,REFERENCES,0.831851,pgvector_chapter
+Numbers.4,Numbers.3,REFERENCES,0.883526,pgvector_chapter
+Numbers.4,Numbers.1,REFERENCES,0.84558,pgvector_chapter
+Numbers.7,Numbers.3,REFERENCES,0.871079,pgvector_chapter
+Numbers.7,Numbers.1,REFERENCES,0.849305,pgvector_chapter
+Numbers.7,Numbers.29,REFERENCES,0.83984,pgvector_chapter
+Numbers.8,Leviticus.8,REFERENCES,0.8691,pgvector_chapter
+Numbers.8,Numbers.18,REFERENCES,0.854526,pgvector_chapter
+Numbers.8,Numbers.3,REFERENCES,0.853502,pgvector_chapter
+Obadiah.1,Jeremiah.49,REFERENCES,0.852262,pgvector_chapter
+Philippians.1,Philippians.2,REFERENCES,0.847377,pgvector_chapter
+Philippians.1,Philippians.4,REFERENCES,0.838156,pgvector_chapter
+Philippians.2,Philippians.1,REFERENCES,0.847377,pgvector_chapter
+Philippians.2,Philippians.4,REFERENCES,0.832766,pgvector_chapter
+Philippians.4,Philippians.1,REFERENCES,0.838156,pgvector_chapter
+Philippians.4,Philippians.2,REFERENCES,0.832766,pgvector_chapter
+Proverbs.10,Proverbs.13,REFERENCES,0.883837,pgvector_chapter
+Proverbs.10,Proverbs.15,REFERENCES,0.87467,pgvector_chapter
+Proverbs.10,Proverbs.12,REFERENCES,0.870611,pgvector_chapter
+Proverbs.11,Proverbs.21,REFERENCES,0.863645,pgvector_chapter
+Proverbs.11,Proverbs.14,REFERENCES,0.857073,pgvector_chapter
+Proverbs.11,Proverbs.10,REFERENCES,0.854583,pgvector_chapter
+Proverbs.12,Proverbs.14,REFERENCES,0.882514,pgvector_chapter
+Proverbs.12,Proverbs.15,REFERENCES,0.873117,pgvector_chapter
+Proverbs.12,Proverbs.10,REFERENCES,0.870611,pgvector_chapter
+Proverbs.13,Proverbs.10,REFERENCES,0.883837,pgvector_chapter
+Proverbs.13,Proverbs.12,REFERENCES,0.869058,pgvector_chapter
+Proverbs.13,Proverbs.19,REFERENCES,0.864723,pgvector_chapter
+Proverbs.14,Proverbs.12,REFERENCES,0.882514,pgvector_chapter
+Proverbs.14,Proverbs.21,REFERENCES,0.878375,pgvector_chapter
+Proverbs.14,Proverbs.15,REFERENCES,0.877554,pgvector_chapter
+Proverbs.15,Proverbs.14,REFERENCES,0.877554,pgvector_chapter
+Proverbs.15,Proverbs.10,REFERENCES,0.87467,pgvector_chapter
+Proverbs.15,Proverbs.12,REFERENCES,0.873117,pgvector_chapter
+Proverbs.16,Proverbs.21,REFERENCES,0.87716,pgvector_chapter
+Proverbs.16,Proverbs.12,REFERENCES,0.856895,pgvector_chapter
+Proverbs.16,Proverbs.14,REFERENCES,0.85567,pgvector_chapter
+Proverbs.17,Proverbs.19,REFERENCES,0.859531,pgvector_chapter
+Proverbs.17,Proverbs.18,REFERENCES,0.843953,pgvector_chapter
+Proverbs.17,Proverbs.15,REFERENCES,0.842026,pgvector_chapter
+Proverbs.18,Proverbs.17,REFERENCES,0.843953,pgvector_chapter
+Proverbs.19,Proverbs.22,REFERENCES,0.880597,pgvector_chapter
+Proverbs.19,Proverbs.29,REFERENCES,0.871988,pgvector_chapter
+Proverbs.19,Proverbs.13,REFERENCES,0.864723,pgvector_chapter
+Proverbs.20,Proverbs.19,REFERENCES,0.862694,pgvector_chapter
+Proverbs.20,Proverbs.16,REFERENCES,0.845428,pgvector_chapter
+Proverbs.20,Proverbs.21,REFERENCES,0.844925,pgvector_chapter
+Proverbs.21,Proverbs.14,REFERENCES,0.878375,pgvector_chapter
+Proverbs.21,Proverbs.16,REFERENCES,0.87716,pgvector_chapter
+Proverbs.21,Proverbs.12,REFERENCES,0.870527,pgvector_chapter
+Proverbs.22,Proverbs.19,REFERENCES,0.880597,pgvector_chapter
+Proverbs.22,Proverbs.21,REFERENCES,0.86167,pgvector_chapter
+Proverbs.22,Proverbs.24,REFERENCES,0.857564,pgvector_chapter
+Proverbs.23,Proverbs.24,REFERENCES,0.844839,pgvector_chapter
+Proverbs.23,Proverbs.19,REFERENCES,0.835396,pgvector_chapter
+Proverbs.23,Proverbs.13,REFERENCES,0.833425,pgvector_chapter
+Proverbs.24,Proverbs.14,REFERENCES,0.87113,pgvector_chapter
+Proverbs.24,Proverbs.12,REFERENCES,0.861051,pgvector_chapter
+Proverbs.24,Proverbs.22,REFERENCES,0.857564,pgvector_chapter
+Proverbs.25,Proverbs.27,REFERENCES,0.834497,pgvector_chapter
+Proverbs.27,Proverbs.17,REFERENCES,0.841478,pgvector_chapter
+Proverbs.27,Proverbs.25,REFERENCES,0.834497,pgvector_chapter
+Proverbs.28,Proverbs.29,REFERENCES,0.86273,pgvector_chapter
+Proverbs.28,Proverbs.22,REFERENCES,0.847122,pgvector_chapter
+Proverbs.28,Proverbs.14,REFERENCES,0.839606,pgvector_chapter
+Proverbs.29,Proverbs.19,REFERENCES,0.871988,pgvector_chapter
+Proverbs.29,Proverbs.14,REFERENCES,0.869024,pgvector_chapter
+Proverbs.29,Proverbs.28,REFERENCES,0.86273,pgvector_chapter
+Proverbs.3,Proverbs.8,REFERENCES,0.85922,pgvector_chapter
+Proverbs.3,Proverbs.4,REFERENCES,0.838475,pgvector_chapter
+Proverbs.3,Proverbs.15,REFERENCES,0.833239,pgvector_chapter
+Proverbs.4,Proverbs.3,REFERENCES,0.838475,pgvector_chapter
+Proverbs.5,Proverbs.7,REFERENCES,0.844042,pgvector_chapter
+Proverbs.7,Proverbs.5,REFERENCES,0.844042,pgvector_chapter
+Proverbs.8,Proverbs.3,REFERENCES,0.85922,pgvector_chapter
+Psalm.105,Psalm.106,REFERENCES,0.865763,pgvector_chapter
+Psalm.105,Psalm.107,REFERENCES,0.831485,pgvector_chapter
+Psalm.106,Psalm.105,REFERENCES,0.865763,pgvector_chapter
+Psalm.106,Psalm.107,REFERENCES,0.835149,pgvector_chapter
+Psalm.106,Psalm.78,REFERENCES,0.830016,pgvector_chapter
+Psalm.107,Psalm.106,REFERENCES,0.835149,pgvector_chapter
+Psalm.107,Psalm.105,REFERENCES,0.831485,pgvector_chapter
+Psalm.108,Psalm.60,REFERENCES,0.839412,pgvector_chapter
+Psalm.109,Psalm.69,REFERENCES,0.848446,pgvector_chapter
+Psalm.109,Psalm.35,REFERENCES,0.833232,pgvector_chapter
+Psalm.118,Psalm.18,REFERENCES,0.845149,pgvector_chapter
+Psalm.135,Psalm.136,REFERENCES,0.837754,pgvector_chapter
+Psalm.136,Psalm.135,REFERENCES,0.837754,pgvector_chapter
+Psalm.14,Psalm.53,REFERENCES,0.904795,pgvector_chapter
+Psalm.140,Psalm.141,REFERENCES,0.860131,pgvector_chapter
+Psalm.141,Psalm.140,REFERENCES,0.860131,pgvector_chapter
+Psalm.142,Psalm.143,REFERENCES,0.840181,pgvector_chapter
+Psalm.143,Psalm.142,REFERENCES,0.840181,pgvector_chapter
+Psalm.18,2 Samuel.22,REFERENCES,0.928006,pgvector_chapter
+Psalm.18,Psalm.118,REFERENCES,0.845149,pgvector_chapter
+Psalm.22,Lamentations.3,REFERENCES,0.837117,pgvector_chapter
+Psalm.31,Psalm.35,REFERENCES,0.856552,pgvector_chapter
+Psalm.31,Psalm.71,REFERENCES,0.841064,pgvector_chapter
+Psalm.35,Psalm.31,REFERENCES,0.856552,pgvector_chapter
+Psalm.35,Psalm.55,REFERENCES,0.855316,pgvector_chapter
+Psalm.35,Lamentations.3,REFERENCES,0.833902,pgvector_chapter
+Psalm.53,Psalm.14,REFERENCES,0.904795,pgvector_chapter
+Psalm.55,Psalm.35,REFERENCES,0.855316,pgvector_chapter
+Psalm.55,Psalm.56,REFERENCES,0.838584,pgvector_chapter
+Psalm.56,Psalm.55,REFERENCES,0.838584,pgvector_chapter
+Psalm.60,Psalm.108,REFERENCES,0.839412,pgvector_chapter
+Psalm.69,Psalm.109,REFERENCES,0.848446,pgvector_chapter
+Psalm.69,Lamentations.3,REFERENCES,0.83435,pgvector_chapter
+Psalm.69,Psalm.35,REFERENCES,0.831965,pgvector_chapter
+Psalm.7,Psalm.9,REFERENCES,0.83131,pgvector_chapter
+Psalm.71,Psalm.31,REFERENCES,0.841064,pgvector_chapter
+Psalm.78,Deuteronomy.32,REFERENCES,0.852595,pgvector_chapter
+Psalm.78,Psalm.106,REFERENCES,0.830016,pgvector_chapter
+Psalm.9,Psalm.7,REFERENCES,0.83131,pgvector_chapter
+Psalm.96,Psalm.98,REFERENCES,0.873613,pgvector_chapter
+Psalm.98,Psalm.96,REFERENCES,0.873613,pgvector_chapter
+Revelation.17,Revelation.18,REFERENCES,0.841618,pgvector_chapter
+Revelation.18,Revelation.17,REFERENCES,0.841618,pgvector_chapter
+Revelation.21,Revelation.22,REFERENCES,0.857444,pgvector_chapter
+Revelation.22,Revelation.21,REFERENCES,0.857444,pgvector_chapter
+Romans.11,Romans.9,REFERENCES,0.855096,pgvector_chapter
+Romans.2,Romans.3,REFERENCES,0.86165,pgvector_chapter
+Romans.3,Romans.2,REFERENCES,0.86165,pgvector_chapter
+Romans.9,Romans.11,REFERENCES,0.855096,pgvector_chapter
+Ruth.1,Ruth.2,REFERENCES,0.88823,pgvector_chapter
+Ruth.1,Ruth.3,REFERENCES,0.84061,pgvector_chapter
+Ruth.2,Ruth.3,REFERENCES,0.924223,pgvector_chapter
+Ruth.2,Ruth.1,REFERENCES,0.88823,pgvector_chapter
+Ruth.2,Ruth.4,REFERENCES,0.843081,pgvector_chapter
+Ruth.3,Ruth.2,REFERENCES,0.924223,pgvector_chapter
+Ruth.3,Ruth.1,REFERENCES,0.84061,pgvector_chapter
+Ruth.3,Ruth.4,REFERENCES,0.836957,pgvector_chapter
+Ruth.4,Ruth.2,REFERENCES,0.843081,pgvector_chapter
+Ruth.4,Ruth.3,REFERENCES,0.836957,pgvector_chapter
+Song of Solomon.1,Song of Solomon.4,REFERENCES,0.881854,pgvector_chapter
+Song of Solomon.1,Song of Solomon.5,REFERENCES,0.862857,pgvector_chapter
+Song of Solomon.1,Song of Solomon.7,REFERENCES,0.858656,pgvector_chapter
+Song of Solomon.2,Song of Solomon.4,REFERENCES,0.849497,pgvector_chapter
+Song of Solomon.2,Song of Solomon.1,REFERENCES,0.847912,pgvector_chapter
+Song of Solomon.2,Song of Solomon.7,REFERENCES,0.847351,pgvector_chapter
+Song of Solomon.3,Song of Solomon.1,REFERENCES,0.840373,pgvector_chapter
+Song of Solomon.4,Song of Solomon.1,REFERENCES,0.881854,pgvector_chapter
+Song of Solomon.4,Song of Solomon.7,REFERENCES,0.881107,pgvector_chapter
+Song of Solomon.4,Song of Solomon.8,REFERENCES,0.867831,pgvector_chapter
+Song of Solomon.5,Song of Solomon.1,REFERENCES,0.862857,pgvector_chapter
+Song of Solomon.5,Song of Solomon.4,REFERENCES,0.851501,pgvector_chapter
+Song of Solomon.5,Song of Solomon.8,REFERENCES,0.832615,pgvector_chapter
+Song of Solomon.6,Song of Solomon.4,REFERENCES,0.844068,pgvector_chapter
+Song of Solomon.6,Song of Solomon.1,REFERENCES,0.836966,pgvector_chapter
+Song of Solomon.7,Song of Solomon.4,REFERENCES,0.881107,pgvector_chapter
+Song of Solomon.7,Song of Solomon.1,REFERENCES,0.858656,pgvector_chapter
+Song of Solomon.7,Song of Solomon.2,REFERENCES,0.847351,pgvector_chapter
+Song of Solomon.8,Song of Solomon.4,REFERENCES,0.867831,pgvector_chapter
+Song of Solomon.8,Song of Solomon.1,REFERENCES,0.845178,pgvector_chapter
+Song of Solomon.8,Song of Solomon.7,REFERENCES,0.839736,pgvector_chapter
+Zechariah.1,Zechariah.6,REFERENCES,0.854836,pgvector_chapter
+Zechariah.1,Zechariah.8,REFERENCES,0.834764,pgvector_chapter
+Zechariah.10,Zechariah.9,REFERENCES,0.838695,pgvector_chapter
+Zechariah.12,Zechariah.14,REFERENCES,0.833756,pgvector_chapter
+Zechariah.12,Zechariah.9,REFERENCES,0.833712,pgvector_chapter
+Zechariah.14,Zechariah.8,REFERENCES,0.837454,pgvector_chapter
+Zechariah.14,Zephaniah.1,REFERENCES,0.836222,pgvector_chapter
+Zechariah.14,Zechariah.12,REFERENCES,0.833756,pgvector_chapter
+Zechariah.6,Zechariah.1,REFERENCES,0.854836,pgvector_chapter
+Zechariah.8,Zephaniah.3,REFERENCES,0.856868,pgvector_chapter
+Zechariah.8,Zechariah.14,REFERENCES,0.837454,pgvector_chapter
+Zechariah.8,Zechariah.1,REFERENCES,0.834764,pgvector_chapter
+Zechariah.9,Isaiah.9,REFERENCES,0.84157,pgvector_chapter
+Zechariah.9,Zechariah.10,REFERENCES,0.838695,pgvector_chapter
+Zechariah.9,Zechariah.12,REFERENCES,0.833712,pgvector_chapter
+Zephaniah.1,Zephaniah.2,REFERENCES,0.858398,pgvector_chapter
+Zephaniah.1,Zephaniah.3,REFERENCES,0.843347,pgvector_chapter
+Zephaniah.1,Zechariah.14,REFERENCES,0.836222,pgvector_chapter
+Zephaniah.2,Zephaniah.1,REFERENCES,0.858398,pgvector_chapter
+Zephaniah.2,Zephaniah.3,REFERENCES,0.84414,pgvector_chapter
+Zephaniah.2,Isaiah.10,REFERENCES,0.834321,pgvector_chapter
+Zephaniah.3,Isaiah.33,REFERENCES,0.858256,pgvector_chapter
+Zephaniah.3,Zechariah.8,REFERENCES,0.856868,pgvector_chapter
+Zephaniah.3,Zephaniah.2,REFERENCES,0.84414,pgvector_chapter

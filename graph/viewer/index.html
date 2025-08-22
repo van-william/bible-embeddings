@@ -1,0 +1,62 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Bible Graph Viewer</title>
+    <style>
+      body { font-family: -apple-system, system-ui, sans-serif; margin: 0; display: grid; grid-template-columns: 320px 1fr; height: 100vh; }
+      #controls { padding: 12px; border-right: 1px solid #ddd; overflow: auto; }
+      #cy { width: 100%; height: 100%; }
+      label { display: block; margin-top: 8px; font-weight: 600; }
+      input, select { width: 100%; }
+    </style>
+    <script src="https://unpkg.com/cytoscape@3.28.1/dist/cytoscape.min.js"></script>
+  </head>
+  <body>
+    <div id="controls">
+      <h2>Bible Graph</h2>
+      <div>
+        <label>Relationship types</label>
+        <div>
+          <label><input type="checkbox" id="relQuotes" checked /> QUOTES</label>
+          <label><input type="checkbox" id="relReferences" checked /> REFERENCES</label>
+          <label><input type="checkbox" id="relFulfills" checked /> FULFILLS</label>
+        </div>
+        <label>Min similarity (REFERENCES)</label>
+        <input type="range" id="minScore" min="0.6" max="0.99" step="0.01" value="0.83" />
+        <span id="minScoreValue">0.83</span>
+      </div>
+      <p>Open Neo4j Browser at <a href="http://localhost:7474" target="_blank">http://localhost:7474</a></p>
+      <p>This static viewer expects pre-sampled subgraphs supplied by a small API or saved JSON. Placeholder only.</p>
+    </div>
+    <div id="cy"></div>
+    <script>
+      const cy = cytoscape({ container: document.getElementById('cy'), elements: [], layout: { name: 'cose' }, style: [
+        { selector: 'node', style: { 'label': 'data(label)', 'font-size': 8, 'background-color': '#6baed6' } },
+        { selector: 'edge', style: { 'width': 1, 'line-color': '#bbb', 'target-arrow-color': '#bbb', 'target-arrow-shape': 'triangle' } },
+        { selector: 'edge[type = "QUOTES"]', style: { 'line-color': '#f39c12', 'target-arrow-color': '#f39c12' } },
+        { selector: 'edge[type = "REFERENCES"]', style: { 'line-color': '#7f8c8d', 'target-arrow-color': '#7f8c8d' } },
+        { selector: 'edge[type = "FULFILLS"]', style: { 'line-color': '#27ae60', 'target-arrow-color': '#27ae60', 'width': 2 } }
+      ] });
+
+      // Placeholder: small demo graph
+      const demo = {
+        nodes: [
+          { data: { id: 'Genesis.1.1', label: 'Gen 1:1' } },
+          { data: { id: 'John.1.1', label: 'John 1:1' } },
+        ],
+        edges: [
+          { data: { id: 'e1', source: 'John.1.1', target: 'Genesis.1.1', type: 'REFERENCES', score: 0.9 } },
+        ]
+      }
+      cy.add(demo)
+      cy.layout({ name: 'cose' }).run()
+
+      const minScore = document.getElementById('minScore')
+      const minScoreValue = document.getElementById('minScoreValue')
+      minScore.addEventListener('input', () => { minScoreValue.textContent = minScore.value })
+    </script>
+  </body>
+  </html>
+
+

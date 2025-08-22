@@ -15,6 +15,14 @@ dependencies = [
     "marimo>=0.14.10",
     "plotly>=6.2.0",
     "networkx>=2.8.0",
+    "neo4j>=5.19.0",
+    "rapidfuzz>=3.9.4",
+    "sentence-transformers>=2.7.0",
+    "annoy>=1.17.3",
+    "tqdm>=4.66.4",
+    "openai>=1.40.0",
+    "python-dotenv>=1.0.0",
+    "pg8000>=1.31.2",
 ]
 
 [project.optional-dependencies]
